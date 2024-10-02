@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 OPR/113.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2379" dy="2011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2014" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -138,6 +138,39 @@
         </mxCell>
         <mxCell id="lDnJ9VTTk1TyiTerufDd-12" value="alamat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="50" width="96" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lDnJ9VTTk1TyiTerufDd-15" value="id_pelanggan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="-280" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lDnJ9VTTk1TyiTerufDd-16" value="nama_karyawan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="-300" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lDnJ9VTTk1TyiTerufDd-17" value="jabatan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="-230" width="96" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lDnJ9VTTk1TyiTerufDd-19" value="no_hp" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="-195" width="108" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="lDnJ9VTTk1TyiTerufDd-20" value="alamat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="-165" width="108" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="lDnJ9VTTk1TyiTerufDd-21" value="id_produk" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="470" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lDnJ9VTTk1TyiTerufDd-22" value="nama_produk" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="810" y="535" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lDnJ9VTTk1TyiTerufDd-23" value="stok" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="470" width="96" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lDnJ9VTTk1TyiTerufDd-24" value="id_supplier" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="460" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lDnJ9VTTk1TyiTerufDd-25" value="nama_supplier" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="470" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lDnJ9VTTk1TyiTerufDd-26" value="kontak_supplier" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="353" y="530" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
