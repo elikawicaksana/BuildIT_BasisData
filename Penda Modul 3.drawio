@@ -495,13 +495,13 @@
         <mxCell id="8GcYPjk36ll6uwkBPBZD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="8GcYPjk36ll6uwkBPBZD-1" source="8GcYPjk36ll6uwkBPBZD-20" target="8GcYPjk36ll6uwkBPBZD-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8GcYPjk36ll6uwkBPBZD-20" value="bubbleSort(arr, n)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8GcYPjk36ll6uwkBPBZD-1">
+        <mxCell id="8GcYPjk36ll6uwkBPBZD-20" value="quickSort(arr, 0, n - 1)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8GcYPjk36ll6uwkBPBZD-1">
           <mxGeometry x="100" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8GcYPjk36ll6uwkBPBZD-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="8GcYPjk36ll6uwkBPBZD-1" source="8GcYPjk36ll6uwkBPBZD-22" target="8GcYPjk36ll6uwkBPBZD-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8GcYPjk36ll6uwkBPBZD-22" value="&lt;div&gt;Display&lt;/div&gt;&quot;Sorted array using Bubble Sort: &quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="8GcYPjk36ll6uwkBPBZD-1">
+        <mxCell id="8GcYPjk36ll6uwkBPBZD-22" value="&lt;div&gt;Display&lt;/div&gt;&quot;Sorted array using&amp;nbsp;&lt;div&gt;Quick Sort: &quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="8GcYPjk36ll6uwkBPBZD-1">
           <mxGeometry x="90" y="720" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8GcYPjk36ll6uwkBPBZD-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="8GcYPjk36ll6uwkBPBZD-1" source="8GcYPjk36ll6uwkBPBZD-25" target="8GcYPjk36ll6uwkBPBZD-27">
