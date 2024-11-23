@@ -204,7 +204,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Bubble Sort" id="XdhnnKWHbx0Cxqnl0iQK">
-    <mxGraphModel dx="1009" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1441" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="05KCqZbBhDF9XlWzq1Z9-0" />
         <mxCell id="05KCqZbBhDF9XlWzq1Z9-1" parent="05KCqZbBhDF9XlWzq1Z9-0" />
@@ -337,8 +337,8 @@
         <mxCell id="A8e9yebvgcvkihE96Tty-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="05KCqZbBhDF9XlWzq1Z9-1" source="A8e9yebvgcvkihE96Tty-8" target="A8e9yebvgcvkihE96Tty-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="680" y="545" />
-              <mxPoint x="680" y="1690" />
+              <mxPoint x="670" y="545" />
+              <mxPoint x="670" y="1690" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -395,8 +395,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="1200" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="620" y="1200" />
-              <mxPoint x="620" y="925" />
+              <mxPoint x="630" y="1200" />
+              <mxPoint x="630" y="925" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -423,8 +423,8 @@
         <mxCell id="A8e9yebvgcvkihE96Tty-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="05KCqZbBhDF9XlWzq1Z9-1" source="A8e9yebvgcvkihE96Tty-57" target="A8e9yebvgcvkihE96Tty-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="650" y="1570" />
-              <mxPoint x="650" y="925" />
+              <mxPoint x="630" y="1570" />
+              <mxPoint x="630" y="925" />
             </Array>
           </mxGeometry>
         </mxCell>
