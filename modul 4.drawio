@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="24.9.2">
   <diagram name="Main Menu" id="tcPHKEtXDvl9qhuXrN50">
-    <mxGraphModel dx="1441" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="577" dy="313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,7 +66,7 @@
         <mxCell id="WetBjnq_qkMeuxtk9Dm4-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WetBjnq_qkMeuxtk9Dm4-17" target="WetBjnq_qkMeuxtk9Dm4-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WetBjnq_qkMeuxtk9Dm4-17" value="struct mahasiswa mhs[100],&lt;div&gt;int jumlahMahasiswa;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="WetBjnq_qkMeuxtk9Dm4-17" value="&lt;div&gt;const char *inputFile, *outputFile,&lt;br&gt;&lt;/div&gt;struct mahasiswa mhs[100],&lt;div&gt;int jumlahMahasiswa&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="35" y="190" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WetBjnq_qkMeuxtk9Dm4-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WetBjnq_qkMeuxtk9Dm4-15" target="WetBjnq_qkMeuxtk9Dm4-10">
