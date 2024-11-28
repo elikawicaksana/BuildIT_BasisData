@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="24.9.2">
   <diagram name="Main Menu" id="tcPHKEtXDvl9qhuXrN50">
-    <mxGraphModel dx="577" dy="313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="841" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,6 +71,49 @@
         </mxCell>
         <mxCell id="WetBjnq_qkMeuxtk9Dm4-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WetBjnq_qkMeuxtk9Dm4-15" target="WetBjnq_qkMeuxtk9Dm4-10">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WetBjnq_qkMeuxtk9Dm4-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WetBjnq_qkMeuxtk9Dm4-41" target="WetBjnq_qkMeuxtk9Dm4-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WetBjnq_qkMeuxtk9Dm4-41" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="470" y="100" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WetBjnq_qkMeuxtk9Dm4-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WetBjnq_qkMeuxtk9Dm4-42" target="WetBjnq_qkMeuxtk9Dm4-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WetBjnq_qkMeuxtk9Dm4-42" value="struct&amp;nbsp;mahasiswa mhs[], const char *filename, *file, int count" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="195" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WetBjnq_qkMeuxtk9Dm4-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WetBjnq_qkMeuxtk9Dm4-44" target="WetBjnq_qkMeuxtk9Dm4-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WetBjnq_qkMeuxtk9Dm4-44" value="FILE *file = fopen(filename, &quot;r&quot;)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WetBjnq_qkMeuxtk9Dm4-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WetBjnq_qkMeuxtk9Dm4-46" target="WetBjnq_qkMeuxtk9Dm4-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WetBjnq_qkMeuxtk9Dm4-52" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WetBjnq_qkMeuxtk9Dm4-49">
+          <mxGeometry x="-0.3487" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WetBjnq_qkMeuxtk9Dm4-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WetBjnq_qkMeuxtk9Dm4-46" target="WetBjnq_qkMeuxtk9Dm4-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WetBjnq_qkMeuxtk9Dm4-55" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WetBjnq_qkMeuxtk9Dm4-54">
+          <mxGeometry x="-0.4099" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WetBjnq_qkMeuxtk9Dm4-46" value="!file?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="405" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WetBjnq_qkMeuxtk9Dm4-48" value="Display&lt;div&gt;&quot;File cannot&amp;nbsp;&lt;/div&gt;&lt;div&gt;be opened&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WetBjnq_qkMeuxtk9Dm4-53" value="count = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
