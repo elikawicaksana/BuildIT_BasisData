@@ -801,10 +801,16 @@
     </mxGraphModel>
   </diagram>
   <diagram name="measureTime" id="hPqNtp9NxcYgBL7GbWtn">
-    <mxGraphModel dx="2883" dy="1563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="696" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="N1kx1bqmrtxjf62WLsQX-0" />
         <mxCell id="N1kx1bqmrtxjf62WLsQX-1" parent="N1kx1bqmrtxjf62WLsQX-0" />
+        <mxCell id="2btxQYnkGiEFmwrAWc_j-0" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="N1kx1bqmrtxjf62WLsQX-1">
+          <mxGeometry x="130" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2btxQYnkGiEFmwrAWc_j-1" value="int arr[], int size,&amp;nbsp;&lt;div&gt;const char *sortName, clock_t start&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="N1kx1bqmrtxjf62WLsQX-1">
+          <mxGeometry x="120" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
