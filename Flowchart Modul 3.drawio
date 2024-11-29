@@ -826,6 +826,12 @@
         <mxCell id="2btxQYnkGiEFmwrAWc_j-5" value="Display the time complexity" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="N1kx1bqmrtxjf62WLsQX-1">
           <mxGeometry x="120" y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2btxQYnkGiEFmwrAWc_j-7" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="N1kx1bqmrtxjf62WLsQX-1">
+          <mxGeometry x="130" y="550" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2btxQYnkGiEFmwrAWc_j-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="N1kx1bqmrtxjf62WLsQX-1" source="2btxQYnkGiEFmwrAWc_j-5" target="2btxQYnkGiEFmwrAWc_j-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
