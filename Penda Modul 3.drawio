@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="24.9.0" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="24.9.3" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Insertion Sort">
     <mxGraphModel dx="2242" dy="1216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -447,7 +447,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Quick Sort" id="lDBHReEA4UAQGn0yqudZ">
-    <mxGraphModel dx="2018" dy="1094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1261" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8GcYPjk36ll6uwkBPBZD-0" />
         <mxCell id="8GcYPjk36ll6uwkBPBZD-1" parent="8GcYPjk36ll6uwkBPBZD-0" />
@@ -721,9 +721,6 @@
         <mxCell id="O76TeSN-buMpXJ7Ml85Y-34" value="quickSort(arr,&amp;nbsp;&lt;div&gt;low, pi - 1)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GcYPjk36ll6uwkBPBZD-1" vertex="1">
           <mxGeometry x="770" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O76TeSN-buMpXJ7Ml85Y-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="8GcYPjk36ll6uwkBPBZD-1" source="O76TeSN-buMpXJ7Ml85Y-35" target="O76TeSN-buMpXJ7Ml85Y-34" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="O76TeSN-buMpXJ7Ml85Y-35" value="quickSort(arr,&amp;nbsp;&lt;div&gt;pi + 1, high)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="8GcYPjk36ll6uwkBPBZD-1" vertex="1">
           <mxGeometry x="770" y="720" width="120" height="60" as="geometry" />
         </mxCell>
@@ -746,19 +743,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E78QRil8zRosjryzm0Gw-0" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="8GcYPjk36ll6uwkBPBZD-1">
+        <mxCell id="E78QRil8zRosjryzm0Gw-0" value="" style="endArrow=none;html=1;rounded=0;" parent="8GcYPjk36ll6uwkBPBZD-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="1640" as="sourcePoint" />
             <mxPoint x="470" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E78QRil8zRosjryzm0Gw-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="8GcYPjk36ll6uwkBPBZD-1">
+        <mxCell id="E78QRil8zRosjryzm0Gw-1" value="" style="endArrow=none;html=1;rounded=0;" parent="8GcYPjk36ll6uwkBPBZD-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="1640" as="sourcePoint" />
             <mxPoint x="290" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E78QRil8zRosjryzm0Gw-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="8GcYPjk36ll6uwkBPBZD-1">
+        <mxCell id="E78QRil8zRosjryzm0Gw-2" value="" style="endArrow=none;html=1;rounded=0;" parent="8GcYPjk36ll6uwkBPBZD-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="730" y="1640" as="sourcePoint" />
             <mxPoint x="730" y="150" as="targetPoint" />
