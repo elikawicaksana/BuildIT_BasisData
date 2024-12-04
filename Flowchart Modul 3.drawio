@@ -1099,7 +1099,7 @@
         <mxCell id="H6mn8IwoEF8O8VLmJPBW-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="6XJLi_Dsjo29RvrBDDUC-1">
           <mxGeometry x="120" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H6mn8IwoEF8O8VLmJPBW-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="6XJLi_Dsjo29RvrBDDUC-1">
+        <mxCell id="H6mn8IwoEF8O8VLmJPBW-8" value="no memory&amp;nbsp;&lt;div&gt;was allocated?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="6XJLi_Dsjo29RvrBDDUC-1">
           <mxGeometry x="130" y="540" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
