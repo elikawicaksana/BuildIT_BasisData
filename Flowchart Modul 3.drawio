@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="25.0.1" pages="8">
   <diagram name="Insertion&amp;BubbleSort" id="5ZgE6zbNvka071wBKeSr">
-    <mxGraphModel dx="517" dy="281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2523" dy="1368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="2TdTK5GUky_StFkDzAig-0" />
         <mxCell id="2TdTK5GUky_StFkDzAig-1" parent="2TdTK5GUky_StFkDzAig-0" />
@@ -261,7 +261,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="quickSort" id="nCtWsNOtekj4uL_qQIdq">
-    <mxGraphModel dx="3363" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2018" dy="1094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Dwvil3pzMltV7yOVJKBg-0" />
         <mxCell id="Dwvil3pzMltV7yOVJKBg-1" parent="Dwvil3pzMltV7yOVJKBg-0" />
@@ -443,8 +443,8 @@
         </mxCell>
         <mxCell id="FW1ijfZ1SCoCDVpYfep_-60" value="" style="endArrow=none;html=1;rounded=0;" parent="Dwvil3pzMltV7yOVJKBg-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="1640" as="sourcePoint" />
-            <mxPoint x="730" y="150" as="targetPoint" />
+            <mxPoint x="730" y="1650" as="sourcePoint" />
+            <mxPoint x="730" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FW1ijfZ1SCoCDVpYfep_-62" value="arr[j] = temp" style="rounded=0;whiteSpace=wrap;html=1;" parent="Dwvil3pzMltV7yOVJKBg-1" vertex="1">
@@ -464,8 +464,8 @@
         </mxCell>
         <mxCell id="FW1ijfZ1SCoCDVpYfep_-72" value="" style="endArrow=none;html=1;rounded=0;" parent="Dwvil3pzMltV7yOVJKBg-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="980" y="1640" as="sourcePoint" />
-            <mxPoint x="980" y="150" as="targetPoint" />
+            <mxPoint x="980" y="1650" as="sourcePoint" />
+            <mxPoint x="980" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FW1ijfZ1SCoCDVpYfep_-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="Dwvil3pzMltV7yOVJKBg-1" source="FW1ijfZ1SCoCDVpYfep_-74" target="FW1ijfZ1SCoCDVpYfep_-76" edge="1">
