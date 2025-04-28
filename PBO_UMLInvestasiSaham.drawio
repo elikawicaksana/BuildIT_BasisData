@@ -418,7 +418,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of ERD" id="AYZHzBPNkfuA9zSCATSj">
-    <mxGraphModel dx="589" dy="262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="575" dy="256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="SEwmOGaJplaUvjo-a9aV-0" />
         <mxCell id="SEwmOGaJplaUvjo-a9aV-1" parent="SEwmOGaJplaUvjo-a9aV-0" />
@@ -713,7 +713,7 @@
         <mxCell id="SEwmOGaJplaUvjo-a9aV-134" value="- sellSaham(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="SEwmOGaJplaUvjo-a9aV-127" vertex="1">
           <mxGeometry y="164" width="210" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="SEwmOGaJplaUvjo-a9aV-135" value="-&amp;nbsp;&amp;nbsp;buySBN(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="SEwmOGaJplaUvjo-a9aV-127" vertex="1">
+        <mxCell id="SEwmOGaJplaUvjo-a9aV-135" value="- buySBN(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="SEwmOGaJplaUvjo-a9aV-127" vertex="1">
           <mxGeometry y="190" width="210" height="26" as="geometry" />
         </mxCell>
         <mxCell id="SEwmOGaJplaUvjo-a9aV-136" value="- simulationSBN(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="SEwmOGaJplaUvjo-a9aV-127" vertex="1">
