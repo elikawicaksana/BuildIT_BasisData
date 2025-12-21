@@ -104,9 +104,7 @@
         <mxCell id="q4fOGw96VFc4ErYDa3HX-26" edge="1" parent="1" source="q4fOGw96VFc4ErYDa3HX-1" style="startArrow=none;endArrow=block;exitX=0.442;exitY=-0.027;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="q4fOGw96VFc4ErYDa3HX-12" value="Input Penjualan">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="673" y="200" />
-              <mxPoint x="1096" y="200" />
-              <mxPoint x="1096" y="197" />
+              <mxPoint x="673" y="197" />
             </Array>
             <mxPoint x="750" y="280" as="targetPoint" />
           </mxGeometry>
