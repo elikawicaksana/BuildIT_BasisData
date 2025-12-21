@@ -38,12 +38,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q4fOGw96VFc4ErYDa3HX-16" edge="1" parent="1" source="q4fOGw96VFc4ErYDa3HX-10" style="startArrow=none;endArrow=block;exitX=0;exitY=0.83;rounded=0;edgeStyle=orthogonalEdgeStyle;shape=wire;dashed=1;startFill=0;entryX=0.67;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" target="_epIAt7dQ_7u4Y9Q5Jkt-2" value="Cek Validasi">
-          <mxGeometry relative="1" x="0.0558" as="geometry">
-            <mxPoint as="offset" />
-            <mxPoint x="110" y="670" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="q4fOGw96VFc4ErYDa3HX-17" edge="1" parent="1" source="q4fOGw96VFc4ErYDa3HX-10" style="startArrow=none;endArrow=block;exitX=1;exitY=0.45;entryX=0.5;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" target="q4fOGw96VFc4ErYDa3HX-1" value="Akses Dashboard">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -245,21 +239,6 @@
               <mxPoint x="863" y="1786" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="_epIAt7dQ_7u4Y9Q5Jkt-125" edge="1" parent="1" source="_epIAt7dQ_7u4Y9Q5Jkt-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="q4fOGw96VFc4ErYDa3HX-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="60" y="489" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_epIAt7dQ_7u4Y9Q5Jkt-126" connectable="0" parent="_epIAt7dQ_7u4Y9Q5Jkt-125" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Username &amp;amp; Pass" vertex="1">
-          <mxGeometry relative="1" x="-0.1055" y="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_epIAt7dQ_7u4Y9Q5Jkt-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="KARYAWAN" vertex="1">
-          <mxGeometry height="54" width="128" x="30" y="688.52" as="geometry" />
         </mxCell>
         <mxCell id="_epIAt7dQ_7u4Y9Q5Jkt-86" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" value="PEMBELIAN" vertex="1">
           <mxGeometry height="60" width="120" x="800" y="632" as="geometry" />
