@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0" version="29.2.7">
   <diagram name="Page-1" id="ytx2sk3Guh0-odGsBtAn">
-    <mxGraphModel dx="1349" dy="274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2096" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,10 +47,11 @@
         <mxCell id="q4fOGw96VFc4ErYDa3HX-17" edge="1" parent="1" source="q4fOGw96VFc4ErYDa3HX-10" style="startArrow=none;endArrow=block;exitX=1;exitY=0.45;entryX=0.5;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" target="q4fOGw96VFc4ErYDa3HX-1" value="Akses Dashboard">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q4fOGw96VFc4ErYDa3HX-18" edge="1" parent="1" source="q4fOGw96VFc4ErYDa3HX-10" style="startArrow=none;endArrow=block;exitX=0.581;exitY=0.978;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;exitPerimeter=0;" value="Akses Dashboard">
+        <mxCell id="q4fOGw96VFc4ErYDa3HX-18" edge="1" parent="1" source="q4fOGw96VFc4ErYDa3HX-10" style="startArrow=none;endArrow=block;exitX=0.737;exitY=0.926;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;exitPerimeter=0;" value="Akses Dashboard">
           <mxGeometry relative="1" x="0.3331" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
+              <mxPoint x="220" y="535" />
               <mxPoint x="260" y="535" />
             </Array>
             <mxPoint x="213.2471615175191" y="590.002969105112" as="sourcePoint" />
@@ -100,10 +101,10 @@
         <mxCell id="q4fOGw96VFc4ErYDa3HX-25" edge="1" parent="1" source="q4fOGw96VFc4ErYDa3HX-4" style="startArrow=none;endArrow=block;exitX=0.201;exitY=1.019;entryX=0.065;entryY=0.25;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;entryPerimeter=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="q4fOGw96VFc4ErYDa3HX-12" value="Data Pesanan">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q4fOGw96VFc4ErYDa3HX-26" edge="1" parent="1" source="q4fOGw96VFc4ErYDa3HX-1" style="startArrow=none;endArrow=block;exitX=0.442;exitY=-0.027;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="q4fOGw96VFc4ErYDa3HX-12" value="Input Penjualan">
+        <mxCell id="q4fOGw96VFc4ErYDa3HX-26" edge="1" parent="1" source="q4fOGw96VFc4ErYDa3HX-1" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="q4fOGw96VFc4ErYDa3HX-12" value="Input Penjualan">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="673" y="197" />
+              <mxPoint x="680" y="197" />
             </Array>
             <mxPoint x="750" y="280" as="targetPoint" />
           </mxGeometry>
