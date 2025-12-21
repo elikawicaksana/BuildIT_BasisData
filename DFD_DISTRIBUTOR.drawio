@@ -149,7 +149,7 @@
             <mxPoint x="757" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q4fOGw96VFc4ErYDa3HX-32" edge="1" parent="1" source="_epIAt7dQ_7u4Y9Q5Jkt-86" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.84;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" target="q4fOGw96VFc4ErYDa3HX-13" value="Data Pembelian">
+        <mxCell id="q4fOGw96VFc4ErYDa3HX-32" edge="1" parent="1" source="_epIAt7dQ_7u4Y9Q5Jkt-86" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" target="q4fOGw96VFc4ErYDa3HX-13" value="Data Pembelian">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="872.5" y="699" as="sourcePoint" />
           </mxGeometry>
@@ -243,7 +243,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_epIAt7dQ_7u4Y9Q5Jkt-86" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" value="PEMBELIAN" vertex="1">
-          <mxGeometry height="60" width="120" x="800" y="632" as="geometry" />
+          <mxGeometry height="60" width="120" x="780" y="632" as="geometry" />
         </mxCell>
         <mxCell id="_epIAt7dQ_7u4Y9Q5Jkt-88" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" value="SUPPLIER" vertex="1">
           <mxGeometry height="60" width="120" x="970" y="632" as="geometry" />
