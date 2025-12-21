@@ -95,7 +95,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="864" y="550" />
-              <mxPoint x="1030" y="550" />
+              <mxPoint x="1000" y="550" />
             </Array>
             <mxPoint x="999.7600000000002" y="625" as="targetPoint" />
           </mxGeometry>
@@ -243,10 +243,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_epIAt7dQ_7u4Y9Q5Jkt-86" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" value="PEMBELIAN" vertex="1">
-          <mxGeometry height="60" width="120" x="780" y="632" as="geometry" />
+          <mxGeometry height="60" width="120" x="769" y="632" as="geometry" />
         </mxCell>
         <mxCell id="_epIAt7dQ_7u4Y9Q5Jkt-88" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" value="SUPPLIER" vertex="1">
-          <mxGeometry height="60" width="120" x="970" y="632" as="geometry" />
+          <mxGeometry height="60" width="120" x="940" y="632" as="geometry" />
         </mxCell>
         <mxCell id="_epIAt7dQ_7u4Y9Q5Jkt-89" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" value="BARANG" vertex="1">
           <mxGeometry height="60" width="120" x="1320" y="590" as="geometry" />
