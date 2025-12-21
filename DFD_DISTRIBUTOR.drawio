@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0" version="29.2.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 OPR/124.0.0.0" version="29.2.7" pages="2">
   <diagram name="Page-1" id="ytx2sk3Guh0-odGsBtAn">
     <mxGraphModel dx="1994" dy="1094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -182,6 +182,113 @@
         </mxCell>
         <mxCell id="_epIAt7dQ_7u4Y9Q5Jkt-90" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" value="PENJUALAN" vertex="1">
           <mxGeometry height="60" width="120" x="1400" y="590" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pDi5AUOnNNzr7I74QIyp" name="Page-2">
+    <mxGraphModel dx="997" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4T7s987GMBLAW3qNc5Zo-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ADMIN" vertex="1">
+          <mxGeometry height="54" width="105" x="564" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="4T7s987GMBLAW3qNc5Zo-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="SUPPLIER" vertex="1">
+          <mxGeometry height="54" width="126" x="682" y="591" as="geometry" />
+        </mxCell>
+        <mxCell id="4T7s987GMBLAW3qNc5Zo-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="PIMPINAN" vertex="1">
+          <mxGeometry height="54" width="128" x="248" y="591" as="geometry" />
+        </mxCell>
+        <mxCell id="4T7s987GMBLAW3qNc5Zo-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="PELANGGAN" vertex="1">
+          <mxGeometry height="54" width="147" x="918" y="591" as="geometry" />
+        </mxCell>
+        <mxCell id="4T7s987GMBLAW3qNc5Zo-6" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" value="0.0&#xa;SISTEM INFORMASI&#xa;DISTRIBUTOR" vertex="1">
+          <mxGeometry height="145" width="145" x="521" y="348" as="geometry" />
+        </mxCell>
+        <mxCell id="4T7s987GMBLAW3qNc5Zo-7" edge="1" parent="1" source="4T7s987GMBLAW3qNc5Zo-2" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0;entryY=0.28;rounded=0;" target="4T7s987GMBLAW3qNc5Zo-6" value="Username &amp; Pass">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="348" y="311" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4T7s987GMBLAW3qNc5Zo-8" edge="1" parent="1" source="4T7s987GMBLAW3qNc5Zo-2" style="curved=1;startArrow=none;endArrow=block;exitX=0.14;exitY=1;entryX=0.2;entryY=0;rounded=0;" target="4T7s987GMBLAW3qNc5Zo-6" value="Cek Stok &amp; Input Pembelian">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="528" y="311" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4T7s987GMBLAW3qNc5Zo-9" edge="1" parent="1" source="4T7s987GMBLAW3qNc5Zo-2" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=1;entryX=1;entryY=0;rounded=0;" target="4T7s987GMBLAW3qNc5Zo-6" value="Input Penjualan">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="704" y="311" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4T7s987GMBLAW3qNc5Zo-10" edge="1" parent="1" source="4T7s987GMBLAW3qNc5Zo-6" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.28;entryX=1;entryY=0.78;rounded=0;" target="4T7s987GMBLAW3qNc5Zo-2" value="Akses Dashboard">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="311" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4T7s987GMBLAW3qNc5Zo-11" edge="1" parent="1" source="4T7s987GMBLAW3qNc5Zo-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=0;entryX=0;entryY=0.78;rounded=0;" target="4T7s987GMBLAW3qNc5Zo-6" value="Username &amp; Pass">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="542" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4T7s987GMBLAW3qNc5Zo-12" edge="1" parent="1" source="4T7s987GMBLAW3qNc5Zo-4" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.07;entryX=0.2;entryY=1;rounded=0;" target="4T7s987GMBLAW3qNc5Zo-6" value="Request Laporan">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="542" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4T7s987GMBLAW3qNc5Zo-13" edge="1" parent="1" source="4T7s987GMBLAW3qNc5Zo-6" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.61;entryX=0;entryY=0.19;rounded=0;" target="4T7s987GMBLAW3qNc5Zo-4" value="Akses Dashboard">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="542" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4T7s987GMBLAW3qNc5Zo-14" edge="1" parent="1" source="4T7s987GMBLAW3qNc5Zo-6" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.65;entryX=0.19;entryY=0;rounded=0;" target="4T7s987GMBLAW3qNc5Zo-4" value="Laporan Penjualan &amp; Pembelian">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="199" y="542" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4T7s987GMBLAW3qNc5Zo-15" edge="1" parent="1" source="4T7s987GMBLAW3qNc5Zo-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=0;entryX=1;entryY=0.78;rounded=0;" target="4T7s987GMBLAW3qNc5Zo-6" value="Faktur &amp; Barang">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="813" y="542" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4T7s987GMBLAW3qNc5Zo-16" edge="1" parent="1" source="4T7s987GMBLAW3qNc5Zo-6" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=1;entryX=0.28;entryY=0;rounded=0;" target="4T7s987GMBLAW3qNc5Zo-3" value="Permintaan Barang">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="667" y="542" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4T7s987GMBLAW3qNc5Zo-17" edge="1" parent="1" source="4T7s987GMBLAW3qNc5Zo-5" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=0;entryX=1;entryY=0.63;rounded=0;" target="4T7s987GMBLAW3qNc5Zo-6" value="Data Pesanan">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1047" y="542" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4T7s987GMBLAW3qNc5Zo-18" edge="1" parent="1" source="4T7s987GMBLAW3qNc5Zo-6" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.68;entryX=0.36;entryY=0;rounded=0;" target="4T7s987GMBLAW3qNc5Zo-5" value="Faktur/Nota">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="935" y="542" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
