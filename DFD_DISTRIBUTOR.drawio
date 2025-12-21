@@ -16,7 +16,7 @@
         <mxCell id="q4fOGw96VFc4ErYDa3HX-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="PELANGGAN" vertex="1">
           <mxGeometry height="54" width="147" x="1435" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="q4fOGw96VFc4ErYDa3HX-10" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" value="1.0&#xa;LOGIN &amp;amp;&#xa;VALIDASI" vertex="1">
+        <mxCell id="q4fOGw96VFc4ErYDa3HX-10" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" value="1.0&#xa;LOGIN &amp;&#xa;VALIDASI" vertex="1">
           <mxGeometry height="95" width="95" x="150" y="442" as="geometry" />
         </mxCell>
         <mxCell id="q4fOGw96VFc4ErYDa3HX-11" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" value="2.0&#xa;PENGADAAN&#xa;BARANG" vertex="1">
