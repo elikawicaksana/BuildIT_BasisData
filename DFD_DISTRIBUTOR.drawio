@@ -34,7 +34,7 @@
         <mxCell id="q4fOGw96VFc4ErYDa3HX-15" edge="1" parent="1" source="q4fOGw96VFc4ErYDa3HX-3" style="startArrow=none;endArrow=block;exitX=0.7;exitY=-0.01;entryX=1;entryY=0.78;rounded=0;edgeStyle=orthogonalEdgeStyle;" target="q4fOGw96VFc4ErYDa3HX-10" value="Username &amp; Pass">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="317" y="517" />
+              <mxPoint x="317" y="512" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -48,11 +48,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q4fOGw96VFc4ErYDa3HX-18" edge="1" parent="1" source="q4fOGw96VFc4ErYDa3HX-10" style="startArrow=none;endArrow=block;exitX=0.581;exitY=0.978;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;exitPerimeter=0;" value="Akses Dashboard">
-          <mxGeometry relative="1" x="-0.2587" as="geometry">
+          <mxGeometry relative="1" x="0.3331" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="213" y="650" />
-              <mxPoint x="260" y="650" />
+              <mxPoint x="260" y="535" />
             </Array>
             <mxPoint x="213.2471615175191" y="590.002969105112" as="sourcePoint" />
             <mxPoint x="260" y="690" as="targetPoint" />
@@ -238,6 +237,18 @@
             <Array as="points">
               <mxPoint x="863" y="1786" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_epIAt7dQ_7u4Y9Q5Jkt-125" edge="1" parent="1" source="_epIAt7dQ_7u4Y9Q5Jkt-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="q4fOGw96VFc4ErYDa3HX-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="489" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_epIAt7dQ_7u4Y9Q5Jkt-126" connectable="0" parent="_epIAt7dQ_7u4Y9Q5Jkt-125" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Username &amp;amp; Pass" vertex="1">
+          <mxGeometry relative="1" x="-0.1055" y="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_epIAt7dQ_7u4Y9Q5Jkt-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="KARYAWAN" vertex="1">
