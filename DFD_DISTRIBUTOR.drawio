@@ -114,7 +114,7 @@
             <mxPoint x="838.5699999999997" y="624" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q4fOGw96VFc4ErYDa3HX-24" edge="1" parent="1" source="q4fOGw96VFc4ErYDa3HX-11" style="startArrow=none;endArrow=block;exitX=1;exitY=0.8;entryX=0.25;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" target="_epIAt7dQ_7u4Y9Q5Jkt-88" value="Ambil Data Supplier">
+        <mxCell id="q4fOGw96VFc4ErYDa3HX-24" edge="1" parent="1" source="q4fOGw96VFc4ErYDa3HX-11" style="startArrow=none;endArrow=block;exitX=1;exitY=0.8;entryX=0.25;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" target="_epIAt7dQ_7u4Y9Q5Jkt-88" value="Data Supplier">
           <mxGeometry relative="1" x="-0.2387" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
