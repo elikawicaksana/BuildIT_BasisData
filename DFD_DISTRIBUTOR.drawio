@@ -103,7 +103,7 @@
             <mxPoint x="1320" y="620.24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q4fOGw96VFc4ErYDa3HX-23" edge="1" parent="1" source="q4fOGw96VFc4ErYDa3HX-11" style="startArrow=none;endArrow=block;exitX=0.42;exitY=1;entryX=0.25;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" target="_epIAt7dQ_7u4Y9Q5Jkt-86" value="Simpan Data Beli">
+        <mxCell id="q4fOGw96VFc4ErYDa3HX-23" edge="1" parent="1" source="q4fOGw96VFc4ErYDa3HX-11" style="startArrow=none;endArrow=block;exitX=0.42;exitY=1;entryX=0.25;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" target="_epIAt7dQ_7u4Y9Q5Jkt-86" value="Data Pembelian">
           <mxGeometry relative="1" x="-0.108" y="-1" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
