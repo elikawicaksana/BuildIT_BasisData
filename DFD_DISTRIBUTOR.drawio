@@ -153,8 +153,9 @@
             <mxPoint x="1403" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q4fOGw96VFc4ErYDa3HX-31" edge="1" parent="1" source="q4fOGw96VFc4ErYDa3HX-3" style="startArrow=none;endArrow=block;exitX=0.28;exitY=0.99;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.058;entryY=0.72;entryDx=0;entryDy=0;entryPerimeter=0;" target="q4fOGw96VFc4ErYDa3HX-13" value="Request Laporan">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="q4fOGw96VFc4ErYDa3HX-31" edge="1" parent="1" source="q4fOGw96VFc4ErYDa3HX-3" style="startArrow=none;endArrow=block;exitX=0.28;exitY=0.99;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.058;entryY=0.72;entryDx=0;entryDy=0;entryPerimeter=0;" target="q4fOGw96VFc4ErYDa3HX-13" value="Data Permintaan Laporan">
+          <mxGeometry relative="1" x="-0.0013" as="geometry">
+            <mxPoint as="offset" />
             <Array as="points">
               <mxPoint x="263" y="870" />
               <mxPoint x="757" y="870" />
