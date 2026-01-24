@@ -122,8 +122,10 @@
             <mxPoint x="999.7600000000002" y="625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q4fOGw96VFc4ErYDa3HX-25" edge="1" parent="1" source="q4fOGw96VFc4ErYDa3HX-4" style="startArrow=none;endArrow=block;exitX=0.201;exitY=1.019;entryX=0.065;entryY=0.25;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;entryPerimeter=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="q4fOGw96VFc4ErYDa3HX-12" value="Data Pesanan">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="q4fOGw96VFc4ErYDa3HX-25" edge="1" parent="1" source="q4fOGw96VFc4ErYDa3HX-4" style="startArrow=none;endArrow=block;exitX=0.201;exitY=1.019;entryX=0.065;entryY=0.25;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;entryPerimeter=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="q4fOGw96VFc4ErYDa3HX-12" value="Data Pesanan,&#xa;Data Pelanggan">
+          <mxGeometry relative="1" x="-0.0038" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="q4fOGw96VFc4ErYDa3HX-26" edge="1" parent="1" source="q4fOGw96VFc4ErYDa3HX-1" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="q4fOGw96VFc4ErYDa3HX-12" value="Input Data Penjualan">
           <mxGeometry relative="1" as="geometry">
