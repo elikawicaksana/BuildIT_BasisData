@@ -146,7 +146,7 @@
             <mxPoint x="1270" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q4fOGw96VFc4ErYDa3HX-29" edge="1" parent="1" source="q4fOGw96VFc4ErYDa3HX-12" style="startArrow=none;endArrow=block;exitX=0.96;exitY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_epIAt7dQ_7u4Y9Q5Jkt-90" value="Simpan Data Jual">
+        <mxCell id="q4fOGw96VFc4ErYDa3HX-29" edge="1" parent="1" source="q4fOGw96VFc4ErYDa3HX-12" style="startArrow=none;endArrow=block;exitX=0.96;exitY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_epIAt7dQ_7u4Y9Q5Jkt-90" value="Data Penjualan">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1480" y="560" as="targetPoint" />
           </mxGeometry>
