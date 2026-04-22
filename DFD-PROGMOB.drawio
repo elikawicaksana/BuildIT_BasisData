@@ -127,7 +127,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="l6rP9wS1cMD2u_f-hzZC-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="User" vertex="1">
-          <mxGeometry height="60" width="120" x="80" y="210" as="geometry" />
+          <mxGeometry height="40" width="120" x="110" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="gtWOqWhqGr-cqFsdxWzc-1" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="85" width="200" x="350" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="gtWOqWhqGr-cqFsdxWzc-2" parent="gtWOqWhqGr-cqFsdxWzc-1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#bbdefb;rounded=1;container=0;" value="1.0" vertex="1">
+          <mxGeometry height="80" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gtWOqWhqGr-cqFsdxWzc-3" parent="gtWOqWhqGr-cqFsdxWzc-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" value="&lt;div style=&quot;line-height: 19px; white-space-collapse: preserve;&quot;&gt;Autentikasi Pengguna&lt;/div&gt;&lt;div style=&quot;line-height: 19px; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 19px; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;APLIKASI&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="30" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="gtWOqWhqGr-cqFsdxWzc-4" edge="1" parent="gtWOqWhqGr-cqFsdxWzc-1" source="gtWOqWhqGr-cqFsdxWzc-2" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="gtWOqWhqGr-cqFsdxWzc-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="300" as="sourcePoint" />
+            <mxPoint x="240" y="130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
