@@ -100,7 +100,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qNq31og79sg_BshxUqAj-15" connectable="0" parent="qNq31og79sg_BshxUqAj-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Tampilan Katalog Pakaian" vertex="1">
+        <mxCell id="qNq31og79sg_BshxUqAj-15" connectable="0" parent="qNq31og79sg_BshxUqAj-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Katalog Pakaian" vertex="1">
           <mxGeometry relative="1" x="-0.0723" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -113,7 +113,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qNq31og79sg_BshxUqAj-16" connectable="0" parent="qNq31og79sg_BshxUqAj-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Informasi Detail Pakaian &amp;amp; Data Profil" vertex="1">
+        <mxCell id="qNq31og79sg_BshxUqAj-16" connectable="0" parent="qNq31og79sg_BshxUqAj-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Hasil Pencarian &amp;amp; Filter" vertex="1">
           <mxGeometry relative="1" x="-0.0489" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
