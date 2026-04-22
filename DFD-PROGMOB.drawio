@@ -27,7 +27,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qNq31og79sg_BshxUqAj-18" connectable="0" parent="qNq31og79sg_BshxUqAj-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Konfirmasi CRUD" vertex="1">
+        <mxCell id="qNq31og79sg_BshxUqAj-18" connectable="0" parent="qNq31og79sg_BshxUqAj-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Konfirmasi Operasi CRUD" vertex="1">
           <mxGeometry relative="1" x="-0.1224" y="-1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
