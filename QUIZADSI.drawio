@@ -1,9 +1,473 @@
-<mxfile host="app.diagrams.net">
+<mxfile host="app.diagrams.net" pages="2">
   <diagram name="Page-1" id="0hvyUV0TaPLxVRKSsnOJ">
-    <mxGraphModel>
+    <mxGraphModel dx="4604" dy="2516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="b40ZAlmBnZ0DUg3YCV4f-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Staf Unit" vertex="1">
+          <mxGeometry height="54" width="123" x="630" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="b40ZAlmBnZ0DUg3YCV4f-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Head Unit" vertex="1">
+          <mxGeometry height="54" width="131" x="28" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="b40ZAlmBnZ0DUg3YCV4f-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Staf Gudang" vertex="1">
+          <mxGeometry height="54" width="147" x="1110" y="118" as="geometry" />
+        </mxCell>
+        <mxCell id="b40ZAlmBnZ0DUg3YCV4f-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Head Gudang" vertex="1">
+          <mxGeometry height="54" width="155" x="346" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="b40ZAlmBnZ0DUg3YCV4f-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Staf Purchasing" vertex="1">
+          <mxGeometry height="54" width="170" x="728" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="b40ZAlmBnZ0DUg3YCV4f-6" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Head Purchasing" vertex="1">
+          <mxGeometry height="54" width="178" x="998" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="b40ZAlmBnZ0DUg3YCV4f-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Supplier" vertex="1">
+          <mxGeometry height="54" width="119" x="1360" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="b40ZAlmBnZ0DUg3YCV4f-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Manajemen" vertex="1">
+          <mxGeometry height="54" width="142" x="1695" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="b40ZAlmBnZ0DUg3YCV4f-9" parent="1" style="ellipse;shape=doubleEllipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Sistem Inventory &#xa; &amp; Purchasing" vertex="1">
+          <mxGeometry height="225" width="225" x="764" y="172" as="geometry" />
+        </mxCell>
+        <mxCell id="b40ZAlmBnZ0DUg3YCV4f-10" edge="1" parent="1" source="b40ZAlmBnZ0DUg3YCV4f-1" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.04;rounded=0;" target="b40ZAlmBnZ0DUg3YCV4f-9" value="Data Pengajuan SR">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="701" y="123" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b40ZAlmBnZ0DUg3YCV4f-11" edge="1" parent="1" source="b40ZAlmBnZ0DUg3YCV4f-2" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=0;entryX=0;entryY=0.61;rounded=0;" target="b40ZAlmBnZ0DUg3YCV4f-9" value="Approval SR">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="168" y="446" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b40ZAlmBnZ0DUg3YCV4f-12" edge="1" parent="1" source="b40ZAlmBnZ0DUg3YCV4f-3" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.959;entryY=0.299;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" target="b40ZAlmBnZ0DUg3YCV4f-9" value="Data Eksekusi DR, PR, &#xa; Receiving, Retur, SO">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b40ZAlmBnZ0DUg3YCV4f-13" edge="1" parent="1" source="b40ZAlmBnZ0DUg3YCV4f-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=0;entryX=0;entryY=0.75;rounded=0;" target="b40ZAlmBnZ0DUg3YCV4f-9" value="Approval DR, PR, &#xa; Retur, SO">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="446" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b40ZAlmBnZ0DUg3YCV4f-14" edge="1" parent="1" source="b40ZAlmBnZ0DUg3YCV4f-5" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=0;entryX=0.5;entryY=1;rounded=0;" target="b40ZAlmBnZ0DUg3YCV4f-9" value="Data PO">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="877" y="446" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b40ZAlmBnZ0DUg3YCV4f-15" edge="1" parent="1" source="b40ZAlmBnZ0DUg3YCV4f-6" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=0;entryX=1;entryY=0.78;rounded=0;" target="b40ZAlmBnZ0DUg3YCV4f-9" value="Approval PO">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1162" y="446" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b40ZAlmBnZ0DUg3YCV4f-16" edge="1" parent="1" source="b40ZAlmBnZ0DUg3YCV4f-7" style="curved=1;startArrow=none;endArrow=block;exitX=0.88;exitY=0;entryX=1;entryY=0.62;rounded=0;" target="b40ZAlmBnZ0DUg3YCV4f-9" value="Faktur, Barang, Terima Retur">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1546" y="446" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b40ZAlmBnZ0DUg3YCV4f-17" edge="1" parent="1" source="b40ZAlmBnZ0DUg3YCV4f-9" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.04;entryX=1;entryY=0.75;rounded=0;" target="b40ZAlmBnZ0DUg3YCV4f-1" value="Dokumen DR">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1053" y="123" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b40ZAlmBnZ0DUg3YCV4f-18" edge="1" parent="1" source="b40ZAlmBnZ0DUg3YCV4f-9" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.59;entryX=0.3;entryY=0;rounded=0;" target="b40ZAlmBnZ0DUg3YCV4f-2" value="Permintaan Approval SR">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="446" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b40ZAlmBnZ0DUg3YCV4f-19" edge="1" parent="1" source="b40ZAlmBnZ0DUg3YCV4f-9" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.65;entryX=0.29;entryY=0;rounded=0;" target="b40ZAlmBnZ0DUg3YCV4f-4" value="Permintaan Approval DR, PR, &#xa; Retur, SO">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="446" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b40ZAlmBnZ0DUg3YCV4f-20" edge="1" parent="1" source="b40ZAlmBnZ0DUg3YCV4f-9" style="curved=1;startArrow=none;endArrow=block;exitX=0.11;exitY=1;entryX=0.37;entryY=0;rounded=0;" target="b40ZAlmBnZ0DUg3YCV4f-5" value="Dokumen PR Disetujui">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="749" y="446" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b40ZAlmBnZ0DUg3YCV4f-21" edge="1" parent="1" source="b40ZAlmBnZ0DUg3YCV4f-9" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=1;entryX=0.35;entryY=0;rounded=0;" target="b40ZAlmBnZ0DUg3YCV4f-6" value="Permintaan Approval PO">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1012" y="446" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b40ZAlmBnZ0DUg3YCV4f-22" edge="1" parent="1" source="b40ZAlmBnZ0DUg3YCV4f-9" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.68;entryX=0.22;entryY=0;rounded=0;" target="b40ZAlmBnZ0DUg3YCV4f-7" value="Dokumen PO, Dokumen Retur">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1326" y="446" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b40ZAlmBnZ0DUg3YCV4f-23" edge="1" parent="1" source="b40ZAlmBnZ0DUg3YCV4f-9" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0.5;entryY=0;rounded=0;" target="b40ZAlmBnZ0DUg3YCV4f-8" value="Laporan Inventory &amp; Purchasing">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1766" y="446" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="OCfqSR46TqB8_Ye-d9Xh" name="Page-2">
+    <mxGraphModel dx="2302" dy="1258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Staf Unit" vertex="1">
+          <mxGeometry height="54" width="123" x="2390" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Head Unit" vertex="1">
+          <mxGeometry height="54" width="131" x="357" y="731" as="geometry" />
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Staf Gudang" vertex="1">
+          <mxGeometry height="54" width="147" x="538" y="731" as="geometry" />
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Head Gudang" vertex="1">
+          <mxGeometry height="54" width="155" x="1898" y="1172" as="geometry" />
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Staf Purchasing" vertex="1">
+          <mxGeometry height="54" width="170" x="369" y="1172" as="geometry" />
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-6" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Head Purchasing" vertex="1">
+          <mxGeometry height="54" width="178" x="1223" y="1614" as="geometry" />
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Supplier" vertex="1">
+          <mxGeometry height="54" width="119" x="1486" y="1614" as="geometry" />
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Manajemen" vertex="1">
+          <mxGeometry height="54" width="142" x="1523" y="2420" as="geometry" />
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-9" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="D1: Master Data &amp; Profil" vertex="1">
+          <mxGeometry height="84" width="188" x="228" y="1599" as="geometry" />
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-10" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="D2: Distribusi Internal" vertex="1">
+          <mxGeometry height="82" width="172" x="2225" y="717" as="geometry" />
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-11" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="D3: Pengadaan Barang" vertex="1">
+          <mxGeometry height="83" width="174" x="998" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-12" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="D4: Transaksi Fisik" vertex="1">
+          <mxGeometry height="79" width="145" x="1793" y="2050" as="geometry" />
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-13" parent="1" style="ellipse;shape=doubleEllipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="1.0 &#xa; Kelola Store &#xa; Requisition" vertex="1">
+          <mxGeometry height="225" width="225" x="1197" y="418" as="geometry" />
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-14" parent="1" style="ellipse;shape=doubleEllipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="2.0 &#xa; Kelola Delivery &#xa; Requisition" vertex="1">
+          <mxGeometry height="225" width="225" x="1863" y="873" as="geometry" />
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-15" parent="1" style="ellipse;shape=doubleEllipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="3.0 &#xa; Kelola PR &#xa; &amp; PO" vertex="1">
+          <mxGeometry height="199" width="199" x="1097" y="1314" as="geometry" />
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-16" parent="1" style="ellipse;shape=doubleEllipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="4.0 &#xa; Pemeliharaan &#xa; Profil &amp; Master" vertex="1">
+          <mxGeometry height="225" width="225" x="210" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-17" parent="1" style="ellipse;shape=doubleEllipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="5.0 &#xa; Receiving &#xa; &amp; Retur" vertex="1">
+          <mxGeometry height="218" width="218" x="1483" y="1757" as="geometry" />
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-18" parent="1" style="ellipse;shape=doubleEllipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="6.0 &#xa; Stok &#xa; Opname" vertex="1">
+          <mxGeometry height="185" width="185" x="1832" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-19" parent="1" style="ellipse;shape=doubleEllipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="7.0 &#xa; Pelaporan" vertex="1">
+          <mxGeometry height="143" width="143" x="1523" y="2203" as="geometry" />
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-20" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-3" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=0.31;entryY=0;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-16" value="Input Data Master &amp; Profil">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="265" y="836" />
+              <mxPoint x="265" y="1263" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-21" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-5" style="curved=1;startArrow=none;endArrow=block;exitX=0.32;exitY=1.01;entryX=0.7;entryY=0;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-16" value="Input Data Master &amp; Profil">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="382" y="1263" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-22" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-16" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=1;entryX=0.21;entryY=0;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-9" value="Memperbarui Data Profil">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="1562" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-23" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-9" style="curved=1;startArrow=none;endArrow=block;exitX=0.93;exitY=0;entryX=1;entryY=1;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-16" value="Mengembalikan Data Profil">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="473" y="1562" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-24" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-1" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.56;entryX=0.5;entryY=0;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-13" value="Input Pengajuan SR">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1310" y="381" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-25" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-13" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.34;entryY=0;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-2" value="Permintaan Approval SR">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="361" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-26" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-2" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.46;entryX=1;entryY=0.57;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-13" value="Approval SR">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2445" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-27" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-13" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.68;entryX=0;entryY=0.36;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-10" value="Simpan SR Disetujui">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1733" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-28" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-10" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=0.5;entryY=0;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-14" value="Baca Data SR">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1975" y="836" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-29" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=1;entryX=0;entryY=0.45;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-14" value="Input Eksekusi DR">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="423" y="836" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-30" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-14" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.62;entryX=0;entryY=0.36;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-4" value="Permintaan Approval DR">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1365" y="1135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-31" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-4" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.1;entryX=1;entryY=0.83;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-14" value="Approval DR">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2201" y="1135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-32" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-14" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.37;entryX=1;entryY=0.89;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-10" value="Simpan DR">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2522" y="836" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-33" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-14" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.38;entryX=0.95;entryY=1;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-1" value="Kirim Dokumen DR">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2583" y="836" />
+              <mxPoint x="2583" y="381" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-34" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.37;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-15" value="Input Pengajuan PR">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="611" y="1263" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-35" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-15" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.41;entryX=0.77;entryY=1.01;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-4" value="Permintaan Approval PR">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2074" y="1263" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-36" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-4" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.5;entryY=0;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-15" value="Approval PR">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1196" y="1263" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-37" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-15" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.69;entryX=0;entryY=0.2;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-11" value="Simpan PR">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="804" y="1562" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-38" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-11" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.25;entryX=1;entryY=0.84;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-15" value="Baca PR Disetujui">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1415" y="1562" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-39" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-5" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=1.01;entryX=0;entryY=0.39;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-15" value="Input PO">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="526" y="1263" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-40" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-15" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.87;entryX=0;entryY=0.09;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-6" value="Permintaan Approval PO">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="997" y="1562" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-41" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-6" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.03;entryX=1;entryY=0.69;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-15" value="Approval PO">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1584" y="1562" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-42" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-15" style="curved=1;startArrow=none;endArrow=block;exitX=0.32;exitY=1;entryX=0.67;entryY=0;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-11" value="Simpan PO">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1142" y="1562" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-43" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-15" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=1;entryX=0;entryY=0.2;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-7" value="Kirim Dokumen PO">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1266" y="1562" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-44" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-7" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=1.01;entryX=0;entryY=0.14;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-17" value="Faktur Kirim / Terima Retur">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1393" y="1720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-45" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-3" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=1;entryX=0;entryY=0.42;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-17" value="Input Receiving / Retur">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="715" y="836" />
+              <mxPoint x="715" y="1720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-46" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-17" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.38;entryX=1;entryY=0.96;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-4" value="Permintaan Approval Retur">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2179" y="1720" />
+              <mxPoint x="2179" y="1263" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-47" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-4" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=1;entryY=0.13;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-17" value="Approval Retur">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1789" y="1263" />
+              <mxPoint x="1789" y="1720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-48" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-17" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.24;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-12" value="Update Transaksi Fisik">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1592" y="2013" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-49" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-17" style="curved=1;startArrow=none;endArrow=block;exitX=0.88;exitY=0;entryX=0.95;entryY=1.01;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-7" value="Dokumen Retur">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1704" y="1720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-50" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-3" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0;entryY=0.41;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-18" value="Input Data SO">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1078" y="836" />
+              <mxPoint x="1078" y="1263" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-51" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-18" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.29;entryX=1;entryY=0.8;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-4" value="Permintaan Approval SO">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2285" y="1263" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-52" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-4" style="curved=1;startArrow=none;endArrow=block;exitX=0.36;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-18" value="Approval SO">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1925" y="1263" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-53" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-18" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.71;entryY=0;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-12" value="Update Rekap Fisik">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1925" y="2013" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-54" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-9" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.46;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-19" value="Ekstraksi Data">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="322" y="2166" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-55" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-10" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=1;entryY=0.43;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-19" value="Ekstraksi Data">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2391" y="836" />
+              <mxPoint x="2391" y="2166" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-56" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-11" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.39;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-19" value="Ekstraksi Data">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1085" y="2166" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-57" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-12" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.3;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-19" value="Ekstraksi Data">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1865" y="2166" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ve44Mr-GA5GwhIylwHDu-58" edge="1" parent="1" source="Ve44Mr-GA5GwhIylwHDu-19" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="Ve44Mr-GA5GwhIylwHDu-8" value="Distribusi Laporan">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
