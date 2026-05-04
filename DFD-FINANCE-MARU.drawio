@@ -677,7 +677,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Page-1" id="Ap9Hj9My8QMkqS5MiVMU">
-    <mxGraphModel dx="1644" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="85elZYfBMVc4IVQyrIP0-0" />
         <mxCell id="85elZYfBMVc4IVQyrIP0-1" parent="85elZYfBMVc4IVQyrIP0-0" />
@@ -1370,6 +1370,12 @@
         <mxCell id="jmtxGthoJCo1-1TTJgZw-79" parent="jmtxGthoJCo1-1TTJgZw-77" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Data Hutang" vertex="1">
           <mxGeometry height="30" width="80" x="40" y="5" as="geometry" />
         </mxCell>
+        <mxCell id="jmtxGthoJCo1-1TTJgZw-103" edge="1" parent="jmtxGthoJCo1-1TTJgZw-77" style="endArrow=none;html=1;rounded=0;entryX=0.216;entryY=0.032;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="35" y="40" as="sourcePoint" />
+            <mxPoint x="35.17000000000007" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jmtxGthoJCo1-1TTJgZw-80" connectable="0" parent="85elZYfBMVc4IVQyrIP0-1" style="group;align=left;" value="" vertex="1">
           <mxGeometry height="40" width="170" x="1000" y="2110" as="geometry" />
         </mxCell>
@@ -1378,6 +1384,12 @@
         </mxCell>
         <mxCell id="jmtxGthoJCo1-1TTJgZw-82" parent="jmtxGthoJCo1-1TTJgZw-80" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Data Gaji Karyawan" vertex="1">
           <mxGeometry height="30" width="120" x="40" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="jmtxGthoJCo1-1TTJgZw-101" edge="1" parent="jmtxGthoJCo1-1TTJgZw-80" style="endArrow=none;html=1;rounded=0;entryX=0.216;entryY=0.032;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="35" y="40" as="sourcePoint" />
+            <mxPoint x="35.17000000000007" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jmtxGthoJCo1-1TTJgZw-83" connectable="0" parent="85elZYfBMVc4IVQyrIP0-1" style="group" value="" vertex="1">
           <mxGeometry height="40" width="170" x="1000" y="2250" as="geometry" />
@@ -1472,6 +1484,18 @@
         <mxCell id="jmtxGthoJCo1-1TTJgZw-97" connectable="0" parent="jmtxGthoJCo1-1TTJgZw-96" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Saldo Kas" vertex="1">
           <mxGeometry relative="1" x="-0.335" y="-3" as="geometry">
             <mxPoint y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmtxGthoJCo1-1TTJgZw-104" edge="1" parent="85elZYfBMVc4IVQyrIP0-1" style="endArrow=none;html=1;rounded=0;entryX=0.216;entryY=0.032;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1035" y="2290" as="sourcePoint" />
+            <mxPoint x="1035.17" y="2250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmtxGthoJCo1-1TTJgZw-105" edge="1" parent="85elZYfBMVc4IVQyrIP0-1" style="endArrow=none;html=1;rounded=0;entryX=0.216;entryY=0.032;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1035" y="2370" as="sourcePoint" />
+            <mxPoint x="1035.17" y="2330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
