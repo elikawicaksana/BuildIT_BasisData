@@ -677,7 +677,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Page-1" id="Ap9Hj9My8QMkqS5MiVMU">
-    <mxGraphModel dx="767" dy="-681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1096" dy="-501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="85elZYfBMVc4IVQyrIP0-0" />
         <mxCell id="85elZYfBMVc4IVQyrIP0-1" parent="85elZYfBMVc4IVQyrIP0-0" />
@@ -1314,21 +1314,6 @@
         <mxCell id="crlrPEY0UCoyn62FDLZ2-9" connectable="0" parent="crlrPEY0UCoyn62FDLZ2-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Voucher Tamu" vertex="1">
           <mxGeometry relative="1" x="-0.1698" y="4" as="geometry">
             <mxPoint x="-11" y="3" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="crlrPEY0UCoyn62FDLZ2-2" edge="1" parent="85elZYfBMVc4IVQyrIP0-1" source="OcJOMsZBVnyyK0VEE1TF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.387;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;jumpStyle=arc;" target="85elZYfBMVc4IVQyrIP0-65">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="660" y="1280" />
-              <mxPoint x="580" y="1280" />
-              <mxPoint x="580" y="1540" />
-              <mxPoint x="693" y="1540" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="crlrPEY0UCoyn62FDLZ2-3" connectable="0" parent="crlrPEY0UCoyn62FDLZ2-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Pengeluaran Uang" vertex="1">
-          <mxGeometry relative="1" x="-0.2602" y="-3" as="geometry">
-            <mxPoint x="3" y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="crlrPEY0UCoyn62FDLZ2-12" connectable="0" parent="85elZYfBMVc4IVQyrIP0-1" style="group" value="" vertex="1">
