@@ -1019,7 +1019,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jmtxGthoJCo1-1TTJgZw-58" connectable="0" parent="jmtxGthoJCo1-1TTJgZw-37" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Distribusi Penggajian" vertex="1">
+        <mxCell id="jmtxGthoJCo1-1TTJgZw-58" connectable="0" parent="jmtxGthoJCo1-1TTJgZw-37" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Slip Gaji" vertex="1">
           <mxGeometry relative="1" x="0.2357" as="geometry">
             <mxPoint x="-18" as="offset" />
           </mxGeometry>
