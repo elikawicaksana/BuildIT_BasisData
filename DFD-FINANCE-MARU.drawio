@@ -1459,6 +1459,14 @@
             <mxPoint x="35.17000000000007" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="crlrPEY0UCoyn62FDLZ2-62" edge="1" parent="85elZYfBMVc4IVQyrIP0-1" source="crlrPEY0UCoyn62FDLZ2-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="85elZYfBMVc4IVQyrIP0-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="crlrPEY0UCoyn62FDLZ2-63" connectable="0" parent="crlrPEY0UCoyn62FDLZ2-62" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Rekonsiliasi Setoran Kasir" vertex="1">
+          <mxGeometry relative="1" x="-0.182" y="-5" as="geometry">
+            <mxPoint y="-48" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
