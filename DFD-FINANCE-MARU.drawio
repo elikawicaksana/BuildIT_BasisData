@@ -677,7 +677,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Page-1" id="Ap9Hj9My8QMkqS5MiVMU">
-    <mxGraphModel dx="921" dy="-597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1644" dy="-201" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="85elZYfBMVc4IVQyrIP0-0" />
         <mxCell id="85elZYfBMVc4IVQyrIP0-1" parent="85elZYfBMVc4IVQyrIP0-0" />
@@ -1442,7 +1442,7 @@
             <mxPoint x="-210" y="-130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="crlrPEY0UCoyn62FDLZ2-61" connectable="0" parent="crlrPEY0UCoyn62FDLZ2-58" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Rekonsiliasi Setoran Kasir" vertex="1">
+        <mxCell id="crlrPEY0UCoyn62FDLZ2-61" connectable="0" parent="crlrPEY0UCoyn62FDLZ2-58" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Riwayat Penerimaan Kas" vertex="1">
           <mxGeometry relative="1" x="-0.3403" y="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
