@@ -677,7 +677,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Page-1" id="Ap9Hj9My8QMkqS5MiVMU">
-    <mxGraphModel dx="1644" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="959" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="85elZYfBMVc4IVQyrIP0-0" />
         <mxCell id="85elZYfBMVc4IVQyrIP0-1" parent="85elZYfBMVc4IVQyrIP0-0" />
@@ -1151,7 +1151,7 @@
             <mxPoint x="-7" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jmtxGthoJCo1-1TTJgZw-9" edge="1" parent="85elZYfBMVc4IVQyrIP0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.167;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;entryPerimeter=0;" target="85elZYfBMVc4IVQyrIP0-65" value="Approval PR Status Pembayaran&amp;nbsp;&lt;div&gt;Bukti Pembayaran&lt;/div&gt;">
+        <mxCell id="jmtxGthoJCo1-1TTJgZw-9" edge="1" parent="85elZYfBMVc4IVQyrIP0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.167;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;entryPerimeter=0;" target="85elZYfBMVc4IVQyrIP0-65" value="Approval PR Status Pembayaran,&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Bukti Pembayaran&lt;/span&gt;&lt;/div&gt;">
           <mxGeometry relative="1" x="0.2587" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
