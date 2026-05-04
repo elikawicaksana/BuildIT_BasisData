@@ -985,7 +985,7 @@
             <mxPoint x="710" y="1700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jmtxGthoJCo1-1TTJgZw-63" connectable="0" parent="jmtxGthoJCo1-1TTJgZw-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Konfirmasi Pembayaran" vertex="1">
+        <mxCell id="jmtxGthoJCo1-1TTJgZw-63" connectable="0" parent="jmtxGthoJCo1-1TTJgZw-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Konfirmasi Pembayaran Vendor" vertex="1">
           <mxGeometry relative="1" x="0.4708" y="3" as="geometry">
             <mxPoint x="112" y="-4" as="offset" />
           </mxGeometry>
