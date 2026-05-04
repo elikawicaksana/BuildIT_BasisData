@@ -1371,7 +1371,7 @@
         <mxCell id="crlrPEY0UCoyn62FDLZ2-31" edge="1" parent="85elZYfBMVc4IVQyrIP0-1" source="OcJOMsZBVnyyK0VEE1TF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="crlrPEY0UCoyn62FDLZ2-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="crlrPEY0UCoyn62FDLZ2-32" connectable="0" parent="crlrPEY0UCoyn62FDLZ2-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Transaksi Terkonsiliasi" vertex="1">
+        <mxCell id="crlrPEY0UCoyn62FDLZ2-32" connectable="0" parent="crlrPEY0UCoyn62FDLZ2-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Transaksi Terekonsiliasi" vertex="1">
           <mxGeometry relative="1" x="-0.1986" as="geometry">
             <mxPoint x="16" as="offset" />
           </mxGeometry>
