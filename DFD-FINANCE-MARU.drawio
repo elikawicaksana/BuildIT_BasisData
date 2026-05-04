@@ -677,7 +677,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Page-1" id="Ap9Hj9My8QMkqS5MiVMU">
-    <mxGraphModel dx="1644" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="959" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="85elZYfBMVc4IVQyrIP0-0" />
         <mxCell id="85elZYfBMVc4IVQyrIP0-1" parent="85elZYfBMVc4IVQyrIP0-0" />
@@ -836,33 +836,6 @@
         </mxCell>
         <mxCell id="85elZYfBMVc4IVQyrIP0-74" parent="85elZYfBMVc4IVQyrIP0-72" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" value="Sales &amp;amp; Marketing" vertex="1">
           <mxGeometry height="30" width="120" y="5" as="geometry" />
-        </mxCell>
-        <mxCell id="85elZYfBMVc4IVQyrIP0-79" connectable="0" parent="85elZYfBMVc4IVQyrIP0-1" style="group;swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;container=0;strokeSides=13;top=1;left=1;bottom=1;right=0;" value="" vertex="1">
-          <mxGeometry height="40" width="180" x="1735" y="2300" as="geometry" />
-        </mxCell>
-        <mxCell id="85elZYfBMVc4IVQyrIP0-80" parent="85elZYfBMVc4IVQyrIP0-79" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;container=0;" value="D3" vertex="1">
-          <mxGeometry height="40" width="20" as="geometry" />
-        </mxCell>
-        <mxCell id="85elZYfBMVc4IVQyrIP0-81" parent="85elZYfBMVc4IVQyrIP0-79" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" value="Data Piutang" vertex="1">
-          <mxGeometry height="40" width="160" x="20" as="geometry" />
-        </mxCell>
-        <mxCell id="85elZYfBMVc4IVQyrIP0-85" connectable="0" parent="85elZYfBMVc4IVQyrIP0-1" style="group;swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;container=0;strokeSides=13;top=1;left=1;bottom=1;right=0;startSize=15;" value="" vertex="1">
-          <mxGeometry height="40" width="180" x="1270" y="2060" as="geometry" />
-        </mxCell>
-        <mxCell id="85elZYfBMVc4IVQyrIP0-86" parent="85elZYfBMVc4IVQyrIP0-85" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;container=0;" value="D4" vertex="1">
-          <mxGeometry height="40" width="20" as="geometry" />
-        </mxCell>
-        <mxCell id="85elZYfBMVc4IVQyrIP0-87" parent="85elZYfBMVc4IVQyrIP0-85" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" value="Data Gaji Karyawan" vertex="1">
-          <mxGeometry height="40" width="160" x="20" as="geometry" />
-        </mxCell>
-        <mxCell id="85elZYfBMVc4IVQyrIP0-88" connectable="0" parent="85elZYfBMVc4IVQyrIP0-1" style="group;swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;container=0;strokeSides=13;top=1;left=1;bottom=1;right=0;" value="" vertex="1">
-          <mxGeometry height="40" width="180" x="1110" y="2005" as="geometry" />
-        </mxCell>
-        <mxCell id="85elZYfBMVc4IVQyrIP0-89" parent="85elZYfBMVc4IVQyrIP0-88" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;container=0;" value="D2" vertex="1">
-          <mxGeometry height="40" width="20" as="geometry" />
-        </mxCell>
-        <mxCell id="85elZYfBMVc4IVQyrIP0-90" parent="85elZYfBMVc4IVQyrIP0-88" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" value="Data Hutang" vertex="1">
-          <mxGeometry height="40" width="160" x="20" as="geometry" />
         </mxCell>
         <mxCell id="85elZYfBMVc4IVQyrIP0-91" connectable="0" parent="85elZYfBMVc4IVQyrIP0-1" style="group" value="" vertex="1">
           <mxGeometry height="110" width="210" x="720" y="610" as="geometry" />
@@ -1096,7 +1069,7 @@
         <mxCell id="VU0Z7hDj2HPiApww3Dse-4" parent="1uDufDaq-NcR7LTU6X5k-0" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=none;fillStyle=solid;" value="&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(102, 0, 204));&quot;&gt;D4&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="170" as="geometry" />
         </mxCell>
-        <mxCell id="VU0Z7hDj2HPiApww3Dse-12" parent="1uDufDaq-NcR7LTU6X5k-0" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Buku Besar Arus Kas" vertex="1">
+        <mxCell id="VU0Z7hDj2HPiApww3Dse-12" parent="1uDufDaq-NcR7LTU6X5k-0" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Buku Besar Arus Kas" vertex="1">
           <mxGeometry height="30" width="120" x="40" y="5" as="geometry" />
         </mxCell>
         <mxCell id="1uDufDaq-NcR7LTU6X5k-1" connectable="0" parent="85elZYfBMVc4IVQyrIP0-1" style="group" value="" vertex="1">
@@ -1105,16 +1078,16 @@
         <mxCell id="1uDufDaq-NcR7LTU6X5k-2" parent="1uDufDaq-NcR7LTU6X5k-1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=none;fillStyle=solid;" value="&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(102, 0, 204));&quot;&gt;D2&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="170" as="geometry" />
         </mxCell>
-        <mxCell id="1uDufDaq-NcR7LTU6X5k-3" parent="1uDufDaq-NcR7LTU6X5k-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Data Hutang" vertex="1">
-          <mxGeometry height="30" width="120" x="40" y="5" as="geometry" />
+        <mxCell id="1uDufDaq-NcR7LTU6X5k-3" parent="1uDufDaq-NcR7LTU6X5k-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Data Hutang" vertex="1">
+          <mxGeometry height="30" width="80" x="40" y="5" as="geometry" />
         </mxCell>
-        <mxCell id="1uDufDaq-NcR7LTU6X5k-4" connectable="0" parent="85elZYfBMVc4IVQyrIP0-1" style="group" value="" vertex="1">
+        <mxCell id="1uDufDaq-NcR7LTU6X5k-4" connectable="0" parent="85elZYfBMVc4IVQyrIP0-1" style="group;align=left;" value="" vertex="1">
           <mxGeometry height="40" width="170" x="1030" y="2092.5" as="geometry" />
         </mxCell>
         <mxCell id="1uDufDaq-NcR7LTU6X5k-5" parent="1uDufDaq-NcR7LTU6X5k-4" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=none;fillStyle=solid;" value="&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(102, 0, 204));&quot;&gt;D1&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="170" as="geometry" />
         </mxCell>
-        <mxCell id="1uDufDaq-NcR7LTU6X5k-6" parent="1uDufDaq-NcR7LTU6X5k-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Data Gaji Karyawan" vertex="1">
+        <mxCell id="1uDufDaq-NcR7LTU6X5k-6" parent="1uDufDaq-NcR7LTU6X5k-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Data Gaji Karyawan" vertex="1">
           <mxGeometry height="30" width="120" x="40" y="5" as="geometry" />
         </mxCell>
         <mxCell id="1uDufDaq-NcR7LTU6X5k-7" connectable="0" parent="85elZYfBMVc4IVQyrIP0-1" style="group" value="" vertex="1">
@@ -1123,7 +1096,7 @@
         <mxCell id="1uDufDaq-NcR7LTU6X5k-8" parent="1uDufDaq-NcR7LTU6X5k-7" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=none;fillStyle=solid;" value="&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(102, 0, 204));&quot;&gt;D3&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="170" as="geometry" />
         </mxCell>
-        <mxCell id="1uDufDaq-NcR7LTU6X5k-9" parent="1uDufDaq-NcR7LTU6X5k-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Data Piutang" vertex="1">
+        <mxCell id="1uDufDaq-NcR7LTU6X5k-9" parent="1uDufDaq-NcR7LTU6X5k-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Data Piutang" vertex="1">
           <mxGeometry height="30" width="120" x="40" y="5" as="geometry" />
         </mxCell>
       </root>
