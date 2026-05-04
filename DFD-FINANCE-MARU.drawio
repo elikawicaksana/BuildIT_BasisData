@@ -677,7 +677,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Page-1" id="Ap9Hj9My8QMkqS5MiVMU">
-    <mxGraphModel dx="921" dy="-597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1644" dy="-201" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="85elZYfBMVc4IVQyrIP0-0" />
         <mxCell id="85elZYfBMVc4IVQyrIP0-1" parent="85elZYfBMVc4IVQyrIP0-0" />
@@ -767,18 +767,6 @@
             <mxPoint y="60" as="sourcePoint" />
             <mxPoint x="200" y="60" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="VU0Z7hDj2HPiApww3Dse-6" connectable="0" parent="85elZYfBMVc4IVQyrIP0-1" style="group" value="" vertex="1">
-          <mxGeometry height="70.5" width="210" x="1530" y="1965" as="geometry" />
-        </mxCell>
-        <mxCell id="1uDufDaq-NcR7LTU6X5k-0" connectable="0" parent="VU0Z7hDj2HPiApww3Dse-6" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="170" x="119.92" y="-534.5" as="geometry" />
-        </mxCell>
-        <mxCell id="VU0Z7hDj2HPiApww3Dse-4" parent="1uDufDaq-NcR7LTU6X5k-0" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=none;fillStyle=solid;" value="&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(102, 0, 204));&quot;&gt;D4&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="170" as="geometry" />
-        </mxCell>
-        <mxCell id="VU0Z7hDj2HPiApww3Dse-12" parent="1uDufDaq-NcR7LTU6X5k-0" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Buku Besar Arus Kas" vertex="1">
-          <mxGeometry height="30" width="120" x="40" y="5" as="geometry" />
         </mxCell>
         <mxCell id="1uDufDaq-NcR7LTU6X5k-1" connectable="0" parent="85elZYfBMVc4IVQyrIP0-1" style="group" value="" vertex="1">
           <mxGeometry height="40" width="170" x="1000" y="1640.5" as="geometry" />
@@ -1075,13 +1063,14 @@
             <mxPoint x="28" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jmtxGthoJCo1-1TTJgZw-43" edge="1" parent="85elZYfBMVc4IVQyrIP0-1" source="85elZYfBMVc4IVQyrIP0-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" target="VU0Z7hDj2HPiApww3Dse-4">
+        <mxCell id="jmtxGthoJCo1-1TTJgZw-43" edge="1" parent="85elZYfBMVc4IVQyrIP0-1" source="85elZYfBMVc4IVQyrIP0-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1475.92" y="1450" />
               <mxPoint x="1580.92" y="1450" />
             </Array>
             <mxPoint x="775.92" y="2110" as="sourcePoint" />
+            <mxPoint x="1649.9199999999996" y="1450.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jmtxGthoJCo1-1TTJgZw-61" connectable="0" parent="jmtxGthoJCo1-1TTJgZw-43" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Buku Besar Arus Kas" vertex="1">
