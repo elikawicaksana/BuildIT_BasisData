@@ -1289,6 +1289,11 @@
             <mxPoint x="1490" y="1485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="jmtxGthoJCo1-1TTJgZw-64" connectable="0" parent="jmtxGthoJCo1-1TTJgZw-39" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Instruksi Transfer Gaji" vertex="1">
+          <mxGeometry relative="1" x="-0.3503" y="-2" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jmtxGthoJCo1-1TTJgZw-41" edge="1" parent="85elZYfBMVc4IVQyrIP0-1" source="1uDufDaq-NcR7LTU6X5k-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="85elZYfBMVc4IVQyrIP0-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1332,9 +1337,14 @@
         <mxCell id="jmtxGthoJCo1-1TTJgZw-50" edge="1" parent="85elZYfBMVc4IVQyrIP0-1" source="85elZYfBMVc4IVQyrIP0-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="85elZYfBMVc4IVQyrIP0-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1450" y="1790" />
-              <mxPoint x="716" y="1790" />
+              <mxPoint x="1450" y="1800" />
+              <mxPoint x="716" y="1800" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmtxGthoJCo1-1TTJgZw-65" connectable="0" parent="jmtxGthoJCo1-1TTJgZw-50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Konfirmasi Pembayaran Gaji" vertex="1">
+          <mxGeometry relative="1" x="0.1891" y="-3" as="geometry">
+            <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
