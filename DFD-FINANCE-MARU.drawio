@@ -677,7 +677,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Page-1" id="Ap9Hj9My8QMkqS5MiVMU">
-    <mxGraphModel dx="1096" dy="-501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="443" dy="-858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="85elZYfBMVc4IVQyrIP0-0" />
         <mxCell id="85elZYfBMVc4IVQyrIP0-1" parent="85elZYfBMVc4IVQyrIP0-0" />
@@ -1432,6 +1432,26 @@
         <mxCell id="crlrPEY0UCoyn62FDLZ2-49" connectable="0" parent="crlrPEY0UCoyn62FDLZ2-48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Bukti Transfer Pelunasan Voucher" vertex="1">
           <mxGeometry relative="1" x="-0.2042" y="-4" as="geometry">
             <mxPoint x="4" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crlrPEY0UCoyn62FDLZ2-55" connectable="0" parent="85elZYfBMVc4IVQyrIP0-1" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="170" x="1000" y="2350" as="geometry" />
+        </mxCell>
+        <mxCell id="crlrPEY0UCoyn62FDLZ2-58" edge="1" parent="crlrPEY0UCoyn62FDLZ2-55" source="crlrPEY0UCoyn62FDLZ2-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-210" y="-130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crlrPEY0UCoyn62FDLZ2-56" parent="crlrPEY0UCoyn62FDLZ2-55" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=none;fillStyle=solid;" value="&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(102, 0, 204));&quot;&gt;D5&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="crlrPEY0UCoyn62FDLZ2-57" parent="crlrPEY0UCoyn62FDLZ2-55" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Data Penerimaan Kas" vertex="1">
+          <mxGeometry height="30" width="120" x="40" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="crlrPEY0UCoyn62FDLZ2-60" edge="1" parent="crlrPEY0UCoyn62FDLZ2-55" style="endArrow=none;html=1;rounded=0;entryX=0.216;entryY=0.032;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="35" y="40" as="sourcePoint" />
+            <mxPoint x="35.17000000000007" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
