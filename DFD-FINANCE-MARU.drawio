@@ -1303,12 +1303,26 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="crlrPEY0UCoyn62FDLZ2-2" edge="1" parent="85elZYfBMVc4IVQyrIP0-1" source="OcJOMsZBVnyyK0VEE1TF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.387;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" target="85elZYfBMVc4IVQyrIP0-65">
+        <mxCell id="crlrPEY0UCoyn62FDLZ2-8" edge="1" parent="85elZYfBMVc4IVQyrIP0-1" source="crlrPEY0UCoyn62FDLZ2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="85elZYfBMVc4IVQyrIP0-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1460" />
+              <mxPoint x="560" y="1445" />
+            </Array>
+            <mxPoint x="420" y="1350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crlrPEY0UCoyn62FDLZ2-9" connectable="0" parent="crlrPEY0UCoyn62FDLZ2-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Tagihan Tamu Pengguna Voucher" vertex="1">
+          <mxGeometry relative="1" x="-0.1698" y="4" as="geometry">
+            <mxPoint x="-11" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crlrPEY0UCoyn62FDLZ2-2" edge="1" parent="85elZYfBMVc4IVQyrIP0-1" source="OcJOMsZBVnyyK0VEE1TF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.387;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;jumpStyle=arc;" target="85elZYfBMVc4IVQyrIP0-65">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="660" y="1280" />
-              <mxPoint x="110" y="1280" />
-              <mxPoint x="110" y="1540" />
+              <mxPoint x="580" y="1280" />
+              <mxPoint x="580" y="1540" />
               <mxPoint x="693" y="1540" />
             </Array>
           </mxGeometry>
@@ -1318,24 +1332,44 @@
             <mxPoint x="388" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="crlrPEY0UCoyn62FDLZ2-4" connectable="0" parent="85elZYfBMVc4IVQyrIP0-1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="150" x="190" y="1425.5" as="geometry" />
+        <mxCell id="crlrPEY0UCoyn62FDLZ2-12" connectable="0" parent="85elZYfBMVc4IVQyrIP0-1" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="150" x="190" y="1440" as="geometry" />
         </mxCell>
-        <mxCell id="crlrPEY0UCoyn62FDLZ2-5" parent="crlrPEY0UCoyn62FDLZ2-4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;" value="" vertex="1">
+        <mxCell id="crlrPEY0UCoyn62FDLZ2-13" parent="crlrPEY0UCoyn62FDLZ2-12" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;" value="" vertex="1">
           <mxGeometry height="40" width="180" x="-30" as="geometry" />
         </mxCell>
-        <mxCell id="crlrPEY0UCoyn62FDLZ2-6" parent="crlrPEY0UCoyn62FDLZ2-4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" value="Front Office" vertex="1">
+        <mxCell id="crlrPEY0UCoyn62FDLZ2-14" parent="crlrPEY0UCoyn62FDLZ2-12" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" value="Front Office" vertex="1">
           <mxGeometry height="30" width="90" x="15" y="5" as="geometry" />
         </mxCell>
-        <mxCell id="crlrPEY0UCoyn62FDLZ2-7" parent="crlrPEY0UCoyn62FDLZ2-4" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=light-dark(#bbdefb, #193750);strokeColor=#000000;" value="d" vertex="1">
+        <mxCell id="crlrPEY0UCoyn62FDLZ2-15" parent="crlrPEY0UCoyn62FDLZ2-12" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=light-dark(#bbdefb, #193750);strokeColor=#000000;" value="d" vertex="1">
           <mxGeometry height="20" width="20" x="-30" as="geometry" />
         </mxCell>
-        <mxCell id="crlrPEY0UCoyn62FDLZ2-8" edge="1" parent="85elZYfBMVc4IVQyrIP0-1" source="crlrPEY0UCoyn62FDLZ2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="85elZYfBMVc4IVQyrIP0-29">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="crlrPEY0UCoyn62FDLZ2-16" connectable="0" parent="85elZYfBMVc4IVQyrIP0-1" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="180" x="160" y="1350" as="geometry" />
         </mxCell>
-        <mxCell id="crlrPEY0UCoyn62FDLZ2-9" connectable="0" parent="crlrPEY0UCoyn62FDLZ2-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Tagihan Tamu Pengguna Voucher" vertex="1">
-          <mxGeometry relative="1" x="-0.1698" y="4" as="geometry">
-            <mxPoint x="15" y="3" as="offset" />
+        <mxCell id="crlrPEY0UCoyn62FDLZ2-17" connectable="0" parent="crlrPEY0UCoyn62FDLZ2-16" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="150" x="30" as="geometry" />
+        </mxCell>
+        <mxCell id="crlrPEY0UCoyn62FDLZ2-18" parent="crlrPEY0UCoyn62FDLZ2-17" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;" value="" vertex="1">
+          <mxGeometry height="40" width="180" x="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="crlrPEY0UCoyn62FDLZ2-19" parent="crlrPEY0UCoyn62FDLZ2-17" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" value="Restaurant" vertex="1">
+          <mxGeometry height="30" width="80" x="20" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="crlrPEY0UCoyn62FDLZ2-20" parent="crlrPEY0UCoyn62FDLZ2-16" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=light-dark(#bbdefb, #193750);strokeColor=#000000;" value="f" vertex="1">
+          <mxGeometry height="20" width="20" as="geometry" />
+        </mxCell>
+        <mxCell id="crlrPEY0UCoyn62FDLZ2-21" edge="1" parent="85elZYfBMVc4IVQyrIP0-1" source="crlrPEY0UCoyn62FDLZ2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="85elZYfBMVc4IVQyrIP0-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1370" />
+              <mxPoint x="560" y="1425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crlrPEY0UCoyn62FDLZ2-22" connectable="0" parent="crlrPEY0UCoyn62FDLZ2-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Tagihan Belum Terbayar" vertex="1">
+          <mxGeometry relative="1" x="-0.4236" y="-5" as="geometry">
+            <mxPoint y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
