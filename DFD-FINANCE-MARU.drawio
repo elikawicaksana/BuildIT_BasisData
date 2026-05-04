@@ -677,7 +677,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Page-1" id="Ap9Hj9My8QMkqS5MiVMU">
-    <mxGraphModel dx="2093" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1001" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="85elZYfBMVc4IVQyrIP0-0" />
         <mxCell id="85elZYfBMVc4IVQyrIP0-1" parent="85elZYfBMVc4IVQyrIP0-0" />
@@ -1057,6 +1057,21 @@
         <mxCell id="1uDufDaq-NcR7LTU6X5k-19" connectable="0" parent="85elZYfBMVc4IVQyrIP0-1" style="group" value="" vertex="1">
           <mxGeometry height="40" width="150" x="320" y="1460" as="geometry" />
         </mxCell>
+        <mxCell id="jmtxGthoJCo1-1TTJgZw-2" edge="1" parent="1uDufDaq-NcR7LTU6X5k-19" source="1uDufDaq-NcR7LTU6X5k-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="20" />
+              <mxPoint x="260" />
+            </Array>
+            <mxPoint x="148" y="14" as="sourcePoint" />
+            <mxPoint x="296" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmtxGthoJCo1-1TTJgZw-4" connectable="0" parent="jmtxGthoJCo1-1TTJgZw-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Tagihan Tamu" vertex="1">
+          <mxGeometry relative="1" x="-0.5009" as="geometry">
+            <mxPoint x="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1uDufDaq-NcR7LTU6X5k-20" parent="1uDufDaq-NcR7LTU6X5k-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;" value="" vertex="1">
           <mxGeometry height="40" width="180" x="-30" as="geometry" />
         </mxCell>
@@ -1119,6 +1134,21 @@
         </mxCell>
         <mxCell id="1uDufDaq-NcR7LTU6X5k-10" connectable="0" parent="1uDufDaq-NcR7LTU6X5k-44" style="group" value="" vertex="1">
           <mxGeometry height="40" width="150" x="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jmtxGthoJCo1-1TTJgZw-1" edge="1" parent="1uDufDaq-NcR7LTU6X5k-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="20" />
+              <mxPoint x="260" y="50" />
+            </Array>
+            <mxPoint x="147" y="20.01234567901247" as="sourcePoint" />
+            <mxPoint x="297" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jmtxGthoJCo1-1TTJgZw-3" connectable="0" parent="jmtxGthoJCo1-1TTJgZw-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Tagihan F&amp;amp;B" vertex="1">
+          <mxGeometry relative="1" x="-0.438" y="-1" as="geometry">
+            <mxPoint x="7" y="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1uDufDaq-NcR7LTU6X5k-11" parent="1uDufDaq-NcR7LTU6X5k-10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;" value="" vertex="1">
           <mxGeometry height="40" width="180" x="-30" as="geometry" />
