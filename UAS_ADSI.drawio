@@ -202,7 +202,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iY6tvMLdhy0T95_MDdYN" name="SOP DR">
-    <mxGraphModel dx="849" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1775" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -359,7 +359,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CqsUWgCVQPB_aE9TAym--25" parent="5M5MrZl71IJUrKHyCWEb-28" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;terima barang&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&amp;amp; ttd DR&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="120" x="50" y="900" as="geometry" />
+          <mxGeometry height="50" width="120" x="50" y="925.04" as="geometry" />
         </mxCell>
         <mxCell id="CqsUWgCVQPB_aE9TAym--5" edge="1" parent="5M5MrZl71IJUrKHyCWEb-1" source="CqsUWgCVQPB_aE9TAym--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="CqsUWgCVQPB_aE9TAym--4">
           <mxGeometry relative="1" as="geometry">
@@ -372,10 +372,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="50" y="640" />
-              <mxPoint x="50" y="950" />
-              <mxPoint x="319" y="950" />
+              <mxPoint x="50" y="970" />
             </Array>
-            <mxPoint x="290" y="940" as="targetPoint" />
+            <mxPoint x="310" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CqsUWgCVQPB_aE9TAym--19" connectable="0" parent="CqsUWgCVQPB_aE9TAym--16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Ya&lt;/font&gt;" vertex="1">
@@ -396,11 +395,11 @@
             <mxPoint y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CqsUWgCVQPB_aE9TAym--22" edge="1" parent="5M5MrZl71IJUrKHyCWEb-1" source="CqsUWgCVQPB_aE9TAym--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="CqsUWgCVQPB_aE9TAym--25">
+        <mxCell id="CqsUWgCVQPB_aE9TAym--22" edge="1" parent="5M5MrZl71IJUrKHyCWEb-1" source="CqsUWgCVQPB_aE9TAym--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.004;exitY=0.441;exitDx=0;exitDy=0;exitPerimeter=0;" target="CqsUWgCVQPB_aE9TAym--25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="450" y="945" />
-              <mxPoint x="450" y="945" />
+              <mxPoint x="419" y="970" />
+              <mxPoint x="680" y="970" />
             </Array>
             <mxPoint x="540" y="915" as="targetPoint" />
           </mxGeometry>
