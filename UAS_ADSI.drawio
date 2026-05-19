@@ -1,12 +1,9 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="-7YdF_Z_4hD_neaPn9do">
-    <mxGraphModel dx="751" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1502" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="29Mq2g_LqxQwG_Og5L03-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="" vertex="1">
-          <mxGeometry height="60" width="100" x="100" y="80" as="geometry" />
-        </mxCell>
         <mxCell id="29Mq2g_LqxQwG_Og5L03-31" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="570" width="170" x="30" y="300" as="geometry" />
         </mxCell>
