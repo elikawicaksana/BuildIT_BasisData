@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="-7YdF_Z_4hD_neaPn9do">
-    <mxGraphModel dx="1775" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1027" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,7 +118,9 @@
           <mxGeometry height="30" width="60" x="130" y="640" as="geometry" />
         </mxCell>
         <mxCell id="FgAdxiRBUQnmOL_wIOqZ-32" parent="FgAdxiRBUQnmOL_wIOqZ-3" style="swimlane;html=1;startSize=20;" value="Staff Purchasing" vertex="1">
-          <mxGeometry height="810" width="200" x="490" y="20" as="geometry" />
+          <mxGeometry height="810" width="200" x="490" y="20" as="geometry">
+            <mxRectangle height="810" width="40" x="490" y="20" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="FgAdxiRBUQnmOL_wIOqZ-33" edge="1" parent="FgAdxiRBUQnmOL_wIOqZ-32" source="FgAdxiRBUQnmOL_wIOqZ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FgAdxiRBUQnmOL_wIOqZ-35" value="">
           <mxGeometry relative="1" as="geometry" />
