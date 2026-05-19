@@ -202,12 +202,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iY6tvMLdhy0T95_MDdYN" name="SOP DR">
-    <mxGraphModel dx="1627" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1952" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5M5MrZl71IJUrKHyCWEb-1" parent="1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" value="SOP Delivery Requisition" vertex="1">
-          <mxGeometry height="1070" width="620" x="320" y="290" as="geometry">
+          <mxGeometry height="1070" width="670" x="320" y="290" as="geometry">
             <mxRectangle height="30" width="210" x="140" y="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -227,7 +227,7 @@
           <mxGeometry height="100" width="100" x="55" y="430" as="geometry" />
         </mxCell>
         <mxCell id="5M5MrZl71IJUrKHyCWEb-27" parent="5M5MrZl71IJUrKHyCWEb-1" style="swimlane;html=1;startSize=20;" value="Staff Inventor&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="1050" width="220" x="220" y="20" as="geometry" />
+          <mxGeometry height="1050" width="260" x="220" y="20" as="geometry" />
         </mxCell>
         <mxCell id="8oylF0qGBSUbqP1fHUhZ-2" edge="1" parent="5M5MrZl71IJUrKHyCWEb-27" source="5irQgDGxM_aT2WI_lpYo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="8oylF0qGBSUbqP1fHUhZ-1">
           <mxGeometry relative="1" as="geometry" />
@@ -294,12 +294,18 @@
           <mxGeometry height="60" width="100" x="58.5" y="780" as="geometry" />
         </mxCell>
         <mxCell id="5M5MrZl71IJUrKHyCWEb-28" parent="5M5MrZl71IJUrKHyCWEb-1" style="swimlane;html=1;startSize=20;" value="Staff Unit Pemohon" vertex="1">
-          <mxGeometry height="1050" width="180" x="440" y="20" as="geometry">
+          <mxGeometry height="1050" width="190" x="480" y="20" as="geometry">
             <mxRectangle height="810" width="40" x="490" y="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CqsUWgCVQPB_aE9TAym--20" parent="5M5MrZl71IJUrKHyCWEb-28" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;terima barang&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 11px; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&amp;amp; ttd DR&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="120" x="30" y="870" as="geometry" />
+          <mxGeometry height="50" width="120" x="50" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="5M5MrZl71IJUrKHyCWEb-32" parent="5M5MrZl71IJUrKHyCWEb-28" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=10;align=center;horizontal=1;spacing=0;" value="end" vertex="1">
+          <mxGeometry height="50" width="80" x="70" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="CqsUWgCVQPB_aE9TAym--21" edge="1" parent="5M5MrZl71IJUrKHyCWEb-28" source="CqsUWgCVQPB_aE9TAym--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="5M5MrZl71IJUrKHyCWEb-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5irQgDGxM_aT2WI_lpYo-2" edge="1" parent="5M5MrZl71IJUrKHyCWEb-1" source="5M5MrZl71IJUrKHyCWEb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5irQgDGxM_aT2WI_lpYo-1">
           <mxGeometry relative="1" as="geometry" />
@@ -339,24 +345,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5M5MrZl71IJUrKHyCWEb-32" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=10;align=center;horizontal=1;spacing=0;" value="end" vertex="1">
-          <mxGeometry height="50" width="80" x="910" y="1280" as="geometry" />
-        </mxCell>
-        <mxCell id="CqsUWgCVQPB_aE9TAym--9" edge="1" parent="1" source="CqsUWgCVQPB_aE9TAym--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;jumpStyle=arc;" target="5M5MrZl71IJUrKHyCWEb-32">
+        <mxCell id="CqsUWgCVQPB_aE9TAym--9" edge="1" parent="5M5MrZl71IJUrKHyCWEb-1" source="CqsUWgCVQPB_aE9TAym--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;jumpStyle=arc;" target="5M5MrZl71IJUrKHyCWEb-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="830" y="900" />
-              <mxPoint x="830" y="1305" />
+              <mxPoint x="500" y="610" />
+              <mxPoint x="500" y="1015" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CqsUWgCVQPB_aE9TAym--14" connectable="0" parent="CqsUWgCVQPB_aE9TAym--9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Tidak" vertex="1">
           <mxGeometry relative="1" x="-0.7162" y="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-28" y="1" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="CqsUWgCVQPB_aE9TAym--21" edge="1" parent="1" source="CqsUWgCVQPB_aE9TAym--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="5M5MrZl71IJUrKHyCWEb-32">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
