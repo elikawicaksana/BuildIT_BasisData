@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="SOP SR" id="mYAdajV0IufZudDyt58S">
-    <mxGraphModel dx="1394" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="673" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ewqPmyVIHkz6pLOVAfYW-0" />
         <mxCell id="ewqPmyVIHkz6pLOVAfYW-1" parent="ewqPmyVIHkz6pLOVAfYW-0" />
@@ -165,7 +165,7 @@
             <mxPoint x="170" y="760" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OhGSODvtPTQOCyl8h_7D-3" connectable="0" parent="ewqPmyVIHkz6pLOVAfYW-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ya" vertex="1">
+        <mxCell id="OhGSODvtPTQOCyl8h_7D-3" connectable="0" parent="ewqPmyVIHkz6pLOVAfYW-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Tidak" vertex="1">
           <mxGeometry relative="1" x="-0.7504" y="-1" as="geometry">
             <mxPoint x="-15" y="-1" as="offset" />
           </mxGeometry>
@@ -178,7 +178,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OhGSODvtPTQOCyl8h_7D-2" connectable="0" parent="OhGSODvtPTQOCyl8h_7D-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Tidak" vertex="1">
+        <mxCell id="OhGSODvtPTQOCyl8h_7D-2" connectable="0" parent="OhGSODvtPTQOCyl8h_7D-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ya" vertex="1">
           <mxGeometry relative="1" x="-0.9591" y="-1" as="geometry">
             <mxPoint x="-15" y="21" as="offset" />
           </mxGeometry>
