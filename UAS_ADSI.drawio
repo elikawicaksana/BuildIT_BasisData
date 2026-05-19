@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="3">
   <diagram name="SOP SR" id="mYAdajV0IufZudDyt58S">
-    <mxGraphModel dx="1775" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="592" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ewqPmyVIHkz6pLOVAfYW-0" />
         <mxCell id="ewqPmyVIHkz6pLOVAfYW-1" parent="ewqPmyVIHkz6pLOVAfYW-0" />
@@ -123,7 +123,7 @@
         <mxCell id="ewqPmyVIHkz6pLOVAfYW-27" parent="ewqPmyVIHkz6pLOVAfYW-2" style="swimlane;html=1;startSize=20;" value="Kepala Unit Pemohon" vertex="1">
           <mxGeometry height="1000" width="200" x="320" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="ewqPmyVIHkz6pLOVAfYW-31" parent="ewqPmyVIHkz6pLOVAfYW-2" style="swimlane;html=1;startSize=20;" value="Staff Inventory" vertex="1">
+        <mxCell id="ewqPmyVIHkz6pLOVAfYW-31" parent="ewqPmyVIHkz6pLOVAfYW-2" style="swimlane;html=1;startSize=20;" value="Kepala Inventory" vertex="1">
           <mxGeometry height="1000" width="200" x="520" y="20" as="geometry">
             <mxRectangle height="810" width="40" x="490" y="20" as="alternateBounds" />
           </mxGeometry>
