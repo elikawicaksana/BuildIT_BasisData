@@ -276,6 +276,11 @@
             <mxPoint x="2" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CqsUWgCVQPB_aE9TAym--26" connectable="0" parent="CqsUWgCVQPB_aE9TAym--11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Tidak" vertex="1">
+          <mxGeometry relative="1" x="-0.2029" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CqsUWgCVQPB_aE9TAym--8" parent="5M5MrZl71IJUrKHyCWEb-27" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" value="batalkan&amp;nbsp;&lt;div&gt;pengiriman?&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="100" x="58.5" y="540" as="geometry" />
         </mxCell>
@@ -356,7 +361,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CqsUWgCVQPB_aE9TAym--14" connectable="0" parent="CqsUWgCVQPB_aE9TAym--9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Tidak" vertex="1">
+        <mxCell id="CqsUWgCVQPB_aE9TAym--14" connectable="0" parent="CqsUWgCVQPB_aE9TAym--9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ya" vertex="1">
           <mxGeometry relative="1" x="-0.7162" y="1" as="geometry">
             <mxPoint x="-28" y="1" as="offset" />
           </mxGeometry>
