@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="SOP SR" id="mYAdajV0IufZudDyt58S">
-    <mxGraphModel dx="1502" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="849" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ewqPmyVIHkz6pLOVAfYW-0" />
         <mxCell id="ewqPmyVIHkz6pLOVAfYW-1" parent="ewqPmyVIHkz6pLOVAfYW-0" />
@@ -9,7 +9,7 @@
             <mxRectangle height="30" width="210" x="140" y="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ewqPmyVIHkz6pLOVAfYW-3" parent="ewqPmyVIHkz6pLOVAfYW-2" style="swimlane;html=1;startSize=20;" value="Staff Inventory" vertex="1">
+        <mxCell id="ewqPmyVIHkz6pLOVAfYW-3" parent="ewqPmyVIHkz6pLOVAfYW-2" style="swimlane;html=1;startSize=20;" value="Staff Unit Pemohon" vertex="1">
           <mxGeometry height="810" width="290" y="20" as="geometry" />
         </mxCell>
         <mxCell id="ewqPmyVIHkz6pLOVAfYW-4" parent="ewqPmyVIHkz6pLOVAfYW-3" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=10;align=center;horizontal=1;spacing=0;" value="start" vertex="1">
@@ -105,7 +105,7 @@
         <mxCell id="ewqPmyVIHkz6pLOVAfYW-26" parent="ewqPmyVIHkz6pLOVAfYW-3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ya&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="ewqPmyVIHkz6pLOVAfYW-27" parent="ewqPmyVIHkz6pLOVAfYW-2" style="swimlane;html=1;startSize=20;" value="Kepala Inventory" vertex="1">
+        <mxCell id="ewqPmyVIHkz6pLOVAfYW-27" parent="ewqPmyVIHkz6pLOVAfYW-2" style="swimlane;html=1;startSize=20;" value="Kepala Unit Pemohon" vertex="1">
           <mxGeometry height="810" width="200" x="290" y="20" as="geometry" />
         </mxCell>
         <mxCell id="ewqPmyVIHkz6pLOVAfYW-28" parent="ewqPmyVIHkz6pLOVAfYW-27" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" value="draft PR&lt;div&gt;disetujui?&lt;/div&gt;" vertex="1">
@@ -117,7 +117,7 @@
         <mxCell id="ewqPmyVIHkz6pLOVAfYW-30" parent="ewqPmyVIHkz6pLOVAfYW-27" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ya&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="130" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="ewqPmyVIHkz6pLOVAfYW-31" parent="ewqPmyVIHkz6pLOVAfYW-2" style="swimlane;html=1;startSize=20;" value="Staff Purchasing" vertex="1">
+        <mxCell id="ewqPmyVIHkz6pLOVAfYW-31" parent="ewqPmyVIHkz6pLOVAfYW-2" style="swimlane;html=1;startSize=20;" value="Staff Inventory" vertex="1">
           <mxGeometry height="810" width="200" x="490" y="20" as="geometry">
             <mxRectangle height="810" width="40" x="490" y="20" as="alternateBounds" />
           </mxGeometry>
@@ -154,7 +154,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SOP PR" id="-7YdF_Z_4hD_neaPn9do">
-    <mxGraphModel dx="1502" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="849" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
