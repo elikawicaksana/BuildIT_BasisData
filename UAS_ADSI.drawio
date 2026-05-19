@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="SOP SR" id="mYAdajV0IufZudDyt58S">
-    <mxGraphModel dx="849" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1220" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ewqPmyVIHkz6pLOVAfYW-0" />
         <mxCell id="ewqPmyVIHkz6pLOVAfYW-1" parent="ewqPmyVIHkz6pLOVAfYW-0" />
-        <mxCell id="ewqPmyVIHkz6pLOVAfYW-2" parent="ewqPmyVIHkz6pLOVAfYW-1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" value="SOP Purchase Requisition" vertex="1">
+        <mxCell id="ewqPmyVIHkz6pLOVAfYW-2" parent="ewqPmyVIHkz6pLOVAfYW-1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" value="SOP Store Requisition" vertex="1">
           <mxGeometry height="830" width="690" x="610" y="360" as="geometry">
             <mxRectangle height="30" width="210" x="140" y="110" as="alternateBounds" />
           </mxGeometry>
