@@ -795,11 +795,11 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SOP Receiving" id="5TAMSkCQQ6MeRQ6Qi39i">
-    <mxGraphModel dx="1627" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="r9ATbIV0EeZeC4aXhZ86-0" />
         <mxCell id="r9ATbIV0EeZeC4aXhZ86-1" parent="r9ATbIV0EeZeC4aXhZ86-0" />
-        <mxCell id="r9ATbIV0EeZeC4aXhZ86-2" parent="r9ATbIV0EeZeC4aXhZ86-1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" value="SOP Purchase Order" vertex="1">
+        <mxCell id="r9ATbIV0EeZeC4aXhZ86-2" parent="r9ATbIV0EeZeC4aXhZ86-1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" value="SOP Receiving Order" vertex="1">
           <mxGeometry height="900" width="1040" x="160" y="130" as="geometry">
             <mxRectangle height="30" width="210" x="140" y="110" as="alternateBounds" />
           </mxGeometry>
