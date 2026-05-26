@@ -620,7 +620,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="88ADEHz5GCH6W3PnWi7s" name="SOP PO">
-    <mxGraphModel dx="1148" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="930" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -729,7 +729,7 @@
             <mxRectangle height="810" width="40" x="490" y="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uo95TJBABkAIyWiN7se0-28" parent="JZPH_eJRQEDNjwV7rhWu-54" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=10;align=center;horizontal=1;spacing=0;" value="start" vertex="1">
+        <mxCell id="uo95TJBABkAIyWiN7se0-28" parent="JZPH_eJRQEDNjwV7rhWu-54" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=10;align=center;horizontal=1;spacing=0;" value="end" vertex="1">
           <mxGeometry height="50" width="80" x="65" y="790" as="geometry" />
         </mxCell>
         <mxCell id="uo95TJBABkAIyWiN7se0-30" parent="JZPH_eJRQEDNjwV7rhWu-54" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="menerima dokumen PO" vertex="1">
