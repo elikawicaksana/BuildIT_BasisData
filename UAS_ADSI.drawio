@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="6">
+<mxfile host="app.diagrams.net" pages="7">
   <diagram name="SOP SR" id="mYAdajV0IufZudDyt58S">
     <mxGraphModel dx="592" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1168,6 +1168,42 @@
               <mxPoint x="830" y="895" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="SOP Stock Opname" id="T_wXDTEoJLiG_B1k69yw">
+    <mxGraphModel dx="1027" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="7mE8wNapVt39Qf51f6ck-0" />
+        <mxCell id="7mE8wNapVt39Qf51f6ck-1" parent="7mE8wNapVt39Qf51f6ck-0" />
+        <mxCell id="7mE8wNapVt39Qf51f6ck-2" parent="7mE8wNapVt39Qf51f6ck-1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" value="SOP Payment" vertex="1">
+          <mxGeometry height="950" width="770" x="160" y="130" as="geometry">
+            <mxRectangle height="30" width="210" x="140" y="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7mE8wNapVt39Qf51f6ck-3" parent="7mE8wNapVt39Qf51f6ck-2" style="swimlane;html=1;startSize=20;" value="Staff Inventory" vertex="1">
+          <mxGeometry height="930" width="260" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7mE8wNapVt39Qf51f6ck-4" edge="1" parent="7mE8wNapVt39Qf51f6ck-3" source="7mE8wNapVt39Qf51f6ck-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7mE8wNapVt39Qf51f6ck-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7mE8wNapVt39Qf51f6ck-5" parent="7mE8wNapVt39Qf51f6ck-3" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=10;align=center;horizontal=1;spacing=0;" value="start" vertex="1">
+          <mxGeometry height="50" width="80" x="89.99999999999999" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7mE8wNapVt39Qf51f6ck-6" parent="7mE8wNapVt39Qf51f6ck-3" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="mengirim Invoice (Tagihan)" vertex="1">
+          <mxGeometry height="50" width="120" x="70" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7mE8wNapVt39Qf51f6ck-8" parent="7mE8wNapVt39Qf51f6ck-2" style="swimlane;html=1;startSize=20;" value="Kepala Inventory" vertex="1">
+          <mxGeometry height="930" width="270" x="260" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7mE8wNapVt39Qf51f6ck-26" parent="7mE8wNapVt39Qf51f6ck-2" style="swimlane;html=1;startSize=20;" value="Accounting" vertex="1">
+          <mxGeometry height="930" width="240" x="530" y="20" as="geometry">
+            <mxRectangle height="810" width="40" x="490" y="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7mE8wNapVt39Qf51f6ck-27" parent="7mE8wNapVt39Qf51f6ck-26" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=10;align=center;horizontal=1;spacing=0;" value="end" vertex="1">
+          <mxGeometry height="50" width="80" x="65" y="850" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
