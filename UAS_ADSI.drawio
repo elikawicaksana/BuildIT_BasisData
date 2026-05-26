@@ -1002,11 +1002,11 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SOP Pembayaran" id="JH9lGaH7U9Jn3fDClX_m">
-    <mxGraphModel dx="1394" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="673" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ssGtbaisqra3XCtUO7Zm-0" />
         <mxCell id="ssGtbaisqra3XCtUO7Zm-1" parent="ssGtbaisqra3XCtUO7Zm-0" />
-        <mxCell id="ssGtbaisqra3XCtUO7Zm-2" parent="ssGtbaisqra3XCtUO7Zm-1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" value="SOP Purchase Order" vertex="1">
+        <mxCell id="ssGtbaisqra3XCtUO7Zm-2" parent="ssGtbaisqra3XCtUO7Zm-1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" value="SOP Payment" vertex="1">
           <mxGeometry height="900" width="690" x="160" y="130" as="geometry">
             <mxRectangle height="30" width="210" x="140" y="110" as="alternateBounds" />
           </mxGeometry>
