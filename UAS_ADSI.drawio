@@ -1011,7 +1011,7 @@
             <mxRectangle height="30" width="210" x="140" y="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ssGtbaisqra3XCtUO7Zm-3" parent="ssGtbaisqra3XCtUO7Zm-2" style="swimlane;html=1;startSize=20;" value="Staff Purchasing" vertex="1">
+        <mxCell id="ssGtbaisqra3XCtUO7Zm-3" parent="ssGtbaisqra3XCtUO7Zm-2" style="swimlane;html=1;startSize=20;" value="Supplier" vertex="1">
           <mxGeometry height="880" width="260" y="20" as="geometry" />
         </mxCell>
         <mxCell id="ssGtbaisqra3XCtUO7Zm-5" parent="ssGtbaisqra3XCtUO7Zm-3" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=10;align=center;horizontal=1;spacing=0;" value="start" vertex="1">
@@ -1029,10 +1029,10 @@
         <mxCell id="ssGtbaisqra3XCtUO7Zm-15" parent="ssGtbaisqra3XCtUO7Zm-3" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;draft PO&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="100" x="80" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="ssGtbaisqra3XCtUO7Zm-21" parent="ssGtbaisqra3XCtUO7Zm-2" style="swimlane;html=1;startSize=20;" value="Cost Control" vertex="1">
+        <mxCell id="ssGtbaisqra3XCtUO7Zm-21" parent="ssGtbaisqra3XCtUO7Zm-2" style="swimlane;html=1;startSize=20;" value="Staff Account Payable" vertex="1">
           <mxGeometry height="880" width="220" x="260" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="ssGtbaisqra3XCtUO7Zm-28" parent="ssGtbaisqra3XCtUO7Zm-2" style="swimlane;html=1;startSize=20;" value="Supplier" vertex="1">
+        <mxCell id="ssGtbaisqra3XCtUO7Zm-28" parent="ssGtbaisqra3XCtUO7Zm-2" style="swimlane;html=1;startSize=20;" value="Finance Manager" vertex="1">
           <mxGeometry height="880" width="210" x="480" y="20" as="geometry">
             <mxRectangle height="810" width="40" x="490" y="20" as="alternateBounds" />
           </mxGeometry>
