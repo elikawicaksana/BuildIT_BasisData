@@ -4517,7 +4517,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UlotgwAAkWdnK6an1C7e" name="DFD Finance Accounting">
-    <mxGraphModel dx="1102" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="234" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4588,7 +4588,7 @@
           <mxGeometry height="30" width="80" x="40" y="5" as="geometry" />
         </mxCell>
         <mxCell id="bY899MZZz1_J0iZVjFRJ-285" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="170" x="2030" y="1355.5" as="geometry" />
+          <mxGeometry height="40" width="170" x="2060" y="1355.5" as="geometry" />
         </mxCell>
         <mxCell id="bY899MZZz1_J0iZVjFRJ-286" parent="bY899MZZz1_J0iZVjFRJ-285" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=none;fillStyle=solid;" value="&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(102, 0, 204));&quot;&gt;D3&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="170" as="geometry" />
@@ -4639,9 +4639,9 @@
             <mxPoint x="2024.13" y="1369.54" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bY899MZZz1_J0iZVjFRJ-315" connectable="0" parent="bY899MZZz1_J0iZVjFRJ-314" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Catatan Transaksi Piutang" vertex="1">
+        <mxCell id="bY899MZZz1_J0iZVjFRJ-315" connectable="0" parent="bY899MZZz1_J0iZVjFRJ-314" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Piutang Baru,&amp;nbsp;&amp;nbsp;&lt;div&gt;Data Update Status Transaksi Piutang&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.248" as="geometry">
-            <mxPoint x="23" as="offset" />
+            <mxPoint x="23" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bY899MZZz1_J0iZVjFRJ-316" edge="1" parent="1" source="bY899MZZz1_J0iZVjFRJ-257" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.513;exitY=0.956;exitDx=0;exitDy=0;exitPerimeter=0;">
@@ -4971,7 +4971,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bY899MZZz1_J0iZVjFRJ-431" edge="1" parent="1" source="bY899MZZz1_J0iZVjFRJ-406" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="bY899MZZz1_J0iZVjFRJ-260">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2270" y="1050" />
+              <mxPoint x="2270" y="1455" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="bY899MZZz1_J0iZVjFRJ-432" connectable="0" parent="bY899MZZz1_J0iZVjFRJ-431" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Setoran Kasir" vertex="1">
           <mxGeometry relative="1" x="-0.182" y="-5" as="geometry">
