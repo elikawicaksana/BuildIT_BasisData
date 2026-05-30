@@ -4582,7 +4582,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s9LBVPPxFOqLjZDa15E4-17" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="150" x="-80" y="112.5" as="geometry" />
+          <mxGeometry height="40" width="150" x="-80" y="140" as="geometry" />
         </mxCell>
         <mxCell id="s9LBVPPxFOqLjZDa15E4-18" parent="s9LBVPPxFOqLjZDa15E4-17" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;" value="" vertex="1">
           <mxGeometry height="40" width="180" x="-30" as="geometry" />
@@ -4602,10 +4602,10 @@
         <mxCell id="s9LBVPPxFOqLjZDa15E4-23" parent="s9LBVPPxFOqLjZDa15E4-21" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Data Piutang" vertex="1">
           <mxGeometry height="30" width="120" x="40" y="5" as="geometry" />
         </mxCell>
-        <mxCell id="s9LBVPPxFOqLjZDa15E4-24" edge="1" parent="1" source="s9LBVPPxFOqLjZDa15E4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" target="s9LBVPPxFOqLjZDa15E4-2">
+        <mxCell id="s9LBVPPxFOqLjZDa15E4-24" edge="1" parent="1" source="s9LBVPPxFOqLjZDa15E4-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="s9LBVPPxFOqLjZDa15E4-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="100" y="123" />
+              <mxPoint x="100" y="90" />
               <mxPoint x="100" y="110" />
             </Array>
           </mxGeometry>
@@ -4615,12 +4615,13 @@
             <mxPoint x="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s9LBVPPxFOqLjZDa15E4-25" edge="1" parent="1" source="s9LBVPPxFOqLjZDa15E4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="s9LBVPPxFOqLjZDa15E4-2">
+        <mxCell id="s9LBVPPxFOqLjZDa15E4-25" edge="1" parent="1" source="s9LBVPPxFOqLjZDa15E4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="s9LBVPPxFOqLjZDa15E4-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="100" y="143" />
+              <mxPoint x="100" y="160" />
               <mxPoint x="100" y="150" />
             </Array>
+            <mxPoint x="100" y="170" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s9LBVPPxFOqLjZDa15E4-27" connectable="0" parent="s9LBVPPxFOqLjZDa15E4-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Voucher Tamu" vertex="1">
@@ -4718,6 +4719,21 @@
           <mxGeometry relative="1" x="-0.0481" y="-1" as="geometry">
             <mxPoint y="-6" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="s9LBVPPxFOqLjZDa15E4-58" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="180" x="-110" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="s9LBVPPxFOqLjZDa15E4-59" connectable="0" parent="s9LBVPPxFOqLjZDa15E4-58" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="150" x="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9LBVPPxFOqLjZDa15E4-60" parent="s9LBVPPxFOqLjZDa15E4-59" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;" value="" vertex="1">
+          <mxGeometry height="40" width="180" x="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9LBVPPxFOqLjZDa15E4-61" parent="s9LBVPPxFOqLjZDa15E4-59" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" value="Restaurant" vertex="1">
+          <mxGeometry height="30" width="80" x="20" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="s9LBVPPxFOqLjZDa15E4-62" parent="s9LBVPPxFOqLjZDa15E4-58" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=light-dark(#bbdefb, #193750);strokeColor=#000000;" value="f" vertex="1">
+          <mxGeometry height="20" width="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
