@@ -4652,6 +4652,73 @@
             <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="s9LBVPPxFOqLjZDa15E4-36" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="180" x="-110" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="s9LBVPPxFOqLjZDa15E4-37" connectable="0" parent="s9LBVPPxFOqLjZDa15E4-36" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="150" x="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9LBVPPxFOqLjZDa15E4-38" parent="s9LBVPPxFOqLjZDa15E4-37" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;" value="" vertex="1">
+          <mxGeometry height="40" width="180" x="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9LBVPPxFOqLjZDa15E4-39" parent="s9LBVPPxFOqLjZDa15E4-37" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" value="Travel Agent" vertex="1">
+          <mxGeometry height="30" width="90" x="15" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="s9LBVPPxFOqLjZDa15E4-40" parent="s9LBVPPxFOqLjZDa15E4-36" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=light-dark(#bbdefb, #193750);strokeColor=#000000;" value="i" vertex="1">
+          <mxGeometry height="20" width="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s9LBVPPxFOqLjZDa15E4-41" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="50" width="180" x="-110" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="s9LBVPPxFOqLjZDa15E4-42" connectable="0" parent="s9LBVPPxFOqLjZDa15E4-41" style="group" value="" vertex="1">
+          <mxGeometry height="50" width="150" x="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9LBVPPxFOqLjZDa15E4-43" parent="s9LBVPPxFOqLjZDa15E4-42" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;" value="" vertex="1">
+          <mxGeometry height="40" width="180" x="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="s9LBVPPxFOqLjZDa15E4-44" parent="s9LBVPPxFOqLjZDa15E4-42" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" value="AR Officer" vertex="1">
+          <mxGeometry height="30" width="80" x="20" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="s9LBVPPxFOqLjZDa15E4-45" parent="s9LBVPPxFOqLjZDa15E4-41" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=light-dark(#bbdefb, #193750);strokeColor=#000000;" value="k" vertex="1">
+          <mxGeometry height="20" width="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s9LBVPPxFOqLjZDa15E4-50" edge="1" parent="1" source="s9LBVPPxFOqLjZDa15E4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.005;exitY=0.252;exitDx=0;exitDy=0;exitPerimeter=0;" target="s9LBVPPxFOqLjZDa15E4-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="283" />
+              <mxPoint x="270" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9LBVPPxFOqLjZDa15E4-52" connectable="0" parent="s9LBVPPxFOqLjZDa15E4-50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Invoice Penagihan Travel Agent" vertex="1">
+          <mxGeometry relative="1" x="0.1912" y="-2" as="geometry">
+            <mxPoint x="5" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9LBVPPxFOqLjZDa15E4-51" edge="1" parent="1" source="s9LBVPPxFOqLjZDa15E4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="s9LBVPPxFOqLjZDa15E4-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="300" />
+              <mxPoint x="270" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9LBVPPxFOqLjZDa15E4-53" connectable="0" parent="s9LBVPPxFOqLjZDa15E4-51" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Daftar Piutang" vertex="1">
+          <mxGeometry relative="1" x="0.3074" y="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9LBVPPxFOqLjZDa15E4-54" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="s9LBVPPxFOqLjZDa15E4-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="331" as="sourcePoint" />
+            <mxPoint x="400" y="396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s9LBVPPxFOqLjZDa15E4-57" connectable="0" parent="s9LBVPPxFOqLjZDa15E4-54" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Tagihan Terkirim" vertex="1">
+          <mxGeometry relative="1" x="-0.0481" y="-1" as="geometry">
+            <mxPoint y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
