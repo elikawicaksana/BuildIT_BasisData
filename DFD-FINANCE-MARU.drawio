@@ -5210,7 +5210,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LX_TLJkw8lZ8rURFJWVd" name="Page-8">
-    <mxGraphModel dx="1394" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1148" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6293,10 +6293,10 @@
         <mxCell id="e77JalUEdX99PHzA50YJ-261" parent="e77JalUEdX99PHzA50YJ-258" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=light-dark(#bbdefb, #193750);strokeColor=#000000;" value="q" vertex="1">
           <mxGeometry height="20" width="20" x="-30" as="geometry" />
         </mxCell>
-        <mxCell id="e77JalUEdX99PHzA50YJ-262" edge="1" parent="1" source="e77JalUEdX99PHzA50YJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="e77JalUEdX99PHzA50YJ-259">
+        <mxCell id="e77JalUEdX99PHzA50YJ-262" edge="1" parent="1" source="e77JalUEdX99PHzA50YJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.471;exitY=0.966;exitDx=0;exitDy=0;exitPerimeter=0;" target="e77JalUEdX99PHzA50YJ-259">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1037" y="1885.0000000000002" />
+              <mxPoint x="1020" y="1885" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -6585,6 +6585,51 @@
         <mxCell id="e77JalUEdX99PHzA50YJ-354" connectable="0" parent="e77JalUEdX99PHzA50YJ-349" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Status persetujuan anggaran" vertex="1">
           <mxGeometry relative="1" x="0.2952" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e77JalUEdX99PHzA50YJ-359" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=none;fillStyle=solid;" value="&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(102, 0, 204));&quot;&gt;D7&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="170" x="1307" y="1980" as="geometry" />
+        </mxCell>
+        <mxCell id="e77JalUEdX99PHzA50YJ-360" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Data Aset &amp;amp; Penyusutan" vertex="1">
+          <mxGeometry height="30" width="138" x="1340" y="1985" as="geometry" />
+        </mxCell>
+        <mxCell id="e77JalUEdX99PHzA50YJ-364" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="170" x="1307" y="1920" as="geometry" />
+        </mxCell>
+        <mxCell id="e77JalUEdX99PHzA50YJ-357" parent="e77JalUEdX99PHzA50YJ-364" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=none;fillStyle=solid;" value="&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(102, 0, 204));&quot;&gt;D6&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="170" as="geometry" />
+        </mxCell>
+        <mxCell id="e77JalUEdX99PHzA50YJ-358" parent="e77JalUEdX99PHzA50YJ-364" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Data Anggaran" vertex="1">
+          <mxGeometry height="30" width="120" x="45" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="e77JalUEdX99PHzA50YJ-363" edge="1" parent="e77JalUEdX99PHzA50YJ-364" style="endArrow=none;html=1;rounded=0;entryX=0.216;entryY=0.032;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="35" y="40" as="sourcePoint" />
+            <mxPoint x="35.17000000000007" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e77JalUEdX99PHzA50YJ-365" edge="1" parent="1" source="e77JalUEdX99PHzA50YJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.272;entryDx=0;entryDy=0;entryPerimeter=0;" target="e77JalUEdX99PHzA50YJ-359">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="1991" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e77JalUEdX99PHzA50YJ-366" connectable="0" parent="e77JalUEdX99PHzA50YJ-365" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Catatan Beban Penyusutan" vertex="1">
+          <mxGeometry relative="1" x="0.3422" y="4" as="geometry">
+            <mxPoint x="17" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e77JalUEdX99PHzA50YJ-369" edge="1" parent="1" source="e77JalUEdX99PHzA50YJ-359" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.579;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" target="e77JalUEdX99PHzA50YJ-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1035" y="2010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e77JalUEdX99PHzA50YJ-370" connectable="0" parent="e77JalUEdX99PHzA50YJ-369" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Akumulasi Penyusutan Aset" vertex="1">
+          <mxGeometry relative="1" x="-0.4566" y="-3" as="geometry">
+            <mxPoint y="3" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
