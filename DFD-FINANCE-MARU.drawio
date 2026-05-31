@@ -6632,6 +6632,14 @@
             <mxPoint y="3" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="e77JalUEdX99PHzA50YJ-371" edge="1" parent="1" source="e77JalUEdX99PHzA50YJ-357" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.861;entryY=0.953;entryDx=0;entryDy=0;entryPerimeter=0;" target="e77JalUEdX99PHzA50YJ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e77JalUEdX99PHzA50YJ-372" connectable="0" parent="e77JalUEdX99PHzA50YJ-371" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Pagu Anggaran" vertex="1">
+          <mxGeometry relative="1" x="-0.4847" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
