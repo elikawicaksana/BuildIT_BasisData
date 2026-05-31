@@ -5210,7 +5210,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LX_TLJkw8lZ8rURFJWVd" name="Page-8">
-    <mxGraphModel dx="813" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1394" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5303,6 +5303,19 @@
         </mxCell>
         <mxCell id="e77JalUEdX99PHzA50YJ-25" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="40" width="170" x="1300" y="940.5" as="geometry" />
+        </mxCell>
+        <mxCell id="e77JalUEdX99PHzA50YJ-355" edge="1" parent="e77JalUEdX99PHzA50YJ-25" source="e77JalUEdX99PHzA50YJ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-89" y="30" />
+            </Array>
+            <mxPoint x="-180" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e77JalUEdX99PHzA50YJ-356" connectable="0" parent="e77JalUEdX99PHzA50YJ-355" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Hutang Terkini" vertex="1">
+          <mxGeometry relative="1" x="0.1056" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="e77JalUEdX99PHzA50YJ-26" parent="e77JalUEdX99PHzA50YJ-25" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=none;fillStyle=solid;" value="&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(102, 0, 204));&quot;&gt;D2&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="170" as="geometry" />
@@ -5501,12 +5514,12 @@
             <mxPoint x="112" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e77JalUEdX99PHzA50YJ-73" edge="1" parent="1" source="e77JalUEdX99PHzA50YJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="e77JalUEdX99PHzA50YJ-26">
+        <mxCell id="e77JalUEdX99PHzA50YJ-73" edge="1" parent="1" source="e77JalUEdX99PHzA50YJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.016;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" target="e77JalUEdX99PHzA50YJ-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e77JalUEdX99PHzA50YJ-74" connectable="0" parent="e77JalUEdX99PHzA50YJ-73" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Catatan Transaksi Hutang" vertex="1">
           <mxGeometry relative="1" x="-0.0453" y="-5" as="geometry">
-            <mxPoint x="-5" y="-5" as="offset" />
+            <mxPoint x="7" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e77JalUEdX99PHzA50YJ-75" edge="1" parent="1" source="e77JalUEdX99PHzA50YJ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="e77JalUEdX99PHzA50YJ-10">
@@ -6194,9 +6207,9 @@
         <mxCell id="e77JalUEdX99PHzA50YJ-240" edge="1" parent="1" source="e77JalUEdX99PHzA50YJ-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.014;entryY=0.938;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" target="e77JalUEdX99PHzA50YJ-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e77JalUEdX99PHzA50YJ-241" connectable="0" parent="e77JalUEdX99PHzA50YJ-240" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Otorisasi Tutup Buku" vertex="1">
+        <mxCell id="e77JalUEdX99PHzA50YJ-241" connectable="0" parent="e77JalUEdX99PHzA50YJ-240" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Beban Penyusutan Aset,&amp;nbsp;&lt;div&gt;Data Otorisasi Tutup Buku&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.5672" y="4" as="geometry">
-            <mxPoint x="50" y="4" as="offset" />
+            <mxPoint x="50" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e77JalUEdX99PHzA50YJ-242" edge="1" parent="1" source="e77JalUEdX99PHzA50YJ-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.275;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" target="e77JalUEdX99PHzA50YJ-23">
