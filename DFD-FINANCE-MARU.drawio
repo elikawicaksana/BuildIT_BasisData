@@ -5210,7 +5210,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LX_TLJkw8lZ8rURFJWVd" name="Page-8">
-    <mxGraphModel dx="528" dy="297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="930" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5558,16 +5558,16 @@
             <mxPoint x="-131" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e77JalUEdX99PHzA50YJ-83" edge="1" parent="1" source="e77JalUEdX99PHzA50YJ-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+        <mxCell id="e77JalUEdX99PHzA50YJ-83" edge="1" parent="1" source="e77JalUEdX99PHzA50YJ-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.002;entryY=0.164;entryDx=0;entryDy=0;entryPerimeter=0;" target="e77JalUEdX99PHzA50YJ-116">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="810" y="320" />
-              <mxPoint x="810" y="330" />
+              <mxPoint x="860" y="310" />
+              <mxPoint x="860" y="313" />
             </Array>
-            <mxPoint x="916" y="330" as="targetPoint" />
+            <mxPoint x="910" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e77JalUEdX99PHzA50YJ-84" connectable="0" parent="e77JalUEdX99PHzA50YJ-83" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Tagihan F&amp;amp;B" vertex="1">
+        <mxCell id="e77JalUEdX99PHzA50YJ-84" connectable="0" parent="e77JalUEdX99PHzA50YJ-83" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Pembayaran F&amp;amp;B" vertex="1">
           <mxGeometry relative="1" x="-0.6418" y="-2" as="geometry">
             <mxPoint x="39" y="-2" as="offset" />
           </mxGeometry>
@@ -6664,6 +6664,19 @@
         <mxCell id="e77JalUEdX99PHzA50YJ-376" connectable="0" parent="e77JalUEdX99PHzA50YJ-375" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Status Pembayaran" vertex="1">
           <mxGeometry relative="1" x="0.1275" as="geometry">
             <mxPoint x="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e77JalUEdX99PHzA50YJ-377" edge="1" parent="1" source="e77JalUEdX99PHzA50YJ-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="e77JalUEdX99PHzA50YJ-125">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="330" />
+              <mxPoint x="850" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e77JalUEdX99PHzA50YJ-378" connectable="0" parent="e77JalUEdX99PHzA50YJ-377" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Status Pembayaran" vertex="1">
+          <mxGeometry relative="1" x="0.2126" y="3" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
