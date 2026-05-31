@@ -6152,12 +6152,12 @@
             <mxPoint x="4" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e77JalUEdX99PHzA50YJ-230" edge="1" parent="1" source="e77JalUEdX99PHzA50YJ-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+        <mxCell id="e77JalUEdX99PHzA50YJ-230" edge="1" parent="1" source="e77JalUEdX99PHzA50YJ-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="991" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e77JalUEdX99PHzA50YJ-231" connectable="0" parent="e77JalUEdX99PHzA50YJ-230" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Otorisasi Budget PO" vertex="1">
+        <mxCell id="e77JalUEdX99PHzA50YJ-231" connectable="0" parent="e77JalUEdX99PHzA50YJ-230" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Otorisasi Budget" vertex="1">
           <mxGeometry relative="1" x="-0.3063" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
