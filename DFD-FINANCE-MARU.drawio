@@ -7005,7 +7005,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DFD LVL 1-Hutang" id="3BRFOiiKaMVMsSv5hpL5">
-    <mxGraphModel dx="2625" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1699" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="oZBi9Lw0NQPqxTvFE9Ae-0" />
         <mxCell id="oZBi9Lw0NQPqxTvFE9Ae-1" parent="oZBi9Lw0NQPqxTvFE9Ae-0" />
@@ -7136,15 +7136,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b-I8E63InyhkF7ZRk8Dc-40" edge="1" parent="oZBi9Lw0NQPqxTvFE9Ae-1" source="b-I8E63InyhkF7ZRk8Dc-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="oZBi9Lw0NQPqxTvFE9Ae-3">
+        <mxCell id="b-I8E63InyhkF7ZRk8Dc-40" edge="1" parent="oZBi9Lw0NQPqxTvFE9Ae-1" source="b-I8E63InyhkF7ZRk8Dc-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" target="oZBi9Lw0NQPqxTvFE9Ae-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="230" y="160" />
-              <mxPoint x="230" y="150" />
+              <mxPoint x="110" y="150" />
+              <mxPoint x="110" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="b-I8E63InyhkF7ZRk8Dc-41" connectable="0" parent="b-I8E63InyhkF7ZRk8Dc-40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Status PO &amp;amp; RR" vertex="1">
+        <mxCell id="b-I8E63InyhkF7ZRk8Dc-41" connectable="0" parent="b-I8E63InyhkF7ZRk8Dc-40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Draft Pengajuan PO" vertex="1">
           <mxGeometry relative="1" x="-0.2625" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -7376,6 +7376,19 @@
         </mxCell>
         <mxCell id="JiE0gIAqOZnDZD7PkUdQ-12" parent="JiE0gIAqOZnDZD7PkUdQ-9" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=light-dark(#bbdefb, #193750);strokeColor=#000000;" value="e" vertex="1">
           <mxGeometry height="20" width="20" x="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="JiE0gIAqOZnDZD7PkUdQ-17" edge="1" parent="oZBi9Lw0NQPqxTvFE9Ae-1" source="b-I8E63InyhkF7ZRk8Dc-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" target="oZBi9Lw0NQPqxTvFE9Ae-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="170" />
+              <mxPoint x="220" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiE0gIAqOZnDZD7PkUdQ-18" connectable="0" parent="JiE0gIAqOZnDZD7PkUdQ-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data PO &amp;amp; RR" vertex="1">
+          <mxGeometry relative="1" x="-0.0727" y="2" as="geometry">
+            <mxPoint y="4" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
