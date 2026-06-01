@@ -7005,7 +7005,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DFD LVL 1-Hutang" id="3BRFOiiKaMVMsSv5hpL5">
-    <mxGraphModel dx="1699" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2070" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="oZBi9Lw0NQPqxTvFE9Ae-0" />
         <mxCell id="oZBi9Lw0NQPqxTvFE9Ae-1" parent="oZBi9Lw0NQPqxTvFE9Ae-0" />
@@ -7257,7 +7257,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="b-I8E63InyhkF7ZRk8Dc-68" connectable="0" parent="b-I8E63InyhkF7ZRk8Dc-67" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Otorisasi Budget, Data Persetujuan PO" vertex="1">
+        <mxCell id="b-I8E63InyhkF7ZRk8Dc-68" connectable="0" parent="b-I8E63InyhkF7ZRk8Dc-67" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Otorisasi Budget" vertex="1">
           <mxGeometry relative="1" x="-0.615" y="-2" as="geometry">
             <mxPoint x="69" y="-2" as="offset" />
           </mxGeometry>
