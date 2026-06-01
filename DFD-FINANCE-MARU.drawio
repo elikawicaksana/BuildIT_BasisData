@@ -6927,8 +6927,14 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s9LBVPPxFOqLjZDa15E4-80" edge="1" parent="1" source="s9LBVPPxFOqLjZDa15E4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="s9LBVPPxFOqLjZDa15E4-22">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="s9LBVPPxFOqLjZDa15E4-80" edge="1" parent="1" source="s9LBVPPxFOqLjZDa15E4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="590" />
+              <mxPoint x="750" y="151" />
+            </Array>
+            <mxPoint x="750" y="151" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="s9LBVPPxFOqLjZDa15E4-81" connectable="0" parent="s9LBVPPxFOqLjZDa15E4-80" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Update Status Transaksi Piutang" vertex="1">
           <mxGeometry relative="1" x="-0.659" y="-1" as="geometry">
@@ -7005,7 +7011,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DFD LVL 1-Hutang" id="3BRFOiiKaMVMsSv5hpL5">
-    <mxGraphModel dx="1699" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3019" dy="1222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="oZBi9Lw0NQPqxTvFE9Ae-0" />
         <mxCell id="oZBi9Lw0NQPqxTvFE9Ae-1" parent="oZBi9Lw0NQPqxTvFE9Ae-0" />
