@@ -7257,7 +7257,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="b-I8E63InyhkF7ZRk8Dc-68" connectable="0" parent="b-I8E63InyhkF7ZRk8Dc-67" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Otorisasi Budget" vertex="1">
+        <mxCell id="b-I8E63InyhkF7ZRk8Dc-68" connectable="0" parent="b-I8E63InyhkF7ZRk8Dc-67" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Otorisasi Budget, Data Persetujuan PO" vertex="1">
           <mxGeometry relative="1" x="-0.615" y="-2" as="geometry">
             <mxPoint x="69" y="-2" as="offset" />
           </mxGeometry>
