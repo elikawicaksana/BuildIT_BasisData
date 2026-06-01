@@ -7011,7 +7011,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DFD LVL 1-Hutang" id="3BRFOiiKaMVMsSv5hpL5">
-    <mxGraphModel dx="3019" dy="1222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1699" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="oZBi9Lw0NQPqxTvFE9Ae-0" />
         <mxCell id="oZBi9Lw0NQPqxTvFE9Ae-1" parent="oZBi9Lw0NQPqxTvFE9Ae-0" />
@@ -7218,9 +7218,9 @@
             <mxPoint x="460" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b-I8E63InyhkF7ZRk8Dc-65" connectable="0" parent="b-I8E63InyhkF7ZRk8Dc-64" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Otorisasi Validasi Invoice" vertex="1">
+        <mxCell id="b-I8E63InyhkF7ZRk8Dc-65" connectable="0" parent="b-I8E63InyhkF7ZRk8Dc-64" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Otorisasi Validasi Invoice,&amp;nbsp;&amp;nbsp;&lt;div&gt;Data Approval Draft PO&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.0366" y="3" as="geometry">
-            <mxPoint y="3" as="offset" />
+            <mxPoint y="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b-I8E63InyhkF7ZRk8Dc-55" parent="b-I8E63InyhkF7ZRk8Dc-54" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;" value="" vertex="1">
