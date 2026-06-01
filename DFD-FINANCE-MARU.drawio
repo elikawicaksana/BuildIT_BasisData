@@ -6683,7 +6683,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Qs8VkiPQ5G-lUraWYGTN" name="DFD LVL 1-Piutang">
-    <mxGraphModel dx="2477" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1998" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6851,11 +6851,11 @@
             <mxPoint x="5" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s9LBVPPxFOqLjZDa15E4-51" edge="1" parent="1" source="s9LBVPPxFOqLjZDa15E4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="s9LBVPPxFOqLjZDa15E4-43">
+        <mxCell id="s9LBVPPxFOqLjZDa15E4-51" edge="1" parent="1" source="s9LBVPPxFOqLjZDa15E4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="s9LBVPPxFOqLjZDa15E4-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="270" y="300" />
-              <mxPoint x="270" y="340" />
+              <mxPoint x="270" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -6998,6 +6998,18 @@
         <mxCell id="efwtl8XzWeeCXSSRiSnV-6" connectable="0" parent="efwtl8XzWeeCXSSRiSnV-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Laporan Pembayaran Masuk" vertex="1">
           <mxGeometry relative="1" x="-0.0255" y="-1" as="geometry">
             <mxPoint x="-40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efwtl8XzWeeCXSSRiSnV-7" edge="1" parent="1" source="s9LBVPPxFOqLjZDa15E4-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.131;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;" target="s9LBVPPxFOqLjZDa15E4-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="326" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="efwtl8XzWeeCXSSRiSnV-8" connectable="0" parent="efwtl8XzWeeCXSSRiSnV-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Permintaan&amp;nbsp;Penerbitan Invoice" vertex="1">
+          <mxGeometry relative="1" x="0.0642" y="2" as="geometry">
+            <mxPoint x="-15" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
