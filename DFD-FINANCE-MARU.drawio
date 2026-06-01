@@ -7390,6 +7390,18 @@
             <mxPoint y="4" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JiE0gIAqOZnDZD7PkUdQ-21" connectable="0" parent="oZBi9Lw0NQPqxTvFE9Ae-1" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="150" x="-220" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="JiE0gIAqOZnDZD7PkUdQ-22" parent="JiE0gIAqOZnDZD7PkUdQ-21" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;" value="" vertex="1">
+          <mxGeometry height="40" width="180" x="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="JiE0gIAqOZnDZD7PkUdQ-23" parent="JiE0gIAqOZnDZD7PkUdQ-21" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" value="Inventory" vertex="1">
+          <mxGeometry height="30" width="70" x="25" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="JiE0gIAqOZnDZD7PkUdQ-24" parent="JiE0gIAqOZnDZD7PkUdQ-21" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=light-dark(#bbdefb, #193750);strokeColor=#000000;" value="g" vertex="1">
+          <mxGeometry height="20" width="20" x="-30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
