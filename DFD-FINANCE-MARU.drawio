@@ -6905,7 +6905,7 @@
             <mxPoint x="400" y="545" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s9LBVPPxFOqLjZDa15E4-72" connectable="0" parent="s9LBVPPxFOqLjZDa15E4-71" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Status Bayar Sementara" vertex="1">
+        <mxCell id="s9LBVPPxFOqLjZDa15E4-72" connectable="0" parent="s9LBVPPxFOqLjZDa15E4-71" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Hasil Pencocokan" vertex="1">
           <mxGeometry relative="1" x="-0.061" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
