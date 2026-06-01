@@ -6801,7 +6801,7 @@
             <mxPoint x="400" y="226" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s9LBVPPxFOqLjZDa15E4-30" connectable="0" parent="s9LBVPPxFOqLjZDa15E4-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Tagihan Terverifikasi" vertex="1">
+        <mxCell id="s9LBVPPxFOqLjZDa15E4-30" connectable="0" parent="s9LBVPPxFOqLjZDa15E4-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Tagihan Terekap" vertex="1">
           <mxGeometry relative="1" x="-0.0492" as="geometry">
             <mxPoint y="-2" as="offset" />
           </mxGeometry>
