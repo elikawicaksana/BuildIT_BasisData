@@ -7005,7 +7005,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DFD LVL 1-Hutang" id="3BRFOiiKaMVMsSv5hpL5">
-    <mxGraphModel dx="1877" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1573" dy="407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="oZBi9Lw0NQPqxTvFE9Ae-0" />
         <mxCell id="oZBi9Lw0NQPqxTvFE9Ae-1" parent="oZBi9Lw0NQPqxTvFE9Ae-0" />
@@ -7326,6 +7326,20 @@
         <mxCell id="9renOgFBpL6LOWfsXDq_-12" connectable="0" parent="9renOgFBpL6LOWfsXDq_-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Konfirmasi Pembayaran" vertex="1">
           <mxGeometry relative="1" x="-0.378" y="-3" as="geometry">
             <mxPoint x="70" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiE0gIAqOZnDZD7PkUdQ-0" edge="1" parent="oZBi9Lw0NQPqxTvFE9Ae-1" source="b-I8E63InyhkF7ZRk8Dc-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.107;entryY=-0.034;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.88;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;" target="b-I8E63InyhkF7ZRk8Dc-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-30" y="390" />
+              <mxPoint x="-30" y="420" />
+              <mxPoint x="321" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiE0gIAqOZnDZD7PkUdQ-1" connectable="0" parent="JiE0gIAqOZnDZD7PkUdQ-0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Instruksi Pembuatan Payment Voucher" vertex="1">
+          <mxGeometry relative="1" x="0.1095" y="-3" as="geometry">
+            <mxPoint x="-16" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
