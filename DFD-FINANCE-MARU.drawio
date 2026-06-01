@@ -7328,19 +7328,6 @@
             <mxPoint x="70" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9renOgFBpL6LOWfsXDq_-13" edge="1" parent="oZBi9Lw0NQPqxTvFE9Ae-1" source="b-I8E63InyhkF7ZRk8Dc-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.815;exitY=1.043;exitDx=0;exitDy=0;exitPerimeter=0;" target="b-I8E63InyhkF7ZRk8Dc-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-43" y="420" />
-              <mxPoint x="400" y="420" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9renOgFBpL6LOWfsXDq_-14" connectable="0" parent="9renOgFBpL6LOWfsXDq_-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Permintaan Eksekusi Bayar" vertex="1">
-          <mxGeometry relative="1" x="-0.0309" y="-4" as="geometry">
-            <mxPoint y="-6" as="offset" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
