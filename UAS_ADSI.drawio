@@ -1199,7 +1199,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SOP Stock Opname" id="T_wXDTEoJLiG_B1k69yw">
-    <mxGraphModel dx="1027" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1032" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="7mE8wNapVt39Qf51f6ck-0" />
         <mxCell id="7mE8wNapVt39Qf51f6ck-1" parent="7mE8wNapVt39Qf51f6ck-0" />
@@ -1295,7 +1295,7 @@
         <mxCell id="7mE8wNapVt39Qf51f6ck-27" parent="7mE8wNapVt39Qf51f6ck-26" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=10;align=center;horizontal=1;spacing=0;" value="end" vertex="1">
           <mxGeometry height="50" width="80" x="80" y="900" as="geometry" />
         </mxCell>
-        <mxCell id="rkgmfLu9Cb3l5Lwbzh1S-5" parent="7mE8wNapVt39Qf51f6ck-26" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="terima LSO &amp;amp; sesuaikan saldo sistem" vertex="1">
+        <mxCell id="rkgmfLu9Cb3l5Lwbzh1S-5" parent="7mE8wNapVt39Qf51f6ck-26" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="menerima LSO" vertex="1">
           <mxGeometry height="50" width="120" x="60" y="805" as="geometry" />
         </mxCell>
         <mxCell id="rkgmfLu9Cb3l5Lwbzh1S-6" edge="1" parent="7mE8wNapVt39Qf51f6ck-26" source="rkgmfLu9Cb3l5Lwbzh1S-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="7mE8wNapVt39Qf51f6ck-27">
