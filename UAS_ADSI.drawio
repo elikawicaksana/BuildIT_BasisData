@@ -1078,7 +1078,7 @@
         <mxCell id="y5Y4M0MLob_5pqQIKXws-13" parent="ssGtbaisqra3XCtUO7Zm-21" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" value="batalkan pembayaran?" vertex="1">
           <mxGeometry height="100" width="100" x="60" y="570" as="geometry" />
         </mxCell>
-        <mxCell id="y5Y4M0MLob_5pqQIKXws-14" parent="ssGtbaisqra3XCtUO7Zm-21" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;bukti pembayaran&lt;/font&gt;" vertex="1">
+        <mxCell id="y5Y4M0MLob_5pqQIKXws-14" parent="ssGtbaisqra3XCtUO7Zm-21" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;PRF&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="100" x="220" y="600" as="geometry" />
         </mxCell>
         <mxCell id="4VLEc_D8oS6K3d9X3Pzi-3" edge="1" parent="ssGtbaisqra3XCtUO7Zm-21" source="4VLEc_D8oS6K3d9X3Pzi-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ssGtbaisqra3XCtUO7Zm-15">
