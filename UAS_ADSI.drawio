@@ -797,7 +797,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SOP Receiving" id="5TAMSkCQQ6MeRQ6Qi39i">
-    <mxGraphModel dx="1782" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="236" dy="133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="r9ATbIV0EeZeC4aXhZ86-0" />
         <mxCell id="r9ATbIV0EeZeC4aXhZ86-1" parent="r9ATbIV0EeZeC4aXhZ86-0" />
@@ -891,7 +891,7 @@
           <mxGeometry height="100" width="100" x="60" y="680" as="geometry" />
         </mxCell>
         <mxCell id="ABpq-SeFZ5FX98YqZmtJ-3" parent="r9ATbIV0EeZeC4aXhZ86-23" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;RR&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="100" x="60" y="820" as="geometry" />
+          <mxGeometry height="60" width="100" x="60" y="830" as="geometry" />
         </mxCell>
         <mxCell id="PgoIJNfYlofgDgnLnvzu-3" edge="1" parent="r9ATbIV0EeZeC4aXhZ86-23" source="ABpq-SeFZ5FX98YqZmtJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="ABpq-SeFZ5FX98YqZmtJ-3">
           <mxGeometry relative="1" as="geometry">
@@ -904,7 +904,7 @@
         </mxCell>
         <mxCell id="PgoIJNfYlofgDgnLnvzu-4" connectable="0" parent="PgoIJNfYlofgDgnLnvzu-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Ya&lt;/font&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.9386" y="-2" as="geometry">
-            <mxPoint x="2" y="9" as="offset" />
+            <mxPoint x="2" y="19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r9ATbIV0EeZeC4aXhZ86-28" parent="r9ATbIV0EeZeC4aXhZ86-2" style="swimlane;html=1;startSize=20;" value="Account Payable" vertex="1">
