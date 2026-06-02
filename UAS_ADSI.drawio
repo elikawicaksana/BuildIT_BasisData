@@ -1003,12 +1003,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SOP Pembayaran" id="JH9lGaH7U9Jn3fDClX_m">
-    <mxGraphModel dx="852" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="503" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ssGtbaisqra3XCtUO7Zm-0" />
         <mxCell id="ssGtbaisqra3XCtUO7Zm-1" parent="ssGtbaisqra3XCtUO7Zm-0" />
         <mxCell id="ssGtbaisqra3XCtUO7Zm-2" parent="ssGtbaisqra3XCtUO7Zm-1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" value="SOP Payment" vertex="1">
-          <mxGeometry height="950" width="860" x="160" y="130" as="geometry">
+          <mxGeometry height="950" width="1100" x="160" y="130" as="geometry">
             <mxRectangle height="30" width="210" x="140" y="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1021,7 +1021,7 @@
         <mxCell id="ssGtbaisqra3XCtUO7Zm-5" parent="ssGtbaisqra3XCtUO7Zm-3" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=10;align=center;horizontal=1;spacing=0;" value="start" vertex="1">
           <mxGeometry height="50" width="80" x="89.99999999999999" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="ssGtbaisqra3XCtUO7Zm-7" parent="ssGtbaisqra3XCtUO7Zm-3" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="mengirim Invoice (Tagihan)" vertex="1">
+        <mxCell id="ssGtbaisqra3XCtUO7Zm-7" parent="ssGtbaisqra3XCtUO7Zm-3" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="mengirim Invoice" vertex="1">
           <mxGeometry height="50" width="120" x="70" y="120" as="geometry" />
         </mxCell>
         <mxCell id="QbviwgZLKEVIOMr4WK90-1" parent="ssGtbaisqra3XCtUO7Zm-3" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="menerima PV" vertex="1">
@@ -1033,7 +1033,7 @@
         <mxCell id="y5Y4M0MLob_5pqQIKXws-4" edge="1" parent="ssGtbaisqra3XCtUO7Zm-21" source="y5Y4M0MLob_5pqQIKXws-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ssGtbaisqra3XCtUO7Zm-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y5Y4M0MLob_5pqQIKXws-1" parent="ssGtbaisqra3XCtUO7Zm-21" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="terima Invoice &amp;amp; membandingkan dengan&amp;nbsp;&lt;div&gt;PO &amp;amp; RR&lt;/div&gt;" vertex="1">
+        <mxCell id="y5Y4M0MLob_5pqQIKXws-1" parent="ssGtbaisqra3XCtUO7Zm-21" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="verifikasi invoice dengan&amp;nbsp;&lt;div&gt;PO &amp;amp; RR&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="120" x="50" y="120" as="geometry" />
         </mxCell>
         <mxCell id="y5Y4M0MLob_5pqQIKXws-6" edge="1" parent="ssGtbaisqra3XCtUO7Zm-21" source="ssGtbaisqra3XCtUO7Zm-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="y5Y4M0MLob_5pqQIKXws-5">
@@ -1170,6 +1170,14 @@
         </mxCell>
         <mxCell id="dK0x3nV1TlaruVA-wP7--2" edge="1" parent="ssGtbaisqra3XCtUO7Zm-2" source="y5Y4M0MLob_5pqQIKXws-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="dK0x3nV1TlaruVA-wP7--1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FR72WlHAkpEk3XxB2Yxo-6" parent="ssGtbaisqra3XCtUO7Zm-2" style="swimlane;html=1;startSize=20;" value="General Cashier" vertex="1">
+          <mxGeometry height="930" width="240" x="860" y="20" as="geometry">
+            <mxRectangle height="810" width="40" x="490" y="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FR72WlHAkpEk3XxB2Yxo-7" parent="FR72WlHAkpEk3XxB2Yxo-6" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=10;align=center;horizontal=1;spacing=0;" value="end" vertex="1">
+          <mxGeometry height="50" width="80" x="65" y="850" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
