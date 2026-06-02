@@ -1003,7 +1003,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SOP Pembayaran" id="JH9lGaH7U9Jn3fDClX_m">
-    <mxGraphModel dx="1225" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1782" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ssGtbaisqra3XCtUO7Zm-0" />
         <mxCell id="ssGtbaisqra3XCtUO7Zm-1" parent="ssGtbaisqra3XCtUO7Zm-0" />
@@ -1170,10 +1170,10 @@
           <mxGeometry height="50" width="80" x="65" y="910" as="geometry" />
         </mxCell>
         <mxCell id="FR72WlHAkpEk3XxB2Yxo-15" parent="FR72WlHAkpEk3XxB2Yxo-6" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="melakukan pembayaran" vertex="1">
-          <mxGeometry height="50" width="120" x="45" y="705" as="geometry" />
+          <mxGeometry height="50" width="120" x="45" y="595" as="geometry" />
         </mxCell>
         <mxCell id="FR72WlHAkpEk3XxB2Yxo-18" parent="FR72WlHAkpEk3XxB2Yxo-6" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;bukti pembayaran&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="100" x="55" y="800" as="geometry" />
+          <mxGeometry height="60" width="100" x="55" y="710" as="geometry" />
         </mxCell>
         <mxCell id="FR72WlHAkpEk3XxB2Yxo-17" edge="1" parent="FR72WlHAkpEk3XxB2Yxo-6" source="FR72WlHAkpEk3XxB2Yxo-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;jumpStyle=arc;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="FR72WlHAkpEk3XxB2Yxo-18">
           <mxGeometry relative="1" as="geometry">
@@ -1181,16 +1181,19 @@
             <mxPoint x="90" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FR72WlHAkpEk3XxB2Yxo-16" edge="1" parent="ssGtbaisqra3XCtUO7Zm-2" source="y5Y4M0MLob_5pqQIKXws-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.495;exitY=0.913;exitDx=0;exitDy=0;exitPerimeter=0;" target="FR72WlHAkpEk3XxB2Yxo-15">
+        <mxCell id="FR72WlHAkpEk3XxB2Yxo-16" edge="1" parent="ssGtbaisqra3XCtUO7Zm-2" source="y5Y4M0MLob_5pqQIKXws-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="FR72WlHAkpEk3XxB2Yxo-15">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="724" y="750" />
-            </Array>
+            <Array as="points" />
             <mxPoint x="775" y="750" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FR72WlHAkpEk3XxB2Yxo-19" edge="1" parent="ssGtbaisqra3XCtUO7Zm-2" source="FR72WlHAkpEk3XxB2Yxo-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;jumpStyle=arc;" target="QbviwgZLKEVIOMr4WK90-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="965" y="860" />
+              <mxPoint x="110" y="860" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
