@@ -202,7 +202,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iY6tvMLdhy0T95_MDdYN" name="SOP DR">
-    <mxGraphModel dx="283" dy="159" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1960" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -345,6 +345,18 @@
             <mxPoint x="10" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="D8sMMoIVKSyfsflQ9zD9-2" parent="5M5MrZl71IJUrKHyCWEb-27" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;div style=&quot;&quot;&gt;update stok&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;barang&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="200" y="925.04" as="geometry" />
+        </mxCell>
+        <mxCell id="CqsUWgCVQPB_aE9TAym--22" edge="1" parent="5M5MrZl71IJUrKHyCWEb-27" source="CqsUWgCVQPB_aE9TAym--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.004;exitY=0.441;exitDx=0;exitDy=0;exitPerimeter=0;" target="D8sMMoIVKSyfsflQ9zD9-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="159" y="950" />
+              <mxPoint x="220" y="950" />
+            </Array>
+            <mxPoint x="280" y="895" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5M5MrZl71IJUrKHyCWEb-28" parent="5M5MrZl71IJUrKHyCWEb-1" style="swimlane;html=1;startSize=20;" value="Staff Unit Pemohon" vertex="1">
           <mxGeometry height="1070" width="210" x="630" y="20" as="geometry">
             <mxRectangle height="810" width="40" x="490" y="20" as="alternateBounds" />
@@ -395,20 +407,11 @@
             <mxPoint y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CqsUWgCVQPB_aE9TAym--22" edge="1" parent="5M5MrZl71IJUrKHyCWEb-1" source="CqsUWgCVQPB_aE9TAym--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.004;exitY=0.441;exitDx=0;exitDy=0;exitPerimeter=0;" target="CqsUWgCVQPB_aE9TAym--25">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="419" y="970" />
-              <mxPoint x="680" y="970" />
-            </Array>
-            <mxPoint x="540" y="915" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CqsUWgCVQPB_aE9TAym--9" edge="1" parent="5M5MrZl71IJUrKHyCWEb-1" source="CqsUWgCVQPB_aE9TAym--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;jumpStyle=arc;" target="5M5MrZl71IJUrKHyCWEb-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="530" y="750" />
-              <mxPoint x="530" y="1045" />
+              <mxPoint x="600" y="750" />
+              <mxPoint x="600" y="1045" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -446,11 +449,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="D8sMMoIVKSyfsflQ9zD9-3" edge="1" parent="5M5MrZl71IJUrKHyCWEb-1" source="D8sMMoIVKSyfsflQ9zD9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;jumpStyle=arc;" target="CqsUWgCVQPB_aE9TAym--25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="SOP PR" id="-7YdF_Z_4hD_neaPn9do">
-    <mxGraphModel dx="1502" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="784" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
