@@ -1180,6 +1180,9 @@
         <mxCell id="FR72WlHAkpEk3XxB2Yxo-15" parent="FR72WlHAkpEk3XxB2Yxo-6" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="melakukan pembayaran" vertex="1">
           <mxGeometry height="50" width="120" x="45" y="705" as="geometry" />
         </mxCell>
+        <mxCell id="FR72WlHAkpEk3XxB2Yxo-17" edge="1" parent="FR72WlHAkpEk3XxB2Yxo-6" source="FR72WlHAkpEk3XxB2Yxo-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="FR72WlHAkpEk3XxB2Yxo-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FR72WlHAkpEk3XxB2Yxo-16" edge="1" parent="ssGtbaisqra3XCtUO7Zm-2" source="FR72WlHAkpEk3XxB2Yxo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FR72WlHAkpEk3XxB2Yxo-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
