@@ -1351,7 +1351,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5KLEpWjr1PCdnnSPkaIy" name="SOP 3.1">
-    <mxGraphModel dx="1960" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="933" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1375,10 +1375,10 @@
           <mxGeometry height="50" width="120" x="70" y="130" as="geometry" />
         </mxCell>
         <mxCell id="a_zoMc-_fXDzIGK7mtbu-142" parent="a_zoMc-_fXDzIGK7mtbu-2" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="Menerima Bukti/Status Pembayaran" vertex="1">
-          <mxGeometry height="50" width="120" x="70" y="1040" as="geometry" />
+          <mxGeometry height="50" width="120" x="70" y="970" as="geometry" />
         </mxCell>
         <mxCell id="a_zoMc-_fXDzIGK7mtbu-110" parent="a_zoMc-_fXDzIGK7mtbu-2" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=10;align=center;horizontal=1;spacing=0;" value="end" vertex="1">
-          <mxGeometry height="50" width="80" x="90" y="1130" as="geometry" />
+          <mxGeometry height="50" width="80" x="90" y="1060" as="geometry" />
         </mxCell>
         <mxCell id="a_zoMc-_fXDzIGK7mtbu-144" edge="1" parent="a_zoMc-_fXDzIGK7mtbu-2" source="a_zoMc-_fXDzIGK7mtbu-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="a_zoMc-_fXDzIGK7mtbu-110">
           <mxGeometry relative="1" as="geometry" />
@@ -1401,20 +1401,16 @@
         <mxCell id="a_zoMc-_fXDzIGK7mtbu-134" parent="a_zoMc-_fXDzIGK7mtbu-21" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;Terima Konfirmasi&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;Uang Ditransfer&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="120" x="70" y="790" as="geometry" />
         </mxCell>
-        <mxCell id="a_zoMc-_fXDzIGK7mtbu-139" edge="1" parent="a_zoMc-_fXDzIGK7mtbu-21" source="a_zoMc-_fXDzIGK7mtbu-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="a_zoMc-_fXDzIGK7mtbu-138">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="a_zoMc-_fXDzIGK7mtbu-139" edge="1" parent="a_zoMc-_fXDzIGK7mtbu-21" source="a_zoMc-_fXDzIGK7mtbu-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="a_zoMc-_fXDzIGK7mtbu-140">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="960" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="a_zoMc-_fXDzIGK7mtbu-136" parent="a_zoMc-_fXDzIGK7mtbu-21" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="Ubah Status Tagihan Menjadi Lunas" vertex="1">
           <mxGeometry height="50" width="120" x="70" y="880" as="geometry" />
         </mxCell>
-        <mxCell id="a_zoMc-_fXDzIGK7mtbu-141" edge="1" parent="a_zoMc-_fXDzIGK7mtbu-21" source="a_zoMc-_fXDzIGK7mtbu-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="a_zoMc-_fXDzIGK7mtbu-140">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="a_zoMc-_fXDzIGK7mtbu-138" parent="a_zoMc-_fXDzIGK7mtbu-21" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="Ubah Status Tagihan Menjadi Lunas" vertex="1">
-          <mxGeometry height="50" width="120" x="70" y="960" as="geometry" />
-        </mxCell>
         <mxCell id="a_zoMc-_fXDzIGK7mtbu-140" parent="a_zoMc-_fXDzIGK7mtbu-21" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="Kirim Bukti Lunas Otomatis ke Pengaju" vertex="1">
-          <mxGeometry height="50" width="120" x="70" y="1040" as="geometry" />
+          <mxGeometry height="50" width="120" x="70" y="970" as="geometry" />
         </mxCell>
         <mxCell id="a_zoMc-_fXDzIGK7mtbu-23" parent="a_zoMc-_fXDzIGK7mtbu-1" style="swimlane;html=1;startSize=20;" value="AP Officer" vertex="1">
           <mxGeometry height="1220" width="240" x="520" y="20" as="geometry">
@@ -1497,7 +1493,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="970" y="530" />
-              <mxPoint x="970" y="1175" />
+              <mxPoint x="970" y="1105" />
             </Array>
           </mxGeometry>
         </mxCell>
