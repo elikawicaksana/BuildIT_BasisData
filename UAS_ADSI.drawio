@@ -1573,11 +1573,10 @@
             <mxRectangle height="810" width="40" x="490" y="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LnLQDl-IIXd14J1ObyRo-10" edge="1" parent="yVd-sTkmAktp4jMODvCP-22" source="LnLQDl-IIXd14J1ObyRo-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="LnLQDl-IIXd14J1ObyRo-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LnLQDl-IIXd14J1ObyRo-7" parent="yVd-sTkmAktp4jMODvCP-22" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="Antrean Piutang" vertex="1">
-          <mxGeometry height="50" width="120" x="60" y="130" as="geometry" />
+        <mxCell id="LnLQDl-IIXd14J1ObyRo-10" edge="1" parent="yVd-sTkmAktp4jMODvCP-22" source="XLRZGApNQvJ3YlZrgnqX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="LnLQDl-IIXd14J1ObyRo-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="180" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LnLQDl-IIXd14J1ObyRo-9" parent="yVd-sTkmAktp4jMODvCP-22" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="Permintaan Penerbitan Invoice" vertex="1">
           <mxGeometry height="50" width="120" x="60" y="220" as="geometry" />
@@ -1590,6 +1589,9 @@
         </mxCell>
         <mxCell id="XLRZGApNQvJ3YlZrgnqX-2" parent="yVd-sTkmAktp4jMODvCP-22" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="Update Status Piutang" vertex="1">
           <mxGeometry height="50" width="120" x="60" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="XLRZGApNQvJ3YlZrgnqX-9" parent="yVd-sTkmAktp4jMODvCP-22" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Antrean Piutang&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="60" y="130" as="geometry" />
         </mxCell>
         <mxCell id="yVd-sTkmAktp4jMODvCP-32" parent="yVd-sTkmAktp4jMODvCP-2" style="swimlane;html=1;startSize=20;" value="Kas &amp;amp; Bank" vertex="1">
           <mxGeometry height="650" width="240" x="760" y="20" as="geometry">
@@ -1608,8 +1610,10 @@
         <mxCell id="LnLQDl-IIXd14J1ObyRo-6" edge="1" parent="yVd-sTkmAktp4jMODvCP-2" source="LnLQDl-IIXd14J1ObyRo-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LnLQDl-IIXd14J1ObyRo-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LnLQDl-IIXd14J1ObyRo-8" edge="1" parent="yVd-sTkmAktp4jMODvCP-2" source="LnLQDl-IIXd14J1ObyRo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LnLQDl-IIXd14J1ObyRo-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="LnLQDl-IIXd14J1ObyRo-8" edge="1" parent="yVd-sTkmAktp4jMODvCP-2" source="LnLQDl-IIXd14J1ObyRo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="XLRZGApNQvJ3YlZrgnqX-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="175" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LnLQDl-IIXd14J1ObyRo-16" edge="1" parent="yVd-sTkmAktp4jMODvCP-2" source="LnLQDl-IIXd14J1ObyRo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="LnLQDl-IIXd14J1ObyRo-15">
           <mxGeometry relative="1" as="geometry" />
