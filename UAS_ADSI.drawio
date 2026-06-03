@@ -1526,7 +1526,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SOP Piutang" id="EYPCfDN5KEqPjH4I7137">
-    <mxGraphModel dx="1400" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="980" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="yVd-sTkmAktp4jMODvCP-0" />
         <mxCell id="yVd-sTkmAktp4jMODvCP-1" parent="yVd-sTkmAktp4jMODvCP-0" />
@@ -1576,7 +1576,7 @@
         <mxCell id="LnLQDl-IIXd14J1ObyRo-10" edge="1" parent="yVd-sTkmAktp4jMODvCP-22" source="LnLQDl-IIXd14J1ObyRo-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="LnLQDl-IIXd14J1ObyRo-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LnLQDl-IIXd14J1ObyRo-7" parent="yVd-sTkmAktp4jMODvCP-22" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="Rekam Piutang Baru&amp;nbsp;&lt;div&gt;ke Antrean&lt;/div&gt;" vertex="1">
+        <mxCell id="LnLQDl-IIXd14J1ObyRo-7" parent="yVd-sTkmAktp4jMODvCP-22" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="Antrean Piutang" vertex="1">
           <mxGeometry height="50" width="120" x="60" y="130" as="geometry" />
         </mxCell>
         <mxCell id="LnLQDl-IIXd14J1ObyRo-9" parent="yVd-sTkmAktp4jMODvCP-22" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="Permintaan Penerbitan Invoice" vertex="1">
