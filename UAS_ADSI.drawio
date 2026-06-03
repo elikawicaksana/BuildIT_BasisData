@@ -1351,7 +1351,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5KLEpWjr1PCdnnSPkaIy" name="SOP 3.1">
-    <mxGraphModel dx="1307" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1960" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1423,7 +1423,7 @@
         <mxCell id="a_zoMc-_fXDzIGK7mtbu-140" parent="a_zoMc-_fXDzIGK7mtbu-21" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="Kirim Bukti Lunas Otomatis ke Pengaju" vertex="1">
           <mxGeometry height="50" width="120" x="70" y="970" as="geometry" />
         </mxCell>
-        <mxCell id="a_zoMc-_fXDzIGK7mtbu-147" parent="a_zoMc-_fXDzIGK7mtbu-21" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="Ubah Status Tagihan Menjadi Ditolak&amp;nbsp;&lt;div&gt;(Rejected)&lt;/div&gt;" vertex="1">
+        <mxCell id="a_zoMc-_fXDzIGK7mtbu-147" parent="a_zoMc-_fXDzIGK7mtbu-21" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="Ubah status pengajuan menjadi ditolak&amp;nbsp;&lt;div&gt;(Rejected)&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="120" x="70" y="245" as="geometry" />
         </mxCell>
         <mxCell id="a_zoMc-_fXDzIGK7mtbu-23" parent="a_zoMc-_fXDzIGK7mtbu-1" style="swimlane;html=1;startSize=20;" value="AP Officer" vertex="1">
@@ -1503,24 +1503,19 @@
         <mxCell id="a_zoMc-_fXDzIGK7mtbu-143" edge="1" parent="a_zoMc-_fXDzIGK7mtbu-1" source="a_zoMc-_fXDzIGK7mtbu-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="a_zoMc-_fXDzIGK7mtbu-142">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a_zoMc-_fXDzIGK7mtbu-145" edge="1" parent="a_zoMc-_fXDzIGK7mtbu-1" source="a_zoMc-_fXDzIGK7mtbu-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="a_zoMc-_fXDzIGK7mtbu-110">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="970" y="530" />
-              <mxPoint x="970" y="1105" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="a_zoMc-_fXDzIGK7mtbu-146" connectable="0" parent="a_zoMc-_fXDzIGK7mtbu-145" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Tidak" vertex="1">
-          <mxGeometry relative="1" x="-0.9738" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="a_zoMc-_fXDzIGK7mtbu-148" edge="1" parent="a_zoMc-_fXDzIGK7mtbu-1" source="a_zoMc-_fXDzIGK7mtbu-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="a_zoMc-_fXDzIGK7mtbu-147">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a_zoMc-_fXDzIGK7mtbu-150" edge="1" parent="a_zoMc-_fXDzIGK7mtbu-1" source="a_zoMc-_fXDzIGK7mtbu-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="a_zoMc-_fXDzIGK7mtbu-149">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_zoMc-_fXDzIGK7mtbu-153" edge="1" parent="a_zoMc-_fXDzIGK7mtbu-1" source="a_zoMc-_fXDzIGK7mtbu-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="a_zoMc-_fXDzIGK7mtbu-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_zoMc-_fXDzIGK7mtbu-154" connectable="0" parent="a_zoMc-_fXDzIGK7mtbu-153" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Tidak" vertex="1">
+          <mxGeometry relative="1" x="-0.8587" y="-2" as="geometry">
+            <mxPoint x="6" y="2" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
