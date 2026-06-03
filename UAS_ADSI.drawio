@@ -1351,17 +1351,17 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5KLEpWjr1PCdnnSPkaIy" name="SOP 3.1">
-    <mxGraphModel dx="933" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1307" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="a_zoMc-_fXDzIGK7mtbu-1" parent="1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" value="SOP&amp;nbsp;Perekapan Tagihan &amp;amp; Klaim" vertex="1">
-          <mxGeometry height="1240" width="1000" x="330" y="320" as="geometry">
+          <mxGeometry height="1180" width="1000" x="330" y="320" as="geometry">
             <mxRectangle height="30" width="210" x="140" y="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a_zoMc-_fXDzIGK7mtbu-2" parent="a_zoMc-_fXDzIGK7mtbu-1" style="swimlane;html=1;startSize=20;" value="Pengaju" vertex="1">
-          <mxGeometry height="1220" width="260" y="20" as="geometry" />
+          <mxGeometry height="1160" width="260" y="20" as="geometry" />
         </mxCell>
         <mxCell id="a_zoMc-_fXDzIGK7mtbu-107" edge="1" parent="a_zoMc-_fXDzIGK7mtbu-2" source="a_zoMc-_fXDzIGK7mtbu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="a_zoMc-_fXDzIGK7mtbu-8">
           <mxGeometry relative="1" as="geometry">
@@ -1383,8 +1383,19 @@
         <mxCell id="a_zoMc-_fXDzIGK7mtbu-144" edge="1" parent="a_zoMc-_fXDzIGK7mtbu-2" source="a_zoMc-_fXDzIGK7mtbu-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="a_zoMc-_fXDzIGK7mtbu-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="a_zoMc-_fXDzIGK7mtbu-149" parent="a_zoMc-_fXDzIGK7mtbu-2" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="Notifikasi Penolakan" vertex="1">
+          <mxGeometry height="50" width="120" x="70" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="a_zoMc-_fXDzIGK7mtbu-152" edge="1" parent="a_zoMc-_fXDzIGK7mtbu-2" source="a_zoMc-_fXDzIGK7mtbu-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="a_zoMc-_fXDzIGK7mtbu-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="270" />
+              <mxPoint x="30" y="1085" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="a_zoMc-_fXDzIGK7mtbu-21" parent="a_zoMc-_fXDzIGK7mtbu-1" style="swimlane;html=1;startSize=20;" value="Sistem" vertex="1">
-          <mxGeometry height="1220" width="260" x="260" y="20" as="geometry" />
+          <mxGeometry height="1160" width="260" x="260" y="20" as="geometry" />
         </mxCell>
         <mxCell id="a_zoMc-_fXDzIGK7mtbu-108" parent="a_zoMc-_fXDzIGK7mtbu-21" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="Validasi Input &amp;amp;&amp;nbsp;&lt;div&gt;Tampilkan di Antrean&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="120" x="70" y="130" as="geometry" />
@@ -1412,8 +1423,11 @@
         <mxCell id="a_zoMc-_fXDzIGK7mtbu-140" parent="a_zoMc-_fXDzIGK7mtbu-21" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="Kirim Bukti Lunas Otomatis ke Pengaju" vertex="1">
           <mxGeometry height="50" width="120" x="70" y="970" as="geometry" />
         </mxCell>
+        <mxCell id="a_zoMc-_fXDzIGK7mtbu-147" parent="a_zoMc-_fXDzIGK7mtbu-21" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="Ubah Status Tagihan Menjadi Ditolak&amp;nbsp;&lt;div&gt;(Rejected)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="70" y="245" as="geometry" />
+        </mxCell>
         <mxCell id="a_zoMc-_fXDzIGK7mtbu-23" parent="a_zoMc-_fXDzIGK7mtbu-1" style="swimlane;html=1;startSize=20;" value="AP Officer" vertex="1">
-          <mxGeometry height="1220" width="240" x="520" y="20" as="geometry">
+          <mxGeometry height="1160" width="240" x="520" y="20" as="geometry">
             <mxRectangle height="810" width="40" x="490" y="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1447,7 +1461,7 @@
           <mxGeometry height="50" width="120" x="60" y="700" as="geometry" />
         </mxCell>
         <mxCell id="a_zoMc-_fXDzIGK7mtbu-109" parent="a_zoMc-_fXDzIGK7mtbu-1" style="swimlane;html=1;startSize=20;" value="Cost Controller" vertex="1">
-          <mxGeometry height="1220" width="240" x="760" y="20" as="geometry">
+          <mxGeometry height="1160" width="240" x="760" y="20" as="geometry">
             <mxRectangle height="810" width="40" x="490" y="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1501,6 +1515,12 @@
           <mxGeometry relative="1" x="-0.9738" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="a_zoMc-_fXDzIGK7mtbu-148" edge="1" parent="a_zoMc-_fXDzIGK7mtbu-1" source="a_zoMc-_fXDzIGK7mtbu-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="a_zoMc-_fXDzIGK7mtbu-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_zoMc-_fXDzIGK7mtbu-150" edge="1" parent="a_zoMc-_fXDzIGK7mtbu-1" source="a_zoMc-_fXDzIGK7mtbu-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="a_zoMc-_fXDzIGK7mtbu-149">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
