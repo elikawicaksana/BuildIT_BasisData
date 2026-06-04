@@ -202,7 +202,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iY6tvMLdhy0T95_MDdYN" name="SOP DR">
-    <mxGraphModel dx="1960" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="784" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -348,13 +348,12 @@
         <mxCell id="D8sMMoIVKSyfsflQ9zD9-2" parent="5M5MrZl71IJUrKHyCWEb-27" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;div style=&quot;&quot;&gt;update stok&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;barang&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="120" x="200" y="925.04" as="geometry" />
         </mxCell>
-        <mxCell id="CqsUWgCVQPB_aE9TAym--22" edge="1" parent="5M5MrZl71IJUrKHyCWEb-27" source="CqsUWgCVQPB_aE9TAym--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.004;exitY=0.441;exitDx=0;exitDy=0;exitPerimeter=0;" target="D8sMMoIVKSyfsflQ9zD9-2">
+        <mxCell id="CqsUWgCVQPB_aE9TAym--22" edge="1" parent="5M5MrZl71IJUrKHyCWEb-27" source="CqsUWgCVQPB_aE9TAym--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.004;exitY=0.441;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="D8sMMoIVKSyfsflQ9zD9-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="159" y="950" />
-              <mxPoint x="220" y="950" />
             </Array>
-            <mxPoint x="280" y="895" as="targetPoint" />
+            <mxPoint x="190" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5M5MrZl71IJUrKHyCWEb-28" parent="5M5MrZl71IJUrKHyCWEb-1" style="swimlane;html=1;startSize=20;" value="Staff Unit Pemohon" vertex="1">
