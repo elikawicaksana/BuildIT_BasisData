@@ -5229,20 +5229,18 @@
             <mxPoint x="200" y="84" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOKBJQo4ouNcA8nMOo10-5" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.985;entryDx=0;entryDy=0;entryPerimeter=0;" target="FOKBJQo4ouNcA8nMOo10-3">
+        <mxCell id="FOKBJQo4ouNcA8nMOo10-5" edge="1" parent="1" source="FOKBJQo4ouNcA8nMOo10-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.985;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.219;exitY=0.038;exitDx=0;exitDy=0;exitPerimeter=0;" target="FOKBJQo4ouNcA8nMOo10-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="600" y="800" />
-              <mxPoint x="604" y="800" />
-              <mxPoint x="604" y="720" />
-              <mxPoint x="684" y="720" />
+              <mxPoint x="439" y="730" />
+              <mxPoint x="684" y="730" />
             </Array>
             <mxPoint x="605" y="800" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOKBJQo4ouNcA8nMOo10-6" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Laporan Biaya/Tagihan&lt;/span&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Perbaikan Fasilitas&lt;/span&gt;" vertex="1">
+        <mxCell id="FOKBJQo4ouNcA8nMOo10-6" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Pengajuan anggaran operasional &amp;amp; pengadaan,&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Laporan Biaya/Tagihan&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Perbaikan Fasilitas&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.0619" y="-4" as="geometry">
-            <mxPoint x="7" y="-24" as="offset" />
+            <mxPoint x="5" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-7" edge="1" parent="1" source="FOKBJQo4ouNcA8nMOo10-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.026;entryY=0.543;entryDx=0;entryDy=0;exitX=0.727;exitY=1.016;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;">
@@ -5315,14 +5313,18 @@
             <mxPoint x="6" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOKBJQo4ouNcA8nMOo10-17" edge="1" parent="1" source="FOKBJQo4ouNcA8nMOo10-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.643;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.148;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;">
+        <mxCell id="FOKBJQo4ouNcA8nMOo10-17" edge="1" parent="1" source="FOKBJQo4ouNcA8nMOo10-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.798;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.148;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;" target="FOKBJQo4ouNcA8nMOo10-67">
           <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="706" y="770" />
+              <mxPoint x="503" y="770" />
+            </Array>
             <mxPoint x="629.74" y="805.03" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOKBJQo4ouNcA8nMOo10-18" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Status Pembayaran&lt;div&gt;Tagihan Perbaikan&lt;/div&gt;" vertex="1">
+        <mxCell id="FOKBJQo4ouNcA8nMOo10-18" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Status Pembayaran&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 10px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Tagihan Perbaikan&lt;/span&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.0031" y="3" as="geometry">
-            <mxPoint x="-4" y="34" as="offset" />
+            <mxPoint x="-25" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-19" edge="1" parent="1" source="FOKBJQo4ouNcA8nMOo10-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.918;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;">
@@ -5519,7 +5521,7 @@
           <mxGeometry height="20" width="20" x="-30" as="geometry" />
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-60" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="50" width="180" x="210" y="470" as="geometry" />
+          <mxGeometry height="50" width="180" x="210" y="440" as="geometry" />
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-61" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-60" style="group" value="" vertex="1">
           <mxGeometry height="50" width="150" x="30" as="geometry" />
@@ -5534,7 +5536,7 @@
           <mxGeometry height="20" width="20" as="geometry" />
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-65" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="150" x="547" y="805" as="geometry" />
+          <mxGeometry height="40" width="150" x="410" y="840" as="geometry" />
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-66" parent="FOKBJQo4ouNcA8nMOo10-65" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;" value="" vertex="1">
           <mxGeometry height="40" width="180" x="-30" as="geometry" />
@@ -5582,7 +5584,7 @@
           <mxGeometry height="20" width="20" x="-30" as="geometry" />
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-81" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="180" x="210" y="530" as="geometry" />
+          <mxGeometry height="40" width="180" x="210" y="510" as="geometry" />
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-82" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-81" style="group" value="" vertex="1">
           <mxGeometry height="40" width="150" x="30" as="geometry" />
@@ -5738,47 +5740,51 @@
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-130" edge="1" parent="1" source="FOKBJQo4ouNcA8nMOo10-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FOKBJQo4ouNcA8nMOo10-2">
           <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="595" />
+              <mxPoint x="580" y="605" />
+            </Array>
             <mxPoint x="655" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOKBJQo4ouNcA8nMOo10-131" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-130" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Data Rincian Gaji Karyawan&lt;/span&gt;" vertex="1">
+        <mxCell id="FOKBJQo4ouNcA8nMOo10-131" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-130" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Data Rincian Gaji Karyawan,&amp;nbsp;&lt;/span&gt;Pengajuan&amp;nbsp;&lt;div&gt;anggaran operasional &amp;amp; pengadaan&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.4236" y="2" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="25" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-132" edge="1" parent="1" source="FOKBJQo4ouNcA8nMOo10-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="FOKBJQo4ouNcA8nMOo10-70">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="655" y="630" />
-              <mxPoint x="523" y="630" />
-              <mxPoint x="523" y="615" />
+              <mxPoint x="410" y="630" />
+              <mxPoint x="410" y="615" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-133" edge="1" parent="1" source="FOKBJQo4ouNcA8nMOo10-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.12;entryDx=0;entryDy=0;entryPerimeter=0;" target="FOKBJQo4ouNcA8nMOo10-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="635" y="490" />
+              <mxPoint x="635" y="460" />
               <mxPoint x="635" y="563" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-134" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-133" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Instruksi Tutup Shift &amp;amp; Rekap Kas,&lt;div&gt;Laporan Penerimaan Kas Harian&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.4644" y="2" as="geometry">
-            <mxPoint x="35" y="-8" as="offset" />
+            <mxPoint x="28" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-135" edge="1" parent="1" source="FOKBJQo4ouNcA8nMOo10-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" target="FOKBJQo4ouNcA8nMOo10-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="615" y="540" />
+              <mxPoint x="615" y="520" />
               <mxPoint x="615" y="577" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOKBJQo4ouNcA8nMOo10-136" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-135" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Data Tagihan F&amp;amp;B,&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Data Tagihan Belum Terbayar&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="FOKBJQo4ouNcA8nMOo10-136" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-135" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Data Tagihan F&amp;amp;B,&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Data Tagihan Belum Terbayar,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Pengajuan&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;anggaran operasional &amp;amp; pengadaan&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.3201" y="-1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="5" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-137" edge="1" parent="1" source="FOKBJQo4ouNcA8nMOo10-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="FOKBJQo4ouNcA8nMOo10-83">
@@ -5787,6 +5793,8 @@
               <mxPoint x="655" y="590" />
               <mxPoint x="595" y="590" />
               <mxPoint x="595" y="560" />
+              <mxPoint x="410" y="560" />
+              <mxPoint x="410" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
