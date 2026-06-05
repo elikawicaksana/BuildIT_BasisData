@@ -5210,7 +5210,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PB2LZSsXpq_BHWsfL5BB" name="Diagram Konteks">
-    <mxGraphModel dx="1508" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="852" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5268,7 +5268,7 @@
             <mxPoint x="855" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOKBJQo4ouNcA8nMOo10-10" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" value="&lt;span&gt;Laporan Penjualan&lt;/span&gt;" vertex="1">
+        <mxCell id="FOKBJQo4ouNcA8nMOo10-10" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" value="Status persetujuan anggaran,&lt;div&gt;&lt;span&gt;Laporan Penjualan&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.4443" y="-2" as="geometry">
             <mxPoint x="-45" y="2" as="offset" />
           </mxGeometry>
