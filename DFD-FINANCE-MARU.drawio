@@ -5396,31 +5396,32 @@
             <mxPoint x="92" y="-94" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOKBJQo4ouNcA8nMOo10-29" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;">
+        <mxCell id="FOKBJQo4ouNcA8nMOo10-29" edge="1" parent="1" source="FOKBJQo4ouNcA8nMOo10-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="980" y="480" />
+              <mxPoint x="990" y="410" />
+              <mxPoint x="990" y="480" />
               <mxPoint x="835" y="480" />
             </Array>
             <mxPoint x="980" y="410" as="sourcePoint" />
             <mxPoint x="835" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOKBJQo4ouNcA8nMOo10-30" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Status Piutang" vertex="1">
+        <mxCell id="FOKBJQo4ouNcA8nMOo10-30" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Update Status Piutang" vertex="1">
           <mxGeometry relative="1" x="0.0929" y="3" as="geometry">
-            <mxPoint x="7" y="-3" as="offset" />
+            <mxPoint x="12" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOKBJQo4ouNcA8nMOo10-31" edge="1" parent="1" source="FOKBJQo4ouNcA8nMOo10-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.952;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.359;exitY=1.037;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;exitPerimeter=0;" target="FOKBJQo4ouNcA8nMOo10-2">
+        <mxCell id="FOKBJQo4ouNcA8nMOo10-31" edge="1" parent="1" source="FOKBJQo4ouNcA8nMOo10-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.952;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.45;exitY=0.962;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;exitPerimeter=0;" target="FOKBJQo4ouNcA8nMOo10-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1009" y="510" />
+              <mxPoint x="1025" y="510" />
               <mxPoint x="845" y="510" />
             </Array>
             <mxPoint x="1015" y="410" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOKBJQo4ouNcA8nMOo10-32" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Daftar Piutang&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Jatuh Tempo&lt;/span&gt;" vertex="1">
+        <mxCell id="FOKBJQo4ouNcA8nMOo10-32" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Daftar Piutang" vertex="1">
           <mxGeometry relative="1" x="0.4821" y="1" as="geometry">
             <mxPoint x="45" y="-1" as="offset" />
           </mxGeometry>
@@ -5443,7 +5444,7 @@
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-36" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Approval invoice" vertex="1">
           <mxGeometry relative="1" x="-0.4333" as="geometry">
-            <mxPoint x="33" y="5" as="offset" />
+            <mxPoint x="33" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-46" edge="1" parent="1" source="FOKBJQo4ouNcA8nMOo10-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;">
