@@ -5210,7 +5210,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PB2LZSsXpq_BHWsfL5BB" name="Diagram Konteks">
-    <mxGraphModel dx="676" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="784" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5851,9 +5851,9 @@
         <mxCell id="FOKBJQo4ouNcA8nMOo10-148" edge="1" parent="1" source="FOKBJQo4ouNcA8nMOo10-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.273;exitY=-0.005;exitDx=0;exitDy=0;exitPerimeter=0;" target="FOKBJQo4ouNcA8nMOo10-121">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FOKBJQo4ouNcA8nMOo10-149" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-148" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Draft Pengajuan PO" vertex="1">
+        <mxCell id="FOKBJQo4ouNcA8nMOo10-149" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-148" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Status Persetujuan PO, Status persetujuan anggaran" vertex="1">
           <mxGeometry relative="1" x="0.4266" y="3" as="geometry">
-            <mxPoint y="-1" as="offset" />
+            <mxPoint x="24" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
