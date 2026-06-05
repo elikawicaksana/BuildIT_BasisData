@@ -5286,18 +5286,18 @@
             <mxPoint x="102" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOKBJQo4ouNcA8nMOo10-13" edge="1" parent="1" source="FOKBJQo4ouNcA8nMOo10-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.34;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" target="FOKBJQo4ouNcA8nMOo10-2">
+        <mxCell id="FOKBJQo4ouNcA8nMOo10-13" edge="1" parent="1" source="FOKBJQo4ouNcA8nMOo10-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.34;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" target="FOKBJQo4ouNcA8nMOo10-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="723" y="320" />
+              <mxPoint x="723" y="310" />
             </Array>
             <mxPoint x="565" y="310.0000000000001" as="sourcePoint" />
             <mxPoint x="745" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOKBJQo4ouNcA8nMOo10-14" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;Data PO&amp;nbsp;&lt;span style=&quot;&quot;&gt;RR,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Pengajuan anggaran operasional &amp;amp; pengadaan&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="FOKBJQo4ouNcA8nMOo10-14" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;Draft Pengajuan PO, Data PO&amp;nbsp;&lt;span style=&quot;&quot;&gt;RR,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Pengajuan anggaran operasional &amp;amp; pengadaan&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.0818" y="-4" as="geometry">
-            <mxPoint x="-97" y="-4" as="offset" />
+            <mxPoint x="-101" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-15" edge="1" parent="1" source="FOKBJQo4ouNcA8nMOo10-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;">
@@ -5844,6 +5844,14 @@
         <mxCell id="FOKBJQo4ouNcA8nMOo10-143" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-142" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data Persetujuan Pagu Anggaran" vertex="1">
           <mxGeometry relative="1" x="-0.4579" y="2" as="geometry">
             <mxPoint y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FOKBJQo4ouNcA8nMOo10-148" edge="1" parent="1" source="FOKBJQo4ouNcA8nMOo10-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.273;exitY=-0.005;exitDx=0;exitDy=0;exitPerimeter=0;" target="FOKBJQo4ouNcA8nMOo10-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FOKBJQo4ouNcA8nMOo10-149" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-148" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Draft Pengajuan PO" vertex="1">
+          <mxGeometry relative="1" x="0.4266" y="3" as="geometry">
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
