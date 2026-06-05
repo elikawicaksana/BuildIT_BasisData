@@ -5210,7 +5210,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PB2LZSsXpq_BHWsfL5BB" name="Diagram Konteks">
-    <mxGraphModel dx="1633" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="653" dy="367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5322,7 +5322,7 @@
             <mxPoint x="629.74" y="805.03" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOKBJQo4ouNcA8nMOo10-18" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" value="&lt;font&gt;Status Pembayaran&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Tagihan Perbaikan&lt;/span&gt;" vertex="1">
+        <mxCell id="FOKBJQo4ouNcA8nMOo10-18" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" value="&lt;font&gt;, Status persetujuan anggaran,&lt;/font&gt;&lt;div&gt;&lt;font&gt;Status Pembayaran&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Tagihan Perbaikan&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.0031" y="3" as="geometry">
             <mxPoint x="-36" y="-3" as="offset" />
           </mxGeometry>
