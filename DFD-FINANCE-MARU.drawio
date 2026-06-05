@@ -5268,7 +5268,7 @@
             <mxPoint x="855" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOKBJQo4ouNcA8nMOo10-10" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Laporan Penjualan&lt;/span&gt;" vertex="1">
+        <mxCell id="FOKBJQo4ouNcA8nMOo10-10" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" value="&lt;span&gt;Laporan Penjualan&lt;/span&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.4443" y="-2" as="geometry">
             <mxPoint x="-45" y="2" as="offset" />
           </mxGeometry>
@@ -5281,9 +5281,9 @@
             <mxPoint x="565" y="370" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOKBJQo4ouNcA8nMOo10-12" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Data Tagihan Tamu,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Data Voucher Tamu,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Permintaan Refund,&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Pengajuan anggaran&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;operasional &amp;amp; pengadaan&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="FOKBJQo4ouNcA8nMOo10-12" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" value="&lt;font&gt;Data Pembayaran Tamu,&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Data Voucher Tamu,&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Permintaan Refund&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;,&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Pengajuan&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;anggaran&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;operasional &amp;amp; pengadaan&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.7185" as="geometry">
-            <mxPoint x="83" y="-5" as="offset" />
+            <mxPoint x="102" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-13" edge="1" parent="1" source="FOKBJQo4ouNcA8nMOo10-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.34;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" target="FOKBJQo4ouNcA8nMOo10-2">
@@ -5308,7 +5308,7 @@
             <mxPoint x="1210" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOKBJQo4ouNcA8nMOo10-16" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Bukti Rincian Pembayaran" vertex="1">
+        <mxCell id="FOKBJQo4ouNcA8nMOo10-16" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" value="Bukti Rincian Pembayaran" vertex="1">
           <mxGeometry relative="1" x="-0.2594" y="-4" as="geometry">
             <mxPoint x="6" y="-4" as="offset" />
           </mxGeometry>
@@ -5322,7 +5322,7 @@
             <mxPoint x="629.74" y="805.03" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOKBJQo4ouNcA8nMOo10-18" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Status Pembayaran&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 10px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Tagihan Perbaikan&lt;/span&gt;" vertex="1">
+        <mxCell id="FOKBJQo4ouNcA8nMOo10-18" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" value="&lt;font&gt;Status Pembayaran&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Tagihan Perbaikan&lt;/span&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.0031" y="3" as="geometry">
             <mxPoint x="-39" y="-3" as="offset" />
           </mxGeometry>
@@ -5516,7 +5516,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-56" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="150" x="241" y="640" as="geometry" />
+          <mxGeometry height="40" width="150" x="201" y="640" as="geometry" />
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-57" parent="FOKBJQo4ouNcA8nMOo10-56" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;" value="" vertex="1">
           <mxGeometry height="40" width="180" x="-30" as="geometry" />
@@ -5528,7 +5528,7 @@
           <mxGeometry height="20" width="20" x="-30" as="geometry" />
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-60" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="50" width="180" x="210" y="440" as="geometry" />
+          <mxGeometry height="50" width="180" x="170" y="440" as="geometry" />
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-61" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-60" style="group" value="" vertex="1">
           <mxGeometry height="50" width="150" x="30" as="geometry" />
@@ -5555,7 +5555,7 @@
           <mxGeometry height="20" width="20" x="-30" as="geometry" />
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-69" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="150" x="241" y="585" as="geometry" />
+          <mxGeometry height="40" width="150" x="201" y="585" as="geometry" />
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-70" parent="FOKBJQo4ouNcA8nMOo10-69" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;" value="" vertex="1">
           <mxGeometry height="40" width="180" x="-30" as="geometry" />
@@ -5591,7 +5591,7 @@
           <mxGeometry height="20" width="20" x="-30" as="geometry" />
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-81" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="180" x="210" y="510" as="geometry" />
+          <mxGeometry height="40" width="180" x="170" y="510" as="geometry" />
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-82" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-81" style="group" value="" vertex="1">
           <mxGeometry height="40" width="150" x="30" as="geometry" />
@@ -5696,7 +5696,7 @@
           <mxGeometry height="20" width="20" as="geometry" />
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-116" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="180" x="210" y="370" as="geometry" />
+          <mxGeometry height="40" width="180" x="170" y="370" as="geometry" />
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-117" parent="FOKBJQo4ouNcA8nMOo10-116" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;" value="" vertex="1">
           <mxGeometry height="40" width="180" as="geometry" />
@@ -5708,7 +5708,7 @@
           <mxGeometry height="20" width="20" as="geometry" />
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-120" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="180" x="210" y="300" as="geometry" />
+          <mxGeometry height="40" width="180" x="170" y="300" as="geometry" />
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-121" parent="FOKBJQo4ouNcA8nMOo10-120" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;" value="" vertex="1">
           <mxGeometry height="40" width="180" as="geometry" />
@@ -5740,7 +5740,7 @@
             <mxPoint x="655" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOKBJQo4ouNcA8nMOo10-129" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-128" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Laporan pajak tahunan badan,&amp;nbsp;&lt;div&gt;laporan pajak pertambahan nilai,&amp;nbsp;&lt;/div&gt;&lt;div&gt;laporan pajak penghasilan&lt;/div&gt;" vertex="1">
+        <mxCell id="FOKBJQo4ouNcA8nMOo10-129" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-128" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" value="Laporan pajak tahunan badan,&amp;nbsp;&lt;div&gt;laporan pajak pertambahan nilai,&amp;nbsp;&lt;/div&gt;&lt;div&gt;laporan pajak penghasilan&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.3981" y="5" as="geometry">
             <mxPoint x="22" y="15" as="offset" />
           </mxGeometry>
@@ -5754,7 +5754,7 @@
             <mxPoint x="655" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOKBJQo4ouNcA8nMOo10-131" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-130" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Data Rincian Gaji Karyawan,&amp;nbsp;&lt;/span&gt;Pengajuan&amp;nbsp;&lt;div&gt;anggaran operasional &amp;amp; pengadaan&lt;/div&gt;" vertex="1">
+        <mxCell id="FOKBJQo4ouNcA8nMOo10-131" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-130" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" value="&lt;font&gt;Data Rincian Gaji Karyawan,&amp;nbsp;Pengajuan&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font&gt;anggaran operasional &amp;amp; pengadaan&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.4236" y="2" as="geometry">
             <mxPoint x="25" y="2" as="offset" />
           </mxGeometry>
@@ -5776,7 +5776,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOKBJQo4ouNcA8nMOo10-134" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-133" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Instruksi Tutup Shift &amp;amp; Rekap Kas,&lt;div&gt;Laporan Penerimaan Kas Harian&lt;/div&gt;" vertex="1">
+        <mxCell id="FOKBJQo4ouNcA8nMOo10-134" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-133" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" value="Instruksi Tutup Shift &amp;amp; Rekap Kas,&lt;div&gt;Laporan Penerimaan Kas Harian&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.4644" y="2" as="geometry">
             <mxPoint x="28" y="2" as="offset" />
           </mxGeometry>
@@ -5789,7 +5789,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FOKBJQo4ouNcA8nMOo10-136" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-135" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Data Tagihan F&amp;amp;B,&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Data Tagihan Belum Terbayar,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Pengajuan&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;anggaran operasional &amp;amp; pengadaan&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="FOKBJQo4ouNcA8nMOo10-136" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-135" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" value="&lt;span&gt;Data Tagihan F&amp;amp;B,&amp;nbsp;&lt;/span&gt;Data Pembayaran F&amp;amp;B,&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Pengajuan&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;anggaran operasional &amp;amp; pengadaan&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.3201" y="-1" as="geometry">
             <mxPoint x="5" y="-6" as="offset" />
           </mxGeometry>
@@ -5806,7 +5806,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-41" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="50" width="180" x="210" y="230" as="geometry" />
+          <mxGeometry height="50" width="180" x="170" y="230" as="geometry" />
         </mxCell>
         <mxCell id="FOKBJQo4ouNcA8nMOo10-42" connectable="0" parent="FOKBJQo4ouNcA8nMOo10-41" style="group" value="" vertex="1">
           <mxGeometry height="50" width="150" x="30" as="geometry" />
