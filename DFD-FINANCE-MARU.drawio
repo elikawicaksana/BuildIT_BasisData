@@ -5897,7 +5897,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N_IM_-h9ry1DVIcUPLfv" name="Diagram Konteks - 2">
-    <mxGraphModel dx="1400" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1307" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8098,7 +8098,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="R1Z5nHdqnRul10rsJEyJ" name="Page-12">
-    <mxGraphModel dx="2800" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2178" dy="1222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8187,7 +8187,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5bd8--XbpHaKQVuh_n_4-24" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="170" x="1230" y="980.5" as="geometry" />
+          <mxGeometry height="40" width="170" x="1270" y="982.5" as="geometry" />
         </mxCell>
         <mxCell id="5bd8--XbpHaKQVuh_n_4-25" edge="1" parent="5bd8--XbpHaKQVuh_n_4-24" source="5bd8--XbpHaKQVuh_n_4-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
