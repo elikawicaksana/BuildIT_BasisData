@@ -10711,7 +10711,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of DFD LVL 1-Hutang" id="WHQ4FnyiUA3zYEevbhhY">
-    <mxGraphModel dx="1702" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2632" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="B3WfjnzC6VNuwucPoodD-0" />
         <mxCell id="B3WfjnzC6VNuwucPoodD-1" parent="B3WfjnzC6VNuwucPoodD-0" />
@@ -10992,7 +10992,7 @@
         <mxCell id="B3WfjnzC6VNuwucPoodD-71" parent="B3WfjnzC6VNuwucPoodD-70" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;" value="" vertex="1">
           <mxGeometry height="40" width="180" as="geometry" />
         </mxCell>
-        <mxCell id="B3WfjnzC6VNuwucPoodD-72" parent="B3WfjnzC6VNuwucPoodD-70" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" value="Proses 2.0&amp;nbsp;&lt;div&gt;Manajemen Kas &amp;amp; Bank&lt;/div&gt;" vertex="1">
+        <mxCell id="B3WfjnzC6VNuwucPoodD-72" parent="B3WfjnzC6VNuwucPoodD-70" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" value="Proses 6.0&amp;nbsp;&lt;div&gt;Manajemen Kas &amp;amp; Bank&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="150" x="15" as="geometry" />
         </mxCell>
         <mxCell id="B3WfjnzC6VNuwucPoodD-73" edge="1" parent="B3WfjnzC6VNuwucPoodD-1" source="B3WfjnzC6VNuwucPoodD-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.536;exitY=0.983;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;exitPerimeter=0;" target="B3WfjnzC6VNuwucPoodD-11">
@@ -11140,7 +11140,7 @@
         <mxCell id="B3WfjnzC6VNuwucPoodD-102" parent="B3WfjnzC6VNuwucPoodD-101" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;" value="" vertex="1">
           <mxGeometry height="40" width="180" as="geometry" />
         </mxCell>
-        <mxCell id="B3WfjnzC6VNuwucPoodD-103" parent="B3WfjnzC6VNuwucPoodD-101" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" value="&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;Proses 7.0&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;Manajemen Anggaran&lt;/span&gt;" vertex="1">
+        <mxCell id="B3WfjnzC6VNuwucPoodD-103" parent="B3WfjnzC6VNuwucPoodD-101" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" value="&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;Proses 2.0&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;Manajemen Anggaran&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="140" x="20" as="geometry" />
         </mxCell>
         <mxCell id="B3WfjnzC6VNuwucPoodD-104" edge="1" parent="B3WfjnzC6VNuwucPoodD-1" source="B3WfjnzC6VNuwucPoodD-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.159;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;" target="B3WfjnzC6VNuwucPoodD-7">
