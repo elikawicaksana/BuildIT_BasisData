@@ -9912,7 +9912,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of DFD LVL 1-Piutang" id="7DquZgZ_OLr9aN1zoJvQ">
-    <mxGraphModel dx="2632" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1702" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="sLi7p22yl1Eh_d3AfL4c-0" />
         <mxCell id="sLi7p22yl1Eh_d3AfL4c-1" parent="sLi7p22yl1Eh_d3AfL4c-0" />
@@ -9982,8 +9982,8 @@
         <mxCell id="sLi7p22yl1Eh_d3AfL4c-19" parent="sLi7p22yl1Eh_d3AfL4c-18" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;" value="" vertex="1">
           <mxGeometry height="40" width="180" x="-30" as="geometry" />
         </mxCell>
-        <mxCell id="sLi7p22yl1Eh_d3AfL4c-20" parent="sLi7p22yl1Eh_d3AfL4c-18" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" value="Front Office" vertex="1">
-          <mxGeometry height="30" width="90" x="15" y="5" as="geometry" />
+        <mxCell id="sLi7p22yl1Eh_d3AfL4c-20" parent="sLi7p22yl1Eh_d3AfL4c-18" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" value="Modul Front Office" vertex="1">
+          <mxGeometry height="30" width="120" y="5" as="geometry" />
         </mxCell>
         <mxCell id="sLi7p22yl1Eh_d3AfL4c-22" connectable="0" parent="sLi7p22yl1Eh_d3AfL4c-1" style="group" value="" vertex="1">
           <mxGeometry height="40" width="170" x="680" y="110.5" as="geometry" />
@@ -10093,8 +10093,8 @@
         <mxCell id="sLi7p22yl1Eh_d3AfL4c-47" parent="sLi7p22yl1Eh_d3AfL4c-46" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bbdefb;" value="" vertex="1">
           <mxGeometry height="40" width="180" x="-30" as="geometry" />
         </mxCell>
-        <mxCell id="sLi7p22yl1Eh_d3AfL4c-48" parent="sLi7p22yl1Eh_d3AfL4c-46" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" value="Restaurant" vertex="1">
-          <mxGeometry height="30" width="80" x="20" y="5" as="geometry" />
+        <mxCell id="sLi7p22yl1Eh_d3AfL4c-48" parent="sLi7p22yl1Eh_d3AfL4c-46" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" value="Modul Restaurant" vertex="1">
+          <mxGeometry height="30" width="120" y="5" as="geometry" />
         </mxCell>
         <mxCell id="sLi7p22yl1Eh_d3AfL4c-50" connectable="0" parent="sLi7p22yl1Eh_d3AfL4c-1" style="group" value="" vertex="1">
           <mxGeometry height="50" width="180" x="-110" y="420" as="geometry" />
@@ -10105,7 +10105,7 @@
         <mxCell id="sLi7p22yl1Eh_d3AfL4c-52" parent="sLi7p22yl1Eh_d3AfL4c-51" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;" value="" vertex="1">
           <mxGeometry height="40" width="180" x="-30" as="geometry" />
         </mxCell>
-        <mxCell id="sLi7p22yl1Eh_d3AfL4c-53" parent="sLi7p22yl1Eh_d3AfL4c-51" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" value="Proses 5.0&amp;nbsp;&lt;div&gt;Manajemen Kas &amp;amp; Bank&lt;/div&gt;" vertex="1">
+        <mxCell id="sLi7p22yl1Eh_d3AfL4c-53" parent="sLi7p22yl1Eh_d3AfL4c-51" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" value="Proses 6.0&amp;nbsp;&lt;div&gt;Manajemen Kas &amp;amp; Bank&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="150" x="-15" as="geometry" />
         </mxCell>
         <mxCell id="sLi7p22yl1Eh_d3AfL4c-54" edge="1" parent="sLi7p22yl1Eh_d3AfL4c-1" source="sLi7p22yl1Eh_d3AfL4c-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="sLi7p22yl1Eh_d3AfL4c-11">
