@@ -9912,14 +9912,14 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of DFD LVL 1-Piutang" id="7DquZgZ_OLr9aN1zoJvQ">
-    <mxGraphModel dx="1882" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1353" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="sLi7p22yl1Eh_d3AfL4c-0" />
         <mxCell id="sLi7p22yl1Eh_d3AfL4c-1" parent="sLi7p22yl1Eh_d3AfL4c-0" />
         <mxCell id="sLi7p22yl1Eh_d3AfL4c-2" connectable="0" parent="sLi7p22yl1Eh_d3AfL4c-1" style="group" value="" vertex="1">
           <mxGeometry height="85" width="200" x="300" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="sLi7p22yl1Eh_d3AfL4c-3" parent="sLi7p22yl1Eh_d3AfL4c-2" style="swimlane;whiteSpace=wrap;html=1;fillColor=#bbdefb;rounded=1;container=0;" value="2.1" vertex="1">
+        <mxCell id="sLi7p22yl1Eh_d3AfL4c-3" parent="sLi7p22yl1Eh_d3AfL4c-2" style="swimlane;whiteSpace=wrap;html=1;fillColor=#bbdefb;rounded=1;container=0;" value="4.1" vertex="1">
           <mxGeometry height="80" width="200" as="geometry" />
         </mxCell>
         <mxCell id="sLi7p22yl1Eh_d3AfL4c-4" parent="sLi7p22yl1Eh_d3AfL4c-2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" value="&lt;div style=&quot;line-height: 19px; white-space-collapse: preserve;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;Perekapan Data Piutang&lt;/div&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;WEB&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
@@ -9934,7 +9934,7 @@
         <mxCell id="sLi7p22yl1Eh_d3AfL4c-6" connectable="0" parent="sLi7p22yl1Eh_d3AfL4c-1" style="group" value="" vertex="1">
           <mxGeometry height="85" width="200" x="300" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="sLi7p22yl1Eh_d3AfL4c-7" parent="sLi7p22yl1Eh_d3AfL4c-6" style="swimlane;whiteSpace=wrap;html=1;fillColor=#bbdefb;rounded=1;container=0;" value="2.2" vertex="1">
+        <mxCell id="sLi7p22yl1Eh_d3AfL4c-7" parent="sLi7p22yl1Eh_d3AfL4c-6" style="swimlane;whiteSpace=wrap;html=1;fillColor=#bbdefb;rounded=1;container=0;" value="4.2" vertex="1">
           <mxGeometry height="80" width="200" as="geometry" />
         </mxCell>
         <mxCell id="sLi7p22yl1Eh_d3AfL4c-8" parent="sLi7p22yl1Eh_d3AfL4c-6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" value="&lt;div style=&quot;line-height: 19px; white-space-collapse: preserve;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;Penerbitan Penagihan (Invoicing)&lt;/div&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;WEB&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
@@ -9949,7 +9949,7 @@
         <mxCell id="sLi7p22yl1Eh_d3AfL4c-10" connectable="0" parent="sLi7p22yl1Eh_d3AfL4c-1" style="group" value="" vertex="1">
           <mxGeometry height="85" width="200" x="300" y="400" as="geometry" />
         </mxCell>
-        <mxCell id="sLi7p22yl1Eh_d3AfL4c-11" parent="sLi7p22yl1Eh_d3AfL4c-10" style="swimlane;whiteSpace=wrap;html=1;fillColor=#bbdefb;rounded=1;container=0;" value="2.3" vertex="1">
+        <mxCell id="sLi7p22yl1Eh_d3AfL4c-11" parent="sLi7p22yl1Eh_d3AfL4c-10" style="swimlane;whiteSpace=wrap;html=1;fillColor=#bbdefb;rounded=1;container=0;" value="4.3" vertex="1">
           <mxGeometry height="80" width="200" as="geometry" />
         </mxCell>
         <mxCell id="sLi7p22yl1Eh_d3AfL4c-12" parent="sLi7p22yl1Eh_d3AfL4c-10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" value="&lt;div style=&quot;line-height: 19px; white-space-collapse: preserve;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;Pengecekan Penerimaan Dana&lt;/div&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;WEB&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
@@ -9964,7 +9964,7 @@
         <mxCell id="sLi7p22yl1Eh_d3AfL4c-14" connectable="0" parent="sLi7p22yl1Eh_d3AfL4c-1" style="group" value="" vertex="1">
           <mxGeometry height="85" width="200" x="300" y="550" as="geometry" />
         </mxCell>
-        <mxCell id="sLi7p22yl1Eh_d3AfL4c-15" parent="sLi7p22yl1Eh_d3AfL4c-14" style="swimlane;whiteSpace=wrap;html=1;fillColor=#bbdefb;rounded=1;container=0;" value="2.4" vertex="1">
+        <mxCell id="sLi7p22yl1Eh_d3AfL4c-15" parent="sLi7p22yl1Eh_d3AfL4c-14" style="swimlane;whiteSpace=wrap;html=1;fillColor=#bbdefb;rounded=1;container=0;" value="4.4" vertex="1">
           <mxGeometry height="80" width="200" as="geometry" />
         </mxCell>
         <mxCell id="sLi7p22yl1Eh_d3AfL4c-16" parent="sLi7p22yl1Eh_d3AfL4c-14" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;Pembaruan Status Piutang&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;white-space-collapse: preserve; line-height: 19px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;white-space-collapse: preserve; line-height: 19px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;WEB&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
