@@ -1651,7 +1651,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Izm4lot-Vc_EHCNIEhkJ" name="SOP Manajemen Master Data">
-    <mxGraphModel dx="1032" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="726" dy="407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1660,13 +1660,19 @@
             <mxRectangle height="30" width="210" x="140" y="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BTV9qmQSkOibdEZxNFB6-27" parent="BTV9qmQSkOibdEZxNFB6-1" style="swimlane;html=1;startSize=20;" value="Kepala Unit Pemohon" vertex="1">
+        <mxCell id="BTV9qmQSkOibdEZxNFB6-27" parent="BTV9qmQSkOibdEZxNFB6-1" style="swimlane;html=1;startSize=20;" value="Chief Accountant" vertex="1">
           <mxGeometry height="1000" width="200" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oPn4670SojoW73lBkH4B-6" edge="1" parent="BTV9qmQSkOibdEZxNFB6-27" source="oPn4670SojoW73lBkH4B-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="oPn4670SojoW73lBkH4B-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oPn4670SojoW73lBkH4B-1" parent="BTV9qmQSkOibdEZxNFB6-27" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=10;align=center;horizontal=1;spacing=0;" value="start" vertex="1">
           <mxGeometry height="50" width="80" x="60" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="BTV9qmQSkOibdEZxNFB6-28" parent="BTV9qmQSkOibdEZxNFB6-1" style="swimlane;html=1;startSize=20;" value="Kepala Inventory" vertex="1">
+        <mxCell id="oPn4670SojoW73lBkH4B-5" parent="BTV9qmQSkOibdEZxNFB6-27" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Menginput Data&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Parameter Keuangan&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&amp;amp; Aturan Sistem&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="40" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="BTV9qmQSkOibdEZxNFB6-28" parent="BTV9qmQSkOibdEZxNFB6-1" style="swimlane;html=1;startSize=20;" value="Sistem" vertex="1">
           <mxGeometry height="1000" width="200" x="200" y="20" as="geometry">
             <mxRectangle height="810" width="40" x="490" y="20" as="alternateBounds" />
           </mxGeometry>
