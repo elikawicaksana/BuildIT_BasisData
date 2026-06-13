@@ -1651,17 +1651,17 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Izm4lot-Vc_EHCNIEhkJ" name="SOP Manajemen Master Data">
-    <mxGraphModel dx="726" dy="407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2800" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BTV9qmQSkOibdEZxNFB6-1" parent="1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" value="SOP Manajemen Master Data" vertex="1">
-          <mxGeometry height="1020" width="400" x="470" y="310" as="geometry">
+          <mxGeometry height="620" width="400" x="470" y="310" as="geometry">
             <mxRectangle height="30" width="210" x="140" y="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BTV9qmQSkOibdEZxNFB6-27" parent="BTV9qmQSkOibdEZxNFB6-1" style="swimlane;html=1;startSize=20;" value="Chief Accountant" vertex="1">
-          <mxGeometry height="1000" width="200" y="20" as="geometry" />
+          <mxGeometry height="600" width="200" y="20" as="geometry" />
         </mxCell>
         <mxCell id="oPn4670SojoW73lBkH4B-6" edge="1" parent="BTV9qmQSkOibdEZxNFB6-27" source="oPn4670SojoW73lBkH4B-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="oPn4670SojoW73lBkH4B-5">
           <mxGeometry relative="1" as="geometry" />
@@ -1672,19 +1672,56 @@
         <mxCell id="oPn4670SojoW73lBkH4B-5" parent="BTV9qmQSkOibdEZxNFB6-27" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Menginput Data&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Parameter Keuangan&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&amp;amp; Aturan Sistem&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="120" x="40" y="130" as="geometry" />
         </mxCell>
+        <mxCell id="3ZRjSf37HhW5sc54wcSD-3" parent="BTV9qmQSkOibdEZxNFB6-27" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="" vertex="1">
+          <mxGeometry height="50" width="120" x="40" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="oPn4670SojoW73lBkH4B-8" edge="1" parent="BTV9qmQSkOibdEZxNFB6-1" source="oPn4670SojoW73lBkH4B-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="oPn4670SojoW73lBkH4B-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZRjSf37HhW5sc54wcSD-4" edge="1" parent="BTV9qmQSkOibdEZxNFB6-1" source="3ZRjSf37HhW5sc54wcSD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="3ZRjSf37HhW5sc54wcSD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZRjSf37HhW5sc54wcSD-5" connectable="0" parent="3ZRjSf37HhW5sc54wcSD-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Tidak" vertex="1">
+          <mxGeometry relative="1" x="-0.6483" y="-3" as="geometry">
+            <mxPoint x="-14" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BTV9qmQSkOibdEZxNFB6-28" parent="BTV9qmQSkOibdEZxNFB6-1" style="swimlane;html=1;startSize=20;" value="Sistem" vertex="1">
-          <mxGeometry height="1000" width="200" x="200" y="20" as="geometry">
+          <mxGeometry height="600" width="200" x="200" y="20" as="geometry">
             <mxRectangle height="810" width="40" x="490" y="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oPn4670SojoW73lBkH4B-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Input Data Tagihan&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Belum Terbayar&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="120" x="300" y="570" as="geometry" />
+        <mxCell id="3ZRjSf37HhW5sc54wcSD-2" edge="1" parent="BTV9qmQSkOibdEZxNFB6-28" source="oPn4670SojoW73lBkH4B-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="3ZRjSf37HhW5sc54wcSD-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oPn4670SojoW73lBkH4B-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="Terbitkan &amp;amp; Kirim Invoice ke Pihak Eksternal" vertex="1">
-          <mxGeometry height="50" width="120" x="300" y="690" as="geometry" />
+        <mxCell id="oPn4670SojoW73lBkH4B-7" parent="BTV9qmQSkOibdEZxNFB6-28" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="Menerima &amp;amp; Memvalidasi Struktur Data" vertex="1">
+          <mxGeometry height="50" width="120" x="40" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="oPn4670SojoW73lBkH4B-4" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=10;align=center;horizontal=1;spacing=0;" value="end" vertex="1">
-          <mxGeometry height="50" width="80" x="320" y="1160" as="geometry" />
+        <mxCell id="3ZRjSf37HhW5sc54wcSD-7" edge="1" parent="BTV9qmQSkOibdEZxNFB6-28" source="3ZRjSf37HhW5sc54wcSD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="3ZRjSf37HhW5sc54wcSD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZRjSf37HhW5sc54wcSD-8" connectable="0" parent="3ZRjSf37HhW5sc54wcSD-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ya" vertex="1">
+          <mxGeometry relative="1" x="-0.5295" as="geometry">
+            <mxPoint y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ZRjSf37HhW5sc54wcSD-1" parent="BTV9qmQSkOibdEZxNFB6-28" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" value="Data Lolos&amp;nbsp;&lt;div&gt;Validasi?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="100" x="50" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZRjSf37HhW5sc54wcSD-10" edge="1" parent="BTV9qmQSkOibdEZxNFB6-28" source="3ZRjSf37HhW5sc54wcSD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="3ZRjSf37HhW5sc54wcSD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZRjSf37HhW5sc54wcSD-6" parent="BTV9qmQSkOibdEZxNFB6-28" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="Mengunci Catatan Master Data Terintegrasi" vertex="1">
+          <mxGeometry height="50" width="120" x="40" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZRjSf37HhW5sc54wcSD-11" edge="1" parent="BTV9qmQSkOibdEZxNFB6-28" source="3ZRjSf37HhW5sc54wcSD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="oPn4670SojoW73lBkH4B-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZRjSf37HhW5sc54wcSD-9" parent="BTV9qmQSkOibdEZxNFB6-28" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=7;strokeWidth=1;fontSize=10;" value="Menyimpan Data ke Dalam Database" vertex="1">
+          <mxGeometry height="50" width="120" x="40" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="oPn4670SojoW73lBkH4B-4" parent="BTV9qmQSkOibdEZxNFB6-28" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=10;align=center;horizontal=1;spacing=0;" value="end" vertex="1">
+          <mxGeometry height="50" width="80" x="60" y="520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
